@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Listening as Cultural Technique '
-permalink: /_output_documents/Camlot_2021_ENGL_604B_2_-_(Literary)_Listening_as_Cultural_Technique_SYLLABUS_Fall_2022.html
+permalink: /SWDemo/output_documents/Camlot_2021_ENGL_604B_2_-_(Literary)_Listening_as_Cultural_Technique_SYLLABUS_Fall_2022.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca

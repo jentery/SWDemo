@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Critical Listening Journal
-permalink: /_output_documents/The_Critical_Listening_Journal_-_Initial_Questions.html
+permalink: /SWDemo/output_documents/The_Critical_Listening_Journal_-_Initial_Questions.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca

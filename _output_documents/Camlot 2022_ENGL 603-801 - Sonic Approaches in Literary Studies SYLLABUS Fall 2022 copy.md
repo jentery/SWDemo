@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sonic Approaches in Literary Studies
-permalink: /_output_documents/Camlot_2022_ENGL_603-801_-_Sonic_Approaches_in_Literary_Studies_SYLLABUS_Fall_2022_copy.html
+permalink: /SWDemo/output_documents/Camlot_2022_ENGL_603-801_-_Sonic_Approaches_in_Literary_Studies_SYLLABUS_Fall_2022_copy.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca

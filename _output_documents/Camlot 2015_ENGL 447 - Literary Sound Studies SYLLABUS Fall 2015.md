@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Literary Sound Studies
-permalink: /_output_documents/Camlot_2015_ENGL_447_-_Literary_Sound_Studies_SYLLABUS_Fall_2015.html
+permalink: /SWDemo/output_documents/Camlot_2015_ENGL_447_-_Literary_Sound_Studies_SYLLABUS_Fall_2015.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca

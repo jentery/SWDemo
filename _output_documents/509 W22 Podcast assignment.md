@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Podcast Assignment
-permalink: /_output_documents/509_W22_Podcast_assignment.html
+permalink: /SWDemo/output_documents/509_W22_Podcast_assignment.html
 last_name: Wiens
 first_name: Jason
 email: jlwiens@ucalgary.ca
