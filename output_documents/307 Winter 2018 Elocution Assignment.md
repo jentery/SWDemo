@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Intepretative E-Locution
-permalink: 307 Winter 2018 Elocution Assignment
+permalink: /output_documents/307_Winter_2018_Elocution_Assignment.html
 last_name: Wiens
 first_name: Jason
 email: jlwiens@ucalgary.ca

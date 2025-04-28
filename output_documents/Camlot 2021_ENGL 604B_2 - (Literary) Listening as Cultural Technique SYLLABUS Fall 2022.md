@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: 'Listening as Cultural Technique '
-permalink: Camlot 2021_ENGL 604B_2 - (Literary) Listening as Cultural Technique SYLLABUS
-  Fall 2022
+permalink: /output_documents/Camlot_2021_ENGL_604B_2_-_(Literary)_Listening_as_Cultural_Technique_SYLLABUS_Fall_2022.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca
@@ -55,7 +54,7 @@ formulating readings, interpretations and critical definitions that help
 describe and explain what listening means within the context of "the
 literary."
 
-*[Required and "Additional" Readings]{.underline}:*
+**Required and "Additional" Readings*:*
 
 Well, this semester we've had to go 100% digital. *Required readings*
 can be found via our Moodle site either on **Course Reserve (CR)**, or
@@ -94,8 +93,8 @@ e-book editions are:
 **Novak, David and Matt Sakakeeny,** ed., *keywords in sound* (Duke
 2015) **CR**
 
-*[Sound Recordings]{.underline}:* Audio files and links to recordings
-are available via Moodle (M).
+**Sound Recordings*:* Audio files and links to recordings are available
+via Moodle (M).
 
 In addition to these recordings you will need to access and listen to
 the following audiobooks (available via Audible.ca or other vendors):
@@ -112,12 +111,12 @@ recording](https://librivox.org/a-christmas-carol-dramatic-reading-by-charles-di
 Tagaq*](https://www.audible.ca/pd/Split-Tooth-Audiobook/073523745X?qid=1598632968&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=65c74350-6dfb-47fa-85fd-1459a4762abd&pf_rd_r=QVMJFHRRACT19TWA31V8)
 (Audible Audiobook-Unabridged)
 
-*[Requirements:]{.underline}*
+Requirements:
 
 - Guided Listening Practice **20%**
 
-- Critical Annotated Bibliography (**[DUE Thursday, December
-  10^th^]{.underline})**: **20%**
+- Critical Annotated Bibliography (***DUE Thursday, December 10^th^*)**:
+  **20%**
 
 - Participation in Zoom and chat activities: This is a seminar, which
   means we will be thinking out-loud (and on the virtual page) together.
@@ -125,42 +124,41 @@ Tagaq*](https://www.audible.ca/pd/Split-Tooth-Audiobook/073523745X?qid=159863296
   and listenings, and be prepared to talk about them. For this reason,
   your participation is also calculated into the final grade. **10%.**
 
-- Cylinder Talk (**[DUE 5pm, Monday, December 7th]{.underline}**):
-  **20%**
+- Cylinder Talk (***DUE 5pm, Monday, December 7th***): **20%**
 
-- Final Paper (**[DUE Thursday, December 17^th^]{.underline}**): **30%**
+- Final Paper (***DUE Thursday, December 17^th^***): **30%**
 
-**[What the above list of requirements means]{.underline}:**
+***What the above list of requirements means*:**
 
 *Guided Listening Practice:* For most classes one or two students will
 be designated "listening practice guides" and will lead discussion in
 one assigned sound recording of the day, with the goal of directing the
 rest of the class in discussion and exploration of aspects of the texts
 according to a line of thinking, argument, or exegesis-in-progress
-developed by the guide(s), [for a period of approximately 30 (or more)
-minutes]{.underline}. These are NOT formal papers and [are not to be
-read]{.underline}, although you may refer to notes. The responsibilities
-of the listening practice guide are, 1. To *do some background
-research/exploration around the sound recording in question*, and to
-provide the other listeners in the class with some framing context about
-a) what we're listening to and b) info about the artist, work and/or
-scene of the sound recording's production. In short, the guide should
-provide some set-up context for the sound recording. 2. *Conceptualize
-and articulate some "pre-listening"* questions you have about the
-recording that you think will be interesting to share with the rest of
-us, and to explore together in conversation. These questions will guide
-our listening in particular directions and will work to shape our
-listening responses that we'll begin to express via the zoom chat
-function, while listening. 3. *Play the recording or some strategic
-selections from it.* We will all listen together and add comments to the
-chat while listening, as guided by your pre-listening questions. 4.
-*Guide discussion following our group listening,* which entails
-responding to questions and comments that arose in the chat, and
-bringing at least one concept from a reading listed on our syllabus into
-the conversation for us to consider in relation to the sounds that we've
-heard. Throughout the listening practice, I will be serving as moderator
-and will assist in keeping track of comments in the chat, playing audio
-(if you want) and participating in guiding the conversation.
+developed by the guide(s), *for a period of approximately 30 (or more)
+minutes*. These are NOT formal papers and *are not to be read*, although
+you may refer to notes. The responsibilities of the listening practice
+guide are, 1. To *do some background research/exploration around the
+sound recording in question*, and to provide the other listeners in the
+class with some framing context about a) what we're listening to and b)
+info about the artist, work and/or scene of the sound recording's
+production. In short, the guide should provide some set-up context for
+the sound recording. 2. *Conceptualize and articulate some
+"pre-listening"* questions you have about the recording that you think
+will be interesting to share with the rest of us, and to explore
+together in conversation. These questions will guide our listening in
+particular directions and will work to shape our listening responses
+that we'll begin to express via the zoom chat function, while listening.
+3. *Play the recording or some strategic selections from it.* We will
+all listen together and add comments to the chat while listening, as
+guided by your pre-listening questions. 4. *Guide discussion following
+our group listening,* which entails responding to questions and comments
+that arose in the chat, and bringing at least one concept from a reading
+listed on our syllabus into the conversation for us to consider in
+relation to the sounds that we've heard. Throughout the listening
+practice, I will be serving as moderator and will assist in keeping
+track of comments in the chat, playing audio (if you want) and
+participating in guiding the conversation.
 
 *Critical Annotated Bibliography:* In addition to completing the
 required readings, I have also developed a bibliography of 'additional
@@ -239,9 +237,9 @@ about your proposed Cylinder Talk and final paper project some time
 during the term, but no later than the week of **November
 30^th\ ^**(WEEK 13). I will post a signup sheet for zoom meetings about
 these final assignments on Moodle a few weeks before. The final paper is
-**[DUE Thursday, December 17^th^]{.underline}**.
+***DUE Thursday, December 17^th^***.
 
-*[Other relevant points of information]{.underline}*:
+Other relevant points of information:
 
 *Language*: Assignments may be completed in English or French.
 
@@ -397,16 +395,15 @@ Listening* (2018) (CR).
 
 **WEEK 13 (NOV 30): Hungry Listening**
 
-**[Content warning for this week's listening/reading of Tanya Tagaq's
-*Split Tooth*.]{.underline}** This powerful work contains vivid, indeed
-visceral accounts of sexual violence, violence, racism, abuse and other
-events that may be difficult hear and cope with. Please put your own
-self-care first. If you feel you are unable to listen to such a work,
-you do not have to, nor do you have to attend the class in which *Split
-Tooth* will be discussed. I will schedule an additional meeting to
-discuss the Dylan Robinson reading and the other Tanya Tagaq listening
-material for any students who decide not to read and listen to *Split
-Tooth*.
+***Content warning for this week's listening/reading of Tanya Tagaq's
+*Split Tooth*.*** This powerful work contains vivid, indeed visceral
+accounts of sexual violence, violence, racism, abuse and other events
+that may be difficult hear and cope with. Please put your own self-care
+first. If you feel you are unable to listen to such a work, you do not
+have to, nor do you have to attend the class in which *Split Tooth* will
+be discussed. I will schedule an additional meeting to discuss the Dylan
+Robinson reading and the other Tanya Tagaq listening material for any
+students who decide not to read and listen to *Split Tooth*.
 
 *Readings*: **Dylan Robinson,** "Introduction", "Hungry Listening",
 "Conclusion" from *Hungry Listening: Resonant Theory for Indigenous
@@ -436,5 +433,4 @@ Fiction" from *Phonopoetics: The Making of Early Literary Recordings*
 
 Listening and discussion of Cylinder Talks.
 
-**[FINAL PAPERS DUE (via email) by 5PM, Thursday, December
-17^th^]{.underline}**
+***FINAL PAPERS DUE (via email) by 5PM, Thursday, December 17^th^***

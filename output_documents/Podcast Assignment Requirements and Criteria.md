@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Shortform Podcast
-permalink: Podcast Assignment Requirements and Criteria
+permalink: /output_documents/Podcast_Assignment_Requirements_and_Criteria.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca

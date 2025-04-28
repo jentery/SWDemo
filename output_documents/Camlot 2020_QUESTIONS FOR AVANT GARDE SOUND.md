@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Questions for Avant-Garde Noise and Sound
-permalink: Camlot 2020_QUESTIONS FOR AVANT GARDE SOUND
+permalink: /output_documents/Camlot_2020_QUESTIONS_FOR_AVANT_GARDE_SOUND.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Creative Assignment
-permalink: ENGL415W Creative Assignment
+permalink: /output_documents/ENGL415W_Creative_Assignment.html
 last_name: Levy
 first_name: Michelle
 email: michelle_levy@sfu.ca

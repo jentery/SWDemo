@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: First Thoughts on Timbre
-permalink: Camlot 2019_ Listening Practice - FIRST THOUGHTS ON TIMBRE 2019
+permalink: /output_documents/Camlot_2019__Listening_Practice_-_FIRST_THOUGHTS_ON_TIMBRE_2019.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca

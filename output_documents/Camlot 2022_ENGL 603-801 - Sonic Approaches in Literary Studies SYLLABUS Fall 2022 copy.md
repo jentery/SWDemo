@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: Sonic Approaches in Literary Studies
-permalink: Camlot 2022_ENGL 603-801 - Sonic Approaches in Literary Studies SYLLABUS
-  Fall 2022 copy
+permalink: /output_documents/Camlot_2022_ENGL_603-801_-_Sonic_Approaches_in_Literary_Studies_SYLLABUS_Fall_2022_copy.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca
@@ -24,8 +23,7 @@ url: .nan
 > Office Hours: Thursday 15:00-17:00 and by appointment, held in LB
 > 685-5 Class Room: LB 646
 >
-> Email:
-> [[jason.camlot@concordia.ca]{.underline}](mailto:jason.camlot@concordia.ca)
+> Email: [*jason.camlot@concordia.ca*](mailto:jason.camlot@concordia.ca)
 >
 > This seminar is designed to explore, discuss and develop sound-focused
 > studies of literary works, events and performances in a manner that
@@ -68,7 +66,7 @@ url: .nan
 > conceptualizing, and understanding "the literary" and literary
 > cultures.
 >
-> *[Texts]{.underline}:*
+> **Texts*:*
 >
 > *Content notes for Claudia Rankine's Citizen: An American Lyric and
 > situation videos, Tanya Tagaq's Split Tooth, and Jordan Abel's Nishga:
@@ -101,11 +99,11 @@ url: .nan
 > While there are many great recent performances of the book, including
 > a multi-voice version with Derek Jacobi and a cast of established
 > British character actors, and single voice narrations by the likes of
-> Hugh Grant (!), we will listen to the ["Signature]{.underline}
-> [Performance" recorded by Tim Curry]{.underline} and released in 2010.
+> Hugh Grant (!), we will listen to the *"Signature* *Performance"
+> recorded by Tim Curry* and released in 2010.
 >
-> Tagaq, Tanya. *Split Tooth* (as read by the author) [Audiobook via
-> Audible]{.underline} or another vendor:
+> Tagaq, Tanya. *Split Tooth* (as read by the author) *Audiobook via
+> Audible* or another vendor:
 >
 > B -- You may choose to buy (available at bookstore) antin, david.
 > *talking at the boundaries* (NDP)
@@ -138,7 +136,7 @@ url: .nan
 > Dickens must be purchased from Audible or other audiobook distributors
 > and listened to in their entirety.
 >
-> *[Requirements:]{.underline}*
+> Requirements:
 
 - Guided Listening Practice 20%
 
@@ -159,13 +157,13 @@ url: .nan
 
 - Participation 10%.
 
-- Short Form Podcast (A Critical Sound Work) ([DUE 5pm, Monday, December
-  7th]{.underline}): 20%
+- Short Form Podcast (A Critical Sound Work) (*DUE 5pm, Monday, December
+  7th*): 20%
 
 - Final Paper and Slides or Long Form Podcast (DUE Thursday, December
   17th): 30%
 
-> [What the above list of requirements means]{.underline}:
+> *What the above list of requirements means*:
 >
 > *Participation:* Attendance counts as part of the participation grade,
 > as you cannot participate if you are not prepared, and present to
@@ -193,25 +191,24 @@ url: .nan
 > discussion in one sound recording assigned for that day, with the goal
 > of directing the rest of the class in exploration of aspects of the
 > texts according to a line of thinking, argument, or
-> exegesis-in-progress developed by the guide(s), [for a period of
-> approximately]{.underline} [20-30 minutes]{.underline}. These are NOT
-> formal papers and [are not to be read]{.underline}, although you may
-> refer to notes. As Listening Practice Guide your responsibilities
-> are, 1. To provide some *set-up / context* for the sound recording --
-> whatever seems important to help position us in relation to the
-> recording; 2. To *Conceptualize and articulate some "pre-listening"
-> questions* you have about the recording that you think will be
-> interesting to share with the rest of us, and to explore together in
-> conversation. These questions will guide our listening in particular
-> directions and will work to shape our listening responses that we'll
-> begin to express via the zoom chat function, while listening. 3. *Play
-> the recording or some strategic selections from it.* We will all
-> listen together and take notes and comments while listening, as guided
-> by your pre-listening questions. 4. *Guide discussion following our
-> group listening,* which entails responding to questions and comments
-> that arise after we listen, and bringing at least one concept from a
-> reading listed on our syllabus into the conversation for us to
-> consider in relation to the sounds
+> exegesis-in-progress developed by the guide(s), *for a period of
+> approximately* *20-30 minutes*. These are NOT formal papers and *are
+> not to be read*, although you may refer to notes. As Listening
+> Practice Guide your responsibilities are, 1. To provide some *set-up /
+> context* for the sound recording -- whatever seems important to help
+> position us in relation to the recording; 2. To *Conceptualize and
+> articulate some "pre-listening" questions* you have about the
+> recording that you think will be interesting to share with the rest of
+> us, and to explore together in conversation. These questions will
+> guide our listening in particular directions and will work to shape
+> our listening responses that we'll begin to express via the zoom chat
+> function, while listening. 3. *Play the recording or some strategic
+> selections from it.* We will all listen together and take notes and
+> comments while listening, as guided by your pre-listening questions.
+> 4. *Guide discussion following our group listening,* which entails
+> responding to questions and comments that arise after we listen, and
+> bringing at least one concept from a reading listed on our syllabus
+> into the conversation for us to consider in relation to the sounds
 >
 > that we've heard. Throughout the listening practice, I will be serving
 > as moderator and will assist in playing audio (if you want),
@@ -220,7 +217,7 @@ url: .nan
 > *Short Context and Analysis Assignment:* You may choose to do ONE of
 > the following assignments, each of which asks that you engage in
 > practices of contextualization and analysis. Assignments should not
-> exceed [five (5) pages]{.underline} in length.
+> exceed *five (5) pages* in length.
 
 - Critical Annotation of an Audiotext
 
@@ -239,18 +236,17 @@ url: .nan
 > like Audacity. You may go at it old school and simply listen to the
 > audiotext and manually note down the time stamps where you wish to
 > make annotations. Or, you may embark on learning how to use a tool
-> like [AudiAnnotate]{.underline} which allows you to generate a IIIF
-> manifest that displays annotations that you have previously made using
-> Audacity in an online interface. While this last example may not mean
-> anything to you, I can arrange for you to meet with an expert in
-> AudiAnnotate who can show you how it all works. You may approach the
-> content of your annotations in any number of ways, whether as
-> editorial notes that help explain and contextualize moments in the
-> recording, or as more interpretive or analytical notes that build up
-> an argument about the audiotext in selected durational intervals. This
-> assignment represents a form of critical listening. The audio
-> selection should be short enough so that your annotations do not
-> exceed 5 pages in length.
+> like *AudiAnnotate* which allows you to generate a IIIF manifest that
+> displays annotations that you have previously made using Audacity in
+> an online interface. While this last example may not mean anything to
+> you, I can arrange for you to meet with an expert in AudiAnnotate who
+> can show you how it all works. You may approach the content of your
+> annotations in any number of ways, whether as editorial notes that
+> help explain and contextualize moments in the recording, or as more
+> interpretive or analytical notes that build up an argument about the
+> audiotext in selected durational intervals. This assignment represents
+> a form of critical listening. The audio selection should be short
+> enough so that your annotations do not exceed 5 pages in length.
 
 - Audio Pedagogy Prompt and Lesson Plan
 
@@ -379,12 +375,11 @@ url: .nan
 > audio format. We will discuss this assignment at some length, in and
 > out of class, including some of the basic tools (recorder and
 > software) you will need to produce this assignment. Your podcast (and
-> script) must be completed and submitted to me using
-> *[wetransfer]{.underline}* by noon on Wednesday, December 7th. We will
-> hold a listening session and discussion of all the podcasts that
-> afternoon. Criteria I'll use to evaluate the shortform critical sound
-> work are explained in a PDF available in the "General" (first) frame
-> on the moodle site.
+> script) must be completed and submitted to me using wetransfer by noon
+> on Wednesday, December 7th. We will hold a listening session and
+> discussion of all the podcasts that afternoon. Criteria I'll use to
+> evaluate the shortform critical sound work are explained in a PDF
+> available in the "General" (first) frame on the moodle site.
 >
 > *Final Project (Two Options):*
 >
@@ -395,11 +390,11 @@ url: .nan
 > case, your final seminar paper should develop a theory or reading of a
 > cultural artifact (a work of literature, a material object, an event,
 > etc.) so that a persuasive thesis and illustration of that thesis is
-> effectively presented in a written work of [6-8 pages double
-> spaced]{.underline} (which is the typical length of a 15-20-minute
-> conference paper), [plus 2-4 slides]{.underline}. You should write
-> your paper and prepare your slides with the idea of presenting it in
-> an engaging way to a scholarly audience at a conference.
+> effectively presented in a written work of *6-8 pages double spaced*
+> (which is the typical length of a 15-20-minute conference paper),
+> *plus 2-4 slides*. You should write your paper and prepare your slides
+> with the idea of presenting it in an engaging way to a scholarly
+> audience at a conference.
 >
 > OPTION 2 -- *Final Longform Podcast* (and transcript). Like the final
 > paper, this final audio essay may emerge out of materials and concepts
@@ -412,8 +407,7 @@ url: .nan
 > presented in an audio work of 40-60 minutes in length. You
 >
 > should approach the making of this longform podcast with proposal for
-> publication to the [SpokenWeb]{.underline} [Podcast]{.underline}
-> series, in mind.
+> publication to the *SpokenWeb* *Podcast* series, in mind.
 >
 > You are invited (indeed, expected) to talk to me during office hours
 > about your proposed Shortform Podcastt and final project sometime
@@ -422,7 +416,7 @@ url: .nan
 > these final assignments a few weeks before. The final paper is DUE
 > Thursday, December 15th.
 >
-> *[Other relevant points of information]{.underline}*:
+> Other relevant points of information:
 >
 > *Language*: Assignments may be completed in English or French.
 >
@@ -453,13 +447,13 @@ url: .nan
 > Conduct* as "the presentation of the work of another as one's own or
 > without proper acknowledgement." Familiarize yourself with the Code
 > and an extended definition of plagiarism at the Student hub page
-> concerned with [Academic]{.underline} [Integrity]{.underline}. There
-> is also a GradProSkills Workshop called "Avoiding Plagiarism at the
-> Graduate Level" available to all graduate students.
+> concerned with *Academic* *Integrity*. There is also a GradProSkills
+> Workshop called "Avoiding Plagiarism at the Graduate Level" available
+> to all graduate students.
 >
 > *Term Dates and Deadlines*: For information on academic deadlines
-> (registration, DNE, DISC, etc.) consult the [Term Dates and Deadlines
-> (2020-21) page on the Student hub]{.underline}.
+> (registration, DNE, DISC, etc.) consult the *Term Dates and Deadlines
+> (2020-21) page on the Student hub*.
 >
 > ENGL 603A_801 -- Sonic Approaches in Literary Studies
 >
@@ -542,10 +536,10 @@ url: .nan
 
 - Samuel Silas Curry, from *Browning and. the Dramatic Monologue: Nature
   and Interpretation of an Overlooked Form of Literature* (browse all of
-  Part I and read [pp. 96-113]{.underline} from "VII. The Monologue as a
-  Form of Literature") (M), and from *Imagination and Dramatic Instinct:
-  Some Practical Steps for Their Development* ("Preface", "Contents",
-  "Introduction", [pp. 1-22]{.underline}) (M)
+  Part I and read *pp. 96-113* from "VII. The Monologue as a Form of
+  Literature") (M), and from *Imagination and Dramatic Instinct: Some
+  Practical Steps for Their Development* ("Preface", "Contents",
+  "Introduction", *pp. 1-22*) (M)
 
 - Deborah Kapchan, "body" (ks)
 
@@ -563,37 +557,33 @@ url: .nan
 
 - Mark Van Doren introduces, and Frank Silvera interprets, "My Last
   Duchess" from *Hearing Poetry, Volume 2, Dryden through Browning*
-  (Caedmon TC 1022, 1957): [Track 12 on]{.underline}
-  [Archive.org]{.underline}.
+  (Caedmon TC 1022, 1957): *Track 12 on* *Archive.org*.
 
 > WEEK 5 (OCT 5): The Podcast as Scholarly Form and Method
 >
 > This week, in addition to discussing materials about the podcast as a
 > form of scholarly publication, we will discuss the shortform
 > podcasting assignment and go over some digital tools and resources you
-> will require to complete the assignment. Have a look at the [SpokenWeb
-> Podcasting Resources]{.underline} page, and the Amplify podcast guide
-> written by Stacey Copeland. and Hannah McGregor, *[A Guide to
-> Academic]{.underline} [Podcasting]{.underline}*.
+> will require to complete the assignment. Have a look at the *SpokenWeb
+> Podcasting Resources* page, and the Amplify podcast guide written by
+> Stacey Copeland. and Hannah McGregor, **A Guide to Academic*
+> *Podcasting**.
 >
 > And, if you have a laptop, please download the audio software
-> [Audacity]{.underline} prior to the class and bring your laptop so we
-> can look at Audacity together.I will hold extra training sessions as
-> needed.
+> *Audacity* prior to the class and bring your laptop so we can look at
+> Audacity together.I will hold extra training sessions as needed.
 >
-> *[Readings]{.underline}:* Amanda Weidman, "Voice" (ks)
+> **Readings*:* Amanda Weidman, "Voice" (ks)
 >
-> *[Listenings]{.underline}*: Hannah McGregor and Stacey Copeland, ["Why
-> Podcast? Podcasting as Publishing, Sound-]{.underline} [Based
-> Scholarship, and Making Podcasts Count,"]{.underline} Intro and All
-> Episodes (1-3) (M). [This series of short]{.underline} [podcasts is
-> actually like the main reading of the week, so please take notes while
-> listening.]{.underline}
+> Listenings: Hannah McGregor and Stacey Copeland, *"Why Podcast?
+> Podcasting as Publishing, Sound-* *Based Scholarship, and Making
+> Podcasts Count,"* Intro and All Episodes (1-3) (M). *This series of
+> short* *podcasts is actually like the main reading of the week, so
+> please take notes while listening.*
 >
 > Please come prepared to discuss and maybe share sounds from your
 > favorite podcasts (if you have any). And listen to an episode or two
-> from the [SpokenWeb Podcast Series]{.underline} and/or [Song
-> Exploder]{.underline}.
+> from the *SpokenWeb Podcast Series* and/or *Song Exploder*.
 >
 > *Suggested:* From Dario Llinares, Neil Fox, and Richard Berry, eds.,
 > *Podcasting: New Aural Cultures and Digital Media*: Llinares, Fox, and
@@ -608,7 +598,7 @@ url: .nan
 >
 > WEEK 7 (OCT 19): Recorded Modernism and the New Criticism
 >
-> *[Readings]{.underline}*:
+> Readings:
 
 - T.S. Eliot, *The Waste Land*
 
@@ -627,7 +617,7 @@ url: .nan
 
 - Mark M. Smith, "echo" (ks)
 
-> *[Listenings]{.underline}:* T.S. Eliot, *The Waste Land* (1946) (M)
+> **Listenings*:* T.S. Eliot, *The Waste Land* (1946) (M)
 >
 > WEEK 8 (OCT 26): Situations of Race, Sound and Literature
 >
@@ -646,8 +636,8 @@ url: .nan
 >
 > WEEK 9 (NOV 3): The Caedmon Sound. Hi-Fi Midcult.
 >
-> *[Readings]{.underline}: Find your own* print versions of poems below
-> and bring them to class, where possible.
+> **Readings*: Find your own* print versions of poems below and bring
+> them to class, where possible.
 
 - Jacob Smith, "Hi-Fi Midcult" (CR)
 
@@ -656,7 +646,7 @@ url: .nan
 
 - David Samuels and Thomas Porcello, "language" (ks)
 
-> *[Listenings]{.underline}:*
+> **Listenings*:*
 
 - William Butler Yeats, \"The Lake Isle of Innisfree\" (M)
 
@@ -673,7 +663,7 @@ url: .nan
 
 > WEEK 10 (NOV 10): Forms of Talk
 >
-> *[Readings:]{.underline}*
+> Readings:
 
 - david antin, "talking at the boundaries" from *talking at the
   boundaries* (CR)
@@ -683,22 +673,21 @@ url: .nan
 
 - Stefan Heimreich, "transduction" (ks)
 
-> *[Listenings]{.underline}:* david antin, \"The Principle of Fit II\"
-> (M via PennSound).
+> **Listenings*:* david antin, \"The Principle of Fit II\" (M via
+> PennSound).
 >
 > WEEK 11 (NOV 17): Decolonial Reading / Listening
 >
-> *[Readings]{.underline}*:
+> Readings:
 
 - Jordan Abel, *Nishga*
 
 - Anna Maria Ochoa Gauthier, "silence" (ks)
 
-> *[Listenings]{.underline}*: ["Jordan Abel discussing NISHGA with host
-> Warren Cariou," presented by McClelland &]{.underline} [Stewart,
-> Penguin Random House Canada, the Winnipeg International Writers
-> Festival, and McNally]{.underline} [Robinson Booksellers (2 June
-> 2021).]{.underline}
+> Listenings: *"Jordan Abel discussing NISHGA with host Warren Cariou,"
+> presented by McClelland &* *Stewart, Penguin Random House Canada, the
+> Winnipeg International Writers Festival, and McNally* *Robinson
+> Booksellers (2 June 2021).*
 >
 > WEEK 12 (NOV 24): Decolonial Sounding / Listening
 >
@@ -712,12 +701,12 @@ url: .nan
 - If you like you can also read the print version of Tanya Tagaq, *Split
   Tooth*.
 
-> *[Listening]{.underline}:* Tanya Tagaq, *Split Tooth* (Audiobook as
-> read by the author)
+> **Listening*:* Tanya Tagaq, *Split Tooth* (Audiobook as read by the
+> author)
 >
 > WEEK 13 (NOV 30): Early Talking Books and Contemporary Audiobooks
 >
-> *[Readings:]{.underline}*
+> Readings:
 
 - Matthew Rubery, "Audio Revolution" from *The Untold Story of the
   Talking Book* (CR)
@@ -729,7 +718,7 @@ url: .nan
 
 - Patrick Feaster, phonography" (ks)
 
-> *[Listenings]{.underline}:*
+> **Listenings*:*
 
 - Charles Dickens, *A Christmas Carol* (as read by Tim Curry)
 
@@ -751,16 +740,15 @@ url: .nan
 - Bransby Williams, "A Christmas Carol---Bob Crachit Telling of Scrooge"
   (M)
 
-> [Suggested: Matthew Rubery, "How the Audiobook Got Its Groove Back,"
-> \[lecture, 22 October 2020\]]{.underline} (M via SpokenWeb)
+> *Suggested: Matthew Rubery, "How the Audiobook Got Its Groove Back,"
+> \[lecture, 22 October 2020\]* (M via SpokenWeb)
 >
 > WEEK 14 (DEC 7): Critical Audio Works Listening Party
 >
-> Please *wetranfer* \<[https://wetransfer.com/]{.underline}\> or
-> deliver by USB key your shortform critical audio work to me by
-> Wednesday, December 7th at 12pm (NOON). We will listen to the audio
-> works that you've all produced, talk about them, and have some snacks
-> while we do so.
+> Please *wetranfer* \<*https://wetransfer.com/*\> or deliver by USB key
+> your shortform critical audio work to me by Wednesday, December 7th at
+> 12pm (NOON). We will listen to the audio works that you've all
+> produced, talk about them, and have some snacks while we do so.
 >
 > FINAL PAPERS DUE (via email) by 5PM, Thursday, December 15th
 

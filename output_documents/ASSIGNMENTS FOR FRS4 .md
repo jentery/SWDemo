@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: The Art and Science of Performative Speech
-permalink: 'ASSIGNMENTS FOR FRS4 '
+permalink: /output_documents/ASSIGNMENTS_FOR_FRS4_.html
 last_name: MacArthur
 first_name: Marit
 email: mjmacarthur@ucdavis.edu
@@ -30,8 +30,7 @@ student and approved by the instructors*.* Must include a link to the
 recording, the integration of shorter clips from the recording, and
 sound visualization using Drift, and some analysis of Voxit measures.
 
-[PART 1, due by midnight on 10/5 on the Canvas Discussion
-board:]{.underline}
+*PART 1, due by midnight on 10/5 on the Canvas Discussion board:*
 
 Post links to three samples of performative speech that you might use,
 and briefly answer these questions about each one. The samples should be
@@ -46,12 +45,11 @@ impressions about the speaker's voice, as they use it in the recording?
 Please describe the voice as specifically as you can. 4) Which recording
 do you most want to analyze? Do you need help deciding among them?
 
-[Word count]{.underline}: 250-500 words.
+*Word count*: 250-500 words.
 
-[We will comment on and (likely) approve the recordings
-ASAP.]{.underline}
+*We will comment on and (likely) approve the recordings ASAP.*
 
-[PART 2, due by midnight on 10/26:]{.underline}
+*PART 2, due by midnight on 10/26:*
 
 1\) Provide some background about the sample: who is speaking? Where?
 When? Why? To what audience? Where did you find the recording and how
@@ -68,19 +66,19 @@ Please impressionistically describe the voice saying 3-4 specific
 phrases or words as precisely as you can. How does the way the speaker
 uses their voice and silence influence your understanding of the words?
 
-[Word count:]{.underline} \~500-750 words
+*Word count:* \~500-750 words
 
 4\) Formulate a series of precise, *testable hypotheses* about what you
 think the Gentle and Drift and Voxit analysis will show about the
 recording, in terms of at least four Voxit measures, WPM, and any other
 pitch and timing and intensity patterns you're interested in.
 
-[Word count]{.underline}: \~50-100 words
+*Word count*: \~50-100 words
 
-[We will comment on, and may suggest refinements to your hypothesis for
-approval, ASAP.]{.underline}
+*We will comment on, and may suggest refinements to your hypothesis for
+approval, ASAP.*
 
-[PART 3, due by the start of class on 11/18]{.underline}
+*PART 3, due by the start of class on 11/18*
 
 1\) Run the sample recording through Gentle and Drift. 2) Share results:
 Summarize all of the Voxit data, including a table. 3) Analyze and
@@ -90,7 +88,7 @@ screenshots of pitch contours from Drift. 4) Write a brief conclusion.
 What did you learn from this experiment that you might apply to future
 research?
 
-[Word count]{.underline}: 1,000\~1,500 words.
+*Word count*: 1,000\~1,500 words.
 
 **EVALUATION RUBRIC**
 
@@ -154,13 +152,13 @@ grammatical errors. (Proofread aloud!)
 Two self-recordings by each student reading the short text, "As a lost
 dog," and a brief reflection on and analysis of each recording
 
-[Part 1:]{.underline} [Due by 2 pm on 9/30]{.underline}
+*Part 1:* *Due by 2 pm on 9/30*
 
 1\) Silently read through the text a few times. Write a brief, objective
 summary of it as best you can, after reading it silently a few times.
 Don't do any research; only use a dictionary if needed.
 
-[Word count]{.underline}: 200-300 words
+*Word count*: 200-300 words
 
 2\) Then record yourself reading the text in a quiet environment (a
 closet is ideal), using Audacity on your laptop, or an app on your
@@ -168,7 +166,7 @@ phone. However you record yourself, you must be able to download the
 recording on to your laptop and, if necessary, convert it into an MP3 or
 a WAV file for analysis.
 
-[Part 2: Due by 2 pm on 10/21]{.underline}
+*Part 2: Due by 2 pm on 10/21*
 
 1\) Listen to the recording of yourself, ideally with headphones, in a
 quiet environment. 2) Reflect on your voice and how you use it reading
@@ -183,9 +181,9 @@ the text, and then listening to it, affect your understanding of the
 text, if it did? 5) When you record yourself reading it again, what will
 you try to change, if anything?
 
-[Word count:]{.underline} 250-500 words.
+*Word count:* 250-500 words.
 
-[Part 3: Due by 2 pm on 11/4]{.underline}
+*Part 3: Due by 2 pm on 11/4*
 
 1\) Record yourself reading the text again. Do NOT make this recording
 before 11/1.
@@ -197,10 +195,10 @@ speculative comparisons between the two recordings. Will the Voxit
 measures and WPM prove to be the same? If not, how do you think they
 will differ? \~50-100 words
 
-[We will comment on, and may suggest refinements to your hypothesis for
-approval, ASAP.]{.underline}
+*We will comment on, and may suggest refinements to your hypothesis for
+approval, ASAP.*
 
-[Part 4: Due by midnight on 12/8]{.underline}
+*Part 4: Due by midnight on 12/8*
 
 4\) Run the first recording sample recording through Gentle and Drift.
 2) Share results: Summarize all of the Voxit data, including a table. 3)
@@ -326,9 +324,9 @@ Gentle, Drift and Voxit to analyze the recording in question.
 
 **Brief Reflection on EJS performance, Freedom of Speech**
 
-[Word count]{.underline}: \~500 words
+*Word count*: \~500 words
 
-[Due at 2 pm on 12/2 as a Canvas Discussion Post:]{.underline}
+*Due at 2 pm on 12/2 as a Canvas Discussion Post:*
 
 1\) Provide a brief, objective summary of the content of the
 performance. Avoid quoting more than a few words.

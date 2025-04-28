@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Literature and the Audiotext
-permalink: Camlot 2000_ENGL - Literature and the Audiotext SYLLABUS Fall 2000
+permalink: /output_documents/Camlot_2000_ENGL_-_Literature_and_the_Audiotext_SYLLABUS_Fall_2000.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Literary Soundings
-permalink: Camlot 2005_ENGL 603 - Literary Soundings SYLLABUS Fall 2005
+permalink: /output_documents/Camlot_2005_ENGL_603_-_Literary_Soundings_SYLLABUS_Fall_2005.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca
@@ -49,7 +49,7 @@ also study an array of literary works that themselves thematize the oral
 (i.e. those of Du Maurier, Shaw, Beckett, etc.), thus giving written
 literature its own \"voice\" upon the subject of our seminar.
 
-*[Required Texts]{.underline}:*
+**Required Texts*:*
 
 *Literary Soundings (Print)* (Course Pack, Available for Copying in
 English Department Office)
@@ -69,7 +69,7 @@ T.S. Eliot, *The Wasteland and Other Poems* (Faber)
 
 Samuel Beckett, *Krapp's Last Tape* (Faber)
 
-*[Recommended Texts]{.underline} (For Sale in Concordia Bookstore)*
+**Recommended Texts* (For Sale in Concordia Bookstore)*
 
 Walter J. Ong, *Orality and Literacy* (Routledge)
 
@@ -79,7 +79,7 @@ John Picker, *Victorian Soundscapes* (Oxford)
 
 Jonathan Sterne, *The Audible Past* (Duke)
 
-*[Requirements:]{.underline}*
+Requirements:
 
 - Seminar-Leading (Oral Presentation) **20%**
 
@@ -93,15 +93,14 @@ Jonathan Sterne, *The Audible Past* (Duke)
   participation is also calculated into the final grade. Participation
   **10%.**
 
-- Power Papers: On TUESDAY [December 6^th^]{.underline} we will have a
-  roundtable of miniature power papers. You will each have exactly 5
-  MINUTES (no going over) to present (in whatever form you like)
-  [one]{.underline} insight you have had during the semester about "the
-  sound of literature." I'll explain more about what this will entail as
-  the date approaches. Your power paper will count for **10%** of your
-  grade.
+- Power Papers: On TUESDAY *December 6^th^* we will have a roundtable of
+  miniature power papers. You will each have exactly 5 MINUTES (no going
+  over) to present (in whatever form you like) *one* insight you have
+  had during the semester about "the sound of literature." I'll explain
+  more about what this will entail as the date approaches. Your power
+  paper will count for **10%** of your grade.
 
-**[What the above list of requirements means]{.underline}:**
+***What the above list of requirements means*:**
 
 *Seminar Leading:* For each class one or two students will be designated
 "seminar leaders" and will be required to lead discussion in
@@ -109,22 +108,22 @@ readings/recordings of the day (primary, secondary or both, as you
 decide) with the goal of directing the rest of the class in discussion
 and exploration of aspects of the readings according to a line of
 thinking, argument, or exegesis-in-progress developed by the leader(s).
-These are not formal papers and [are not to be read]{.underline},
-although you may work from notes. The leader will be required to
-distribute to the class a handout (one page, or so) of the key points
-and issues that will be touched upon. This handout may also include
-quotations from the readings as a means of focusing our work together.
-You are [required]{.underline} to include on this handout [at least
-three]{.underline} formally posed questions and/or formulated theses to
-test out on the class. In your presentation, you will call our attention
-to these questions/theses, elaborate a bit upon how you arrived at them,
-and then work to solicit response from your peers. The attention of the
-seminar leader should be on the readings and listenings we have done for
-class, and your seminar leading should not be overly dependent upon
-other sources (although your might use outside sources as a means of
-framing a question or thesis). Think of this as an exercise in pedagogy
-as well as an exercise in criticism. Think about what will work to
-invite participation or discussion in a seminar context.
+These are not formal papers and *are not to be read*, although you may
+work from notes. The leader will be required to distribute to the class
+a handout (one page, or so) of the key points and issues that will be
+touched upon. This handout may also include quotations from the readings
+as a means of focusing our work together. You are *required* to include
+on this handout *at least three* formally posed questions and/or
+formulated theses to test out on the class. In your presentation, you
+will call our attention to these questions/theses, elaborate a bit upon
+how you arrived at them, and then work to solicit response from your
+peers. The attention of the seminar leader should be on the readings and
+listenings we have done for class, and your seminar leading should not
+be overly dependent upon other sources (although your might use outside
+sources as a means of framing a question or thesis). Think of this as an
+exercise in pedagogy as well as an exercise in criticism. Think about
+what will work to invite participation or discussion in a seminar
+context.
 
 *Critical Listening Journal:* The journal should involve several
 things: 1) Basic responses to the recorded materials, in terms of
@@ -149,30 +148,30 @@ brain-storm on the page, with the ultimate goal of determining the
 questions you\'re most interested in asking, and which you\'ll attempt
 to answer, through research and thought, in your seminar paper. (In
 addition to the kind of exploration I have just described, at least
-[two]{.underline} of your journal entries should be devoted to the
-following listening and written recording exercise, designed along the
-lines of the *soundwalk* as R. Murray Schafer describes it in the
-"Listening" chapter of *The Soundscape*: You should prepare yourself
-(clean your ears), and then take a deliberate soundwalk, wherever you
-please. You may or may not bring a sound recording device with you on
-this walk. Then you should sit down and write about it. The initial
-writing can be descriptive, narrative, analytical, probably some
-combination of all of these. But the culmination of this sound walk will
-be a short *poem*. Yes, a poem. What do I mean by poem? Well, that's a
-key part of this exercise, which is designed to have you think about the
-relationship between the two words in the title of this course: Literary
-& Sounding.) Apart from this specific assignment, the journal is open to
-whatever questions seem important to you. A long list of the kinds of
-questions you should be asking yourself in these journals---based upon
-ideas generated in the first class---will be distributed in WEEK 2.
+*two* of your journal entries should be devoted to the following
+listening and written recording exercise, designed along the lines of
+the *soundwalk* as R. Murray Schafer describes it in the "Listening"
+chapter of *The Soundscape*: You should prepare yourself (clean your
+ears), and then take a deliberate soundwalk, wherever you please. You
+may or may not bring a sound recording device with you on this walk.
+Then you should sit down and write about it. The initial writing can be
+descriptive, narrative, analytical, probably some combination of all of
+these. But the culmination of this sound walk will be a short *poem*.
+Yes, a poem. What do I mean by poem? Well, that's a key part of this
+exercise, which is designed to have you think about the relationship
+between the two words in the title of this course: Literary & Sounding.)
+Apart from this specific assignment, the journal is open to whatever
+questions seem important to you. A long list of the kinds of questions
+you should be asking yourself in these journals---based upon ideas
+generated in the first class---will be distributed in WEEK 2.
 
 *Final Seminar Paper:* This may, or may not, emerge out of materials you
 examined in your journal, or oral presentation. You will have to come
 talk to me about it some time during the term, but no later than the
 week of **November 30^th^**. It is up to you to come talk to me about
-your essay ideas. The final paper is **[DUE 4PM, Thursday, December
-15^th^]{.underline}** . I will not grant "In Progress" grades, so be
-sure to get your work in on time.
+your essay ideas. The final paper is ***DUE 4PM, Thursday, December
+15^th^*** . I will not grant "In Progress" grades, so be sure to get
+your work in on time.
 
 **The Critical Listening Journal**
 
@@ -184,8 +183,7 @@ implicit in the reading of the poem?
 
 \--Does the performance of the poem corroborate or challenge actual
 theories attributed to the poet (for example, is Eliot\'s theory of
-disinterestedness present in his delivery of [The
-Wasteland]{.underline})?
+disinterestedness present in his delivery of *The Wasteland*)?
 
 \--Are spoken word performances automatically dialogical (in a Romantic
 sense, then, antithetical to \'lyric\' expression)?
@@ -307,120 +305,116 @@ books within publishing industry?
 \--Develop ideas towards a psychology of listening/voice, a
 phenomenology, a materialist history, an aesthetics, etc.
 
-**[\
-]{.underline}*ENGL 603/2---Literary Soundings***
+***\
+**ENGL 603/2---Literary Soundings***
 
 ***WEEKLY SCHEDULE***
 
 WEEK 1 (SEPT 7): *Introduction. First Listening*.
 
-*[Readings]{.underline}:* Handout---**Alfred Tennyson,** "The Charge of
-the Light Brigade", and selected quotes on voice.
+**Readings*:* Handout---**Alfred Tennyson,** "The Charge of the Light
+Brigade", and selected quotes on voice.
 
-*[Recordings]{.underline}*: "The Charge of the Light Brigade" as read by
-**Alfred Tennyson, Lewis Waller, Canon Fleming, and Henry Ainley.**
+Recordings: "The Charge of the Light Brigade" as read by **Alfred
+Tennyson, Lewis Waller, Canon Fleming, and Henry Ainley.**
 
 WEEK 2 (SEPT 14): *Theorizing Technology: Sound, Print, and Other Media*
 
-*[Readings]{.underline}*: **Walter J. Ong,** \"Introduction\" and
-\"Writing Restructures Consciousness\" from *Orality and Literacy* (CR);
-**Christian Metz,** "Aural Objects" (CR); **Friedrich Kittler,**
-\"Introduction\", from *Gramophone, Film Typewriter* (CR); **Sven
-Birkerts,** \"Close Listening: The Metaphysics of Reading an Audio Book"
-(CR); **Steve Connor,** "What I Say Goes" from *Dumbstruck: A Cultural
-History of Ventriloquism* (CR); **Charles Bernstein,** \"Introduction\",
-from *Close Listening: Poetry and the Performed Word*; **R. Murray
-Schafer,** "Listening" from *The Soundscape: Our Sonic Environment and
-the Tuning of the World* (CR)
+Readings: **Walter J. Ong,** \"Introduction\" and \"Writing Restructures
+Consciousness\" from *Orality and Literacy* (CR); **Christian Metz,**
+"Aural Objects" (CR); **Friedrich Kittler,** \"Introduction\", from
+*Gramophone, Film Typewriter* (CR); **Sven Birkerts,** \"Close
+Listening: The Metaphysics of Reading an Audio Book" (CR); **Steve
+Connor,** "What I Say Goes" from *Dumbstruck: A Cultural History of
+Ventriloquism* (CR); **Charles Bernstein,** \"Introduction\", from
+*Close Listening: Poetry and the Performed Word*; **R. Murray Schafer,**
+"Listening" from *The Soundscape: Our Sonic Environment and the Tuning
+of the World* (CR)
 
 WEEK 3 (SEPT 21): *Reading Technology Into Things: Sometimes A Voice
 Without a Body is Just a...*
 
-*[Readings]{.underline}*: Week 2 readings, continued; PLUS: **Joseph
-Conrad,** *Heart of Darkness*; **Ivan Kreilcamp,** "A Voice Without A
-Body: The Phonographic Logic of *Heart of Darkness*" (CR); **Jonathan
-Sterne**, "*HELLO!"* from *The Audible Past: Cultural Origins of Sound
-Reproduction* (CR)
+Readings: Week 2 readings, continued; PLUS: **Joseph Conrad,** *Heart of
+Darkness*; **Ivan Kreilcamp,** "A Voice Without A Body: The Phonographic
+Logic of *Heart of Darkness*" (CR); **Jonathan Sterne**, "*HELLO!"* from
+*The Audible Past: Cultural Origins of Sound Reproduction* (CR)
 
 WEEK 4 (SEPT 28): *The Voice of the Phonograph, circa 1900.*
 
-*[Recordings]{.underline}:* Incunabula of recorded sound: **Alfred
-Tennyson**, **Lewis Waller, Canon Fleming, Henry Ainley**, \"Charge of
-the Light Brigade\"; **Florence Nightingle**, \"Speech\"; **Trumpeter**
+**Recordings*:* Incunabula of recorded sound: **Alfred Tennyson**,
+**Lewis Waller, Canon Fleming, Henry Ainley**, \"Charge of the Light
+Brigade\"; **Florence Nightingle**, \"Speech\"; **Trumpeter**
 **Landfry**, \"Bugle Call\"; **Sir Arthur Sullivan**, \"After Dinner
 Speech\"; **P.T. Barnham,** \"Speech\", **O Henry** \"Speech\"; Edison
 House: \"Big Ben\", Berliner\'s First German Recording: \"Martial
 Band\", **Len Spencer,** "I Am The Edison Phonograph"; **Horatio Nelson
 Powers,** "The Phonograph's Salutation". Commercial Recitations:
 **Russell Hunting,** "Casey at the Telephone"; **Joe Hayman**, "Cohen on
-the Telephone". *[Readings]{.underline}:* **Thomas Edison,** \"The
-Phonograph and its Future\" (1878) (CR); **J. Mount Bleyer,** \"Living
-Autograms\" (CR); **Edward Bellamy,** \"With the Eyes Shut\" (1889)
-(CR); Selections from Recitation Scrap-Books: from **H.M. Soper*,
-****Scrap Book Recitation Series* 1 & 3, **J.E. Frobisher,** *Good
-Selections* 2 (CR); **Lisa Gitelman**, "Souvenir Foils: On the Status of
-Print at the Origin of Recorded Sound" (CR); **Jason Camlot, "**Early
-Talking Books: Spoken Recordings and Recitation Anthologies, 1880-1920"
-(CR).
+the Telephone". **Readings*:* **Thomas Edison,** \"The Phonograph and
+its Future\" (1878) (CR); **J. Mount Bleyer,** \"Living Autograms\"
+(CR); **Edward Bellamy,** \"With the Eyes Shut\" (1889) (CR); Selections
+from Recitation Scrap-Books: from **H.M. Soper*, ****Scrap Book
+Recitation Series* 1 & 3, **J.E. Frobisher,** *Good Selections* 2 (CR);
+**Lisa Gitelman**, "Souvenir Foils: On the Status of Print at the Origin
+of Recorded Sound" (CR); **Jason Camlot, "**Early Talking Books: Spoken
+Recordings and Recitation Anthologies, 1880-1920" (CR).
 
 WEEK 5 (OCT 5): *Sound Adaptations*
 
-*[Recordings]{.underline}:* **Herbert Beerbohm Tree**, "Svengali"; **Len
-Spencer**, "Jeckyll & Hyde"; **Bransby Williams**, "Dream Scene from
-*The Bells*" (Take 1), "Dream Scene from *The Bells*" (Alternate Take).
-*[Readings]{.underline}:* **George Du Maurier,** *Trilby*
+**Recordings*:* **Herbert Beerbohm Tree**, "Svengali"; **Len Spencer**,
+"Jeckyll & Hyde"; **Bransby Williams**, "Dream Scene from *The Bells*"
+(Take 1), "Dream Scene from *The Bells*" (Alternate Take). **Readings*:*
+**George Du Maurier,** *Trilby*
 
 WEEK 6 (OCT 12): *Late Victorian Phonography & The Phonograph*
 
-*[Recordings]{.underline}:* **George Bernard Shaw,** Spoken and Broken
-English (Sound Recording). *[Readings]{.underline}:* **George Bernard
-Shaw,** *Pygmalion*
+**Recordings*:* **George Bernard Shaw,** Spoken and Broken English
+(Sound Recording). **Readings*:* **George Bernard Shaw,** *Pygmalion*
 
 WEEK 7 (OCT 19): *Recorded Modernism and the New Criticism*
 
-*[Recordings]{.underline}:* **T.S. Eliot,** *The Waste Land* (1946).
-*[Readings]{.underline}:* **T.S. Eliot,** *The Waste Land*; **I.A.
-Richards,** *from Principles of Literary Criticism* (CR), **William
-Empson,** *from* *Seven Types of Ambiguity* (CR), **Cleanth Brooks,**
-\"*The Waste Land*: Critique of the Myth\" (CR); **Juan A. Suárez,** "T.
-S. Eliot's The Waste Land, the Gramophone, and the Modernist Discourse
-Network" (CR)
+**Recordings*:* **T.S. Eliot,** *The Waste Land* (1946). **Readings*:*
+**T.S. Eliot,** *The Waste Land*; **I.A. Richards,** *from Principles of
+Literary Criticism* (CR), **William Empson,** *from* *Seven Types of
+Ambiguity* (CR), **Cleanth Brooks,** \"*The Waste Land*: Critique of the
+Myth\" (CR); **Juan A. Suárez,** "T. S. Eliot's The Waste Land, the
+Gramophone, and the Modernist Discourse Network" (CR)
 
 WEEK 8 (OCT 26): NO CLASS.
 
 WEEK 9 (NOV 2): *Speaking Verse*
 
-*[Recordings]{.underline}:* **T.S. Eliot,** *The Waste Land* (1946), "A
-Game of Chess" (various takes, 1935); **Robert Spaeight,** "A Game of
-Chess" (19\--). *[Readings]{.underline}:* **T.S. Eliot,** *The Waste
-Land*; **James Stephens,** "On Speaking Verse" (1937) (CR); **Selections
-from *The Listener*** \[print transcripts of a BBC roundtable discussion
-titled "Well Versed" that aired in 1941\]: "How Should Poetry be Read?",
-"Must Poetry Make Sense?", "Is Verse-Speaking a Lost Art?", "Does it
-Stick in the Throat?" (CR); **Austin Clarke,** "Verse Speaking" (1947);
-**Yvor Winters,** "The Audible Reading of Poetry" (CR); **Seamus
-Heaney,** "The Power of T.S. Eliot" (CR); **Mark Morrisson,**
-"Performing the Pure Voice" (CR)
+**Recordings*:* **T.S. Eliot,** *The Waste Land* (1946), "A Game of
+Chess" (various takes, 1935); **Robert Spaeight,** "A Game of Chess"
+(19\--). **Readings*:* **T.S. Eliot,** *The Waste Land*; **James
+Stephens,** "On Speaking Verse" (1937) (CR); **Selections from *The
+Listener*** \[print transcripts of a BBC roundtable discussion titled
+"Well Versed" that aired in 1941\]: "How Should Poetry be Read?", "Must
+Poetry Make Sense?", "Is Verse-Speaking a Lost Art?", "Does it Stick in
+the Throat?" (CR); **Austin Clarke,** "Verse Speaking" (1947); **Yvor
+Winters,** "The Audible Reading of Poetry" (CR); **Seamus Heaney,** "The
+Power of T.S. Eliot" (CR); **Mark Morrisson,** "Performing the Pure
+Voice" (CR)
 
-***[CRITICAL LISTENING JOURNALS DUE]{.underline}, Wednesday November
-9^th^, In Class.***
+****CRITICAL LISTENING JOURNALS DUE*, Wednesday November 9^th^, In
+Class.***
 
 WEEK 10 (NOV 9): *Close Listening* \[For this class, everyone should
 have prepared notes towards a 'close listening' of one recordings listed
 below to share in class\]
 
-*[Recordings]{.underline}:* **William Butler Yeats,** \"Innisfree\";
-**Gertrude Stein,** \"If I Told Him (A Completed Portrait of Picasso)\";
-**Ezra Pound,** \"Moeurs Contemporaines\"; **Dylan Thomas,** \"Fern
-Hill\"; **W.C. Williams,** \"The Red Wheelbarrow\"; **Lanston Hughes,**
-\"The Ballad of a Gipsy\"; **Sylvia Plath,** \"Daddy\"; **Amiri
-Baraka,** \"Bang, Bang Outishly\". *[Readings]{.underline}:* Print
-versions of poems above (CR), plus: **Charles Bernstein,**
-\"Introduction\", from *Close Listening: Poetry and the Performed Word*;
-**Donald G. Godfrey,** \"The Critical Analysis of Spoken Word
-Broadcasts\" (CR); **J.C. La Drière**, "Prosody" from *Princeton
-Encyclopedia of Poetry and Poetics* (CR); **R. Murray Schafer,**
-"Notation", "Classification", from *The Soundscape* (CR)
+**Recordings*:* **William Butler Yeats,** \"Innisfree\"; **Gertrude
+Stein,** \"If I Told Him (A Completed Portrait of Picasso)\"; **Ezra
+Pound,** \"Moeurs Contemporaines\"; **Dylan Thomas,** \"Fern Hill\";
+**W.C. Williams,** \"The Red Wheelbarrow\"; **Lanston Hughes,** \"The
+Ballad of a Gipsy\"; **Sylvia Plath,** \"Daddy\"; **Amiri Baraka,**
+\"Bang, Bang Outishly\". **Readings*:* Print versions of poems above
+(CR), plus: **Charles Bernstein,** \"Introduction\", from *Close
+Listening: Poetry and the Performed Word*; **Donald G. Godfrey,** \"The
+Critical Analysis of Spoken Word Broadcasts\" (CR); **J.C. La Drière**,
+"Prosody" from *Princeton Encyclopedia of Poetry and Poetics* (CR); **R.
+Murray Schafer,** "Notation", "Classification", from *The Soundscape*
+(CR)
 
 WEEK 11 (NOV 16): *Memory Tape Subjectivity*
 
@@ -435,35 +429,33 @@ States: Innovative Poetics and Acoustical Technologies* (CR).
 
 WEEK 12 (NOV 23): *The Beats Breath & The Bea(s)ts Speak*
 
-*[Recordings]{.underline}*: **Allen Ginsberg**, \"A Mad Gleam\", \"A
-Supermarket in California\", \"Howl (For Carl Solomon)\", "Footnote to
-Howl", \"America\"; **Michael McClure**, *from Ghost Tantras*.
-*[Readings]{.underline}:* **Michael McClure**, from *Ghost Tantras*
-(CR); **Charles Olson,** \"PROJECTIVE VERSE\" (CR); **Allen Ginsberg,**
-"Meditation and Poetics"; **Douglas Kahn**, \"Cruelty and the Beast:
-Antonin Artaud and Michael McClure\" (CR).
+Recordings: **Allen Ginsberg**, \"A Mad Gleam\", \"A Supermarket in
+California\", \"Howl (For Carl Solomon)\", "Footnote to Howl",
+\"America\"; **Michael McClure**, *from Ghost Tantras*. **Readings*:*
+**Michael McClure**, from *Ghost Tantras* (CR); **Charles Olson,**
+\"PROJECTIVE VERSE\" (CR); **Allen Ginsberg,** "Meditation and Poetics";
+**Douglas Kahn**, \"Cruelty and the Beast: Antonin Artaud and Michael
+McClure\" (CR).
 
 WEEK 13 (NOV 30)
 
 Class A- 6:00-8:15pm: *Talking the Talk*
 
-*[Recordings]{.underline}:* **David Antin**, \"The Principle of Fit
-II\". *[Readings]{.underline}* **Bob Perelman,** \"Speech Effects: The
-Talk as a Genre\" from *Close Listening*; **David Antin,** \"a private
-occasion in a public place\" (CR)
+**Recordings*:* **David Antin**, \"The Principle of Fit II\". Readings
+**Bob Perelman,** \"Speech Effects: The Talk as a Genre\" from *Close
+Listening*; **David Antin,** \"a private occasion in a public place\"
+(CR)
 
 Class B- 8:30-10:00pm: *Poetry Readings &\"Spoken Word\"*
 
-*[Live Readings]{.underline}:* Catherine Kidd. *[Print
-Readings]{.underline}:* **Peter Middleton**, \"The Contemporary Poetry
-Reading\" from *Close Listening*, **Maria Damon,** \"Was That
-\'Different,\' \'Dissident\' or \'Dissonant\'? Poetry (n) the Public
-Spear: Slams, Open Readings, and Dissident Traditions.\" from *Close
-Listening*
+**Live Readings*:* Catherine Kidd. **Print Readings*:* **Peter
+Middleton**, \"The Contemporary Poetry Reading\" from *Close Listening*,
+**Maria Damon,** \"Was That \'Different,\' \'Dissident\' or
+\'Dissonant\'? Poetry (n) the Public Spear: Slams, Open Readings, and
+Dissident Traditions.\" from *Close Listening*
 
 Week 15 (**Tuesday** DEC 6) *Just Listen to Yourself!* *A Round Table of
 Power Papers on the Sound of Literature*. I will try to secure a larger
 classroom for this day. Location TBA.
 
-***[FINAL PAPERS DUE: Thursday, DECEMBER 15, 4pm, LB
-501]{.underline}*.**
+**FINAL PAPERS DUE: Thursday, DECEMBER 15, 4pm, LB 501.**

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: AVAnnotate
-permalink: AVAnnotate
+permalink: /output_documents/AVAnnotate.html
 last_name: Clement
 first_name: Tanya
 email: tclement@utexas.edu
@@ -18,15 +18,15 @@ url: https://av-annotate.org/
 
 **150 word introduction:**
 
-[[AVAnnotate]{.underline}](https://av-annotate.org/) allows users to
-build digital exhibits of annotated audiovisual (AV) artifacts.
-AVAnnotate leverages public code and document repositories (GitHub),
-IIIF (International Interoperable Image Framework) framework, and the
-AVAnnotate web application to create and share IIIF manifests and
-user-generated annotations of audio and video materials (Clement et
-al.). Tanya Clement, Brumfield Labs, and Performant Solutions developed
-for educators and scholars to enhance the usability and discoverability
-of AV materials, making it an excellent tool for both research and
+[*AVAnnotate*](https://av-annotate.org/) allows users to build digital
+exhibits of annotated audiovisual (AV) artifacts. AVAnnotate leverages
+public code and document repositories (GitHub), IIIF (International
+Interoperable Image Framework) framework, and the AVAnnotate web
+application to create and share IIIF manifests and user-generated
+annotations of audio and video materials (Clement et al.). Tanya
+Clement, Brumfield Labs, and Performant Solutions developed for
+educators and scholars to enhance the usability and discoverability of
+AV materials, making it an excellent tool for both research and
 classroom use. This contribution is targeted towards first-year writing
 instructors, but may be adapted by any educator seeking methods for
 teaching students how to critically engage multimodal texts and
@@ -118,14 +118,14 @@ teach students how to critically analyze and engage audiovisual texts,
 and 2) offer students a structure for multimodal composing methods via
 the AVAnnotate software.
 
-This lesson plan is based around an [[example AVAnnotate
-project]{.underline}](https://hipstas.github.io/spokenweb-pedagogy-sample/)
-that we developed to showcase different methods of annotation that
-teachers and students may be interested in utilizing and applying. The
-sample AVAnnotate project we share here was developed using the 2022
-SpokenWeb reading and discussion featuring UAlberta Writer in Residence
-Ifeoma Chinwuba and Edmonton Poet Laureate Titilope Sonuga, however, it
-is important to note that the annotation methods we showcase in this
+This lesson plan is based around an [*example AVAnnotate
+project*](https://hipstas.github.io/spokenweb-pedagogy-sample/) that we
+developed to showcase different methods of annotation that teachers and
+students may be interested in utilizing and applying. The sample
+AVAnnotate project we share here was developed using the 2022 SpokenWeb
+reading and discussion featuring UAlberta Writer in Residence Ifeoma
+Chinwuba and Edmonton Poet Laureate Titilope Sonuga, however, it is
+important to note that the annotation methods we showcase in this
 project can be applied to any audio and visual materials that teachers
 and students are interested in engaging. We developed this lesson plan
 assuming that instructors and students have already been primed to the
@@ -154,7 +154,7 @@ Students will...
   - Students will generate annotations of a multimodal text using
     either a) the sample audio provided in the AVAnnotate project, or b)
     other audiovisual material at
-    [[https://ualberta.aviaryplatform.com/collections/1783]{.underline}](https://ualberta.aviaryplatform.com/collections/1783),
+    [*https://ualberta.aviaryplatform.com/collections/1783*](https://ualberta.aviaryplatform.com/collections/1783),
     institutional holdings, or online archives.
 
 - Break students into groups of 4-5, depending on class size. Each
@@ -162,8 +162,8 @@ Students will...
   meaning each student in the group will collaboratively annotate the
   same individual object
 
-- Discuss the [[AVAnnotate
-  templates]{.underline}](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
+- Discuss the [*AVAnnotate
+  templates*](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
   students will be using during this lesson
 
 - Questions students should be able to answer before annotating (Step
@@ -202,11 +202,11 @@ Students will...
     - Your course's topic/themes
 
 - Give groups \~30 minutes to develop their new annotations using the
-  [[AVAnnotate
-  templates]{.underline}](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
+  [*AVAnnotate
+  templates*](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
 
-  - Refer students to [[AVAnnotate\'s
-    documentation]{.underline}](https://hipstas.github.io/ava_docs/docs/HowtoUse.html)
+  - Refer students to [*AVAnnotate\'s
+    documentation*](https://hipstas.github.io/ava_docs/docs/HowtoUse.html)
     for guidance on how to use basic AVAnnotate functions, including
     tags, time stamps and annotations
 
@@ -226,8 +226,8 @@ Students will...
     time; tag; annotation feature; etc.)
 
 - Finally, students will develop their annotations utilizing the
-  provided [[AVAnnotate
-  templates]{.underline}](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
+  provided [*AVAnnotate
+  templates*](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
 
 **3. Reflection**
 
@@ -250,8 +250,8 @@ Students will...
 
 - While there isn't enough time in a 50-minute period to complete a
   project, there are instructions online that students can refer to. See
-  the [[AVAnnotate "How to Use"
-  page]{.underline}](https://av-annotate.org/how-to-use/).
+  the [*AVAnnotate "How to Use"
+  page*](https://av-annotate.org/how-to-use/).
 
 - The basic outline of this can be communicated at the end of the class:
 

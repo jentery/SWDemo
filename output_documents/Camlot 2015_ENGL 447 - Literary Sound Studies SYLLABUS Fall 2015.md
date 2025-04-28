@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Literary Sound Studies
-permalink: Camlot 2015_ENGL 447 - Literary Sound Studies SYLLABUS Fall 2015
+permalink: /output_documents/Camlot_2015_ENGL_447_-_Literary_Sound_Studies_SYLLABUS_Fall_2015.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca
@@ -63,7 +63,7 @@ voice, sound and audio media (i.e. those of Du Maurier, Shaw, Beckett,
 etc.), thus giving written literature its own \"voice\" upon the subject
 of our seminar.
 
-*[Required Texts]{.underline}:*
+**Required Texts*:*
 
 Jonathan Sterne, ed. *The Sound Studies Reader* (2012) **SS**
 
@@ -83,16 +83,16 @@ david antin, *Talking* (Kulchur 1972 / Dalkey Archive, 2001)
 
 <http://writing.upenn.edu/pennsound/x/Antin.php>
 
-*[Sound Recordings]{.underline}: Audio files and links to recordings are
-available via our Moodle site.*
+**Sound Recordings*: Audio files and links to recordings are available
+via our Moodle site.*
 
-*[Recommended Texts]{.underline} (For Sale in Concordia Bookstore)*
+**Recommended Texts* (For Sale in Concordia Bookstore)*
 
 Charles Bernstein, Ed., *Close Listening* (Oxford UP, 1998)
 
 \<http://dss-edit.com/prof-anon/sound/library/Bernstein_Close-Listening.pdf\>
 
-*[Requirements:]{.underline}*
+Requirements:
 
 - Seminar-Piloting **20%**
 
@@ -106,37 +106,36 @@ Charles Bernstein, Ed., *Close Listening* (Oxford UP, 1998)
   participation is also calculated into the final grade.
   Participation**10%.**
 
-- Cylinder Talks: On TUESDAY [December 1st]{.underline} we will have a
-  roundtable of short talks---that is, wax cylinder length talks about
-  your final project. You will each have exactly 3 MINUTES (the length
-  of an Edison wax cylinder) to present the main idea you are interested
-  in exploring in your final project, and to provide one example of how
-  you will go about exploring or illustrating that idea. I'll explain
-  more about what this will entail as the date approaches. Your Cylinder
-  Talk will count for **10%** of your grade.
+- Cylinder Talks: On TUESDAY *December 1st* we will have a roundtable of
+  short talks---that is, wax cylinder length talks about your final
+  project. You will each have exactly 3 MINUTES (the length of an Edison
+  wax cylinder) to present the main idea you are interested in exploring
+  in your final project, and to provide one example of how you will go
+  about exploring or illustrating that idea. I'll explain more about
+  what this will entail as the date approaches. Your Cylinder Talk will
+  count for **10%** of your grade.
 
-**[What the above list of requirements means]{.underline}:**
+***What the above list of requirements means*:**
 
 *Seminar Piloting:* For each class one or two students will be
 designated "seminar pilots" and will be required to lead discussion in
 one reading/recording of the day (primary, secondary, as you decide)
 with the goal of directing the rest of the class in discussion and
 exploration of aspects of the texts according to a line of thinking,
-argument, or exegesis-in-progress developed by the leader(s), [for a
-period of approximately 20 minutes]{.underline}. These are not formal
-papers and [are not to be read]{.underline}, although you may work from
-notes. The leader will be required to distribute to the class a handout
-(maximum one page single spaced) of the key points and issues that will
-be touched upon. This handout may also include quotations from the
-readings as a means of focusing our work together. You are
-[required]{.underline} to include on this handout at least [one formally
-posed question and one formulated thesis]{.underline} to test out on the
-class. In your piloting, you will call our attention to these
-questions/theses, elaborate a bit upon how you arrived at them, and then
-work to solicit responses from your peers. The attention of the seminar
-pilot should be on the readings and listenings we have done for class,
-and your seminar piloting should not be dependent upon other sources
-(although your might use outside sources as a means of framing a
+argument, or exegesis-in-progress developed by the leader(s), *for a
+period of approximately 20 minutes*. These are not formal papers and
+*are not to be read*, although you may work from notes. The leader will
+be required to distribute to the class a handout (maximum one page
+single spaced) of the key points and issues that will be touched upon.
+This handout may also include quotations from the readings as a means of
+focusing our work together. You are *required* to include on this
+handout at least *one formally posed question and one formulated thesis*
+to test out on the class. In your piloting, you will call our attention
+to these questions/theses, elaborate a bit upon how you arrived at them,
+and then work to solicit responses from your peers. The attention of the
+seminar pilot should be on the readings and listenings we have done for
+class, and your seminar piloting should not be dependent upon other
+sources (although your might use outside sources as a means of framing a
 question or thesis). Think of this as an exercise in pedagogy as well as
 an exercise in criticism. Think about what will work to invite
 participation or discussion in a seminar context. Be organized,
@@ -168,18 +167,17 @@ for recording the audible. You can bring the recordings or readings to
 bear on any number of literary or critical works you have already
 encountered (in your previous studies), or simply work with the
 materials for this course as a contained unit. You can expand the range
-of materials you listen to as much as you like. [The questions and
+of materials you listen to as much as you like. *The questions and
 answers you pursue in your journal should, however, ultimately lead to
-the development of a more specific, research paper]{.underline}. So
-think of it as an opportunity to experiment on the page with the
-ultimate goal of determining the questions you\'re most interested in
-asking, questions you will attempt to answer, through more extensive
-research and thought, in your final seminar project. In short, the
-notebook is open to whatever questions seem most important to you. Try
-to be as focused as possible in your lines of inquiry. A long list of
-the kinds of questions you may be asking yourself in these
-journals---based upon ideas generated in our first class together---will
-be distributed in WEEK 2.
+the development of a more specific, research paper*. So think of it as
+an opportunity to experiment on the page with the ultimate goal of
+determining the questions you\'re most interested in asking, questions
+you will attempt to answer, through more extensive research and thought,
+in your final seminar project. In short, the notebook is open to
+whatever questions seem most important to you. Try to be as focused as
+possible in your lines of inquiry. A long list of the kinds of questions
+you may be asking yourself in these journals---based upon ideas
+generated in our first class together---will be distributed in WEEK 2.
 
 *Participation:* Attendance counts as part of the participation grade,
 as you cannot participate if you are not present. Come to class prepared
@@ -225,11 +223,11 @@ have to come talk to me about your proposed project some time during the
 term, but no later than the week of **November 30^th^**. It is up to you
 to come talk to me about your essay ideas, and to hand in a 1-page
 précis or outline of your idea. Sign up sheets will be available on my
-office door. The final paper is **[DUE at 4PM, Friday, December
-11^th^]{.underline}** . I will not be inclined to grant "In Progress"
-grades, so be sure to get your work in on time.
+office door. The final paper is ***DUE at 4PM, Friday, December
+11^th^*** . I will not be inclined to grant "In Progress" grades, so be
+sure to get your work in on time.
 
-*[Other relevant points of information]{.underline}*:
+Other relevant points of information:
 
 *Language*: Writing assignments may be completed in English or French.
 
@@ -259,10 +257,10 @@ WEEK 1 (SEPT 8): *Introductions (including tour de table); Review of
 Syllabus and Requirements; "What is Literary Theory?"; First Reading and
 Listening Exercises*; *Close Listening Notebook Brainstorming Session.*
 
-*[Recordings]{.underline}*: **Basil Rathbone,** reading "The Bells" by
-Edgar Allen Poe; **Allen Ginsberg,** "A Mad Gleam"; **Michael McClure,**
-"Ghost Tantra 71"; **William S. Burroughs,** "The Last Words of Hassan
-Sabbah"; **C.D. Wright,** excerpt from Master Class at Concordia 2013.
+Recordings: **Basil Rathbone,** reading "The Bells" by Edgar Allen Poe;
+**Allen Ginsberg,** "A Mad Gleam"; **Michael McClure,** "Ghost Tantra
+71"; **William S. Burroughs,** "The Last Words of Hassan Sabbah"; **C.D.
+Wright,** excerpt from Master Class at Concordia 2013.
 
 NOTE: Lachine Canal Audiowalk, September 10, 12-1:30pm:
 
@@ -275,8 +273,8 @@ Point St. Charles Audiowalk, September 11, 12-1:30pm:
 WEEK 2 (SEPT 15): *Theories and Methodologies: Sound, Print, and Other
 Media*
 
-*[Readings]{.underline}:* **Don Ihde,** "The Auditory Dimension" (SS);
-**R. Murray Schafer,** "The Soundscape" (SS); **Charles Bernstein,**
+**Readings*:* **Don Ihde,** "The Auditory Dimension" (SS); **R. Murray
+Schafer,** "The Soundscape" (SS); **Charles Bernstein,**
 \"Introduction\", from *Close Listening: Poetry and the Performed Word*
 (CR/M)
 
@@ -284,21 +282,21 @@ Media*
 (CR/M); **Michel Chion**, "The Three Listening Modes" (SS); **Craig
 Dworkin,** *A Handbook of Protocols for Literary Listening* (M)
 
-*[Recordings]{.underline}:* TBA. ALSO: *You will sign up for Seminar
-Piloting this week.*
+**Recordings*:* TBA. ALSO: *You will sign up for Seminar Piloting this
+week.*
 
 WEEK 3 (SEPT 22): *Early Recordings: The Voice of the Phonograph, circa
 1900.*
 
-*[Recordings]{.underline}:* **Horatio Nelson Powers,** "The Phonograph's
+**Recordings*:* **Horatio Nelson Powers,** "The Phonograph's
 Salutation"; "The Charge of the Light Brigade" as read by **Alfred
 Tennyson, Lewis Waller, Canon Fleming, Henry Ainley and Rose Coughlin**;
 **Len Spencer,** "I Am The Edison Phonograph"; **Russell Hunting,**
 "Casey at the Telephone"; **Joe Hayman**, "Cohen on the Telephone".
 
-*[Readings]{.underline}:* **Thomas Edison,** \"The Phonograph and its
-Future\" (1878) (M); **Lisa Gitelman,** "The Phonograph's New Media
-Publics" (SS); **Friedrich Kittler,** "Gramphone" (SS)
+**Readings*:* **Thomas Edison,** \"The Phonograph and its Future\"
+(1878) (M); **Lisa Gitelman,** "The Phonograph's New Media Publics"
+(SS); **Friedrich Kittler,** "Gramphone" (SS)
 
 (NOTE: SEPT 25 6-8:30pm. Homecoming Dramatic Readings of Mordecai
 Richler:
@@ -306,13 +304,13 @@ Richler:
 
 WEEK 4 (SEPT 29): *Phonographic Reading and Sound Adaptations*
 
-*[Recordings]{.underline}:* **Herbert Beerbohm Tree**, "Svengali"; **Len
-Spencer**, "Jeckyll & Hyde"; **Bransby Williams**, "Dream Scene from
-*The Bells*" (Take 1)
+**Recordings*:* **Herbert Beerbohm Tree**, "Svengali"; **Len Spencer**,
+"Jeckyll & Hyde"; **Bransby Williams**, "Dream Scene from *The Bells*"
+(Take 1)
 
-*[Readings]{.underline}:* **George Du Maurier,** *Trilby*; **John Durham
-Peters,** "The Telephonic Uncanny and the Problem of Communication"
-(SS); **Roland Barthes,** "The Grain of the Voice" (SS)
+**Readings*:* **George Du Maurier,** *Trilby*; **John Durham Peters,**
+"The Telephonic Uncanny and the Problem of Communication" (SS); **Roland
+Barthes,** "The Grain of the Voice" (SS)
 
 NOTE: October 1, Irish poet Paula Meehan reads at Concordia:
 
@@ -320,23 +318,23 @@ NOTE: October 1, Irish poet Paula Meehan reads at Concordia:
 
 WEEK 5 (OCT 6): *Phonographic Drama*
 
-*[Recordings]{.underline}:* **George Bernard Shaw,** Spoken and Broken
-English (London Linguaphone Institute 1927).
+**Recordings*:* **George Bernard Shaw,** Spoken and Broken English
+(London Linguaphone Institute 1927).
 
-*[Readings]{.underline}:* **George Bernard Shaw,** *Pygmalion*; **Mladen
-Dolar,** "The Linguistics of the Voice" (SS)
+**Readings*:* **George Bernard Shaw,** *Pygmalion*; **Mladen Dolar,**
+"The Linguistics of the Voice" (SS)
 
 WEEK 6 (OCT 13): *Recorded Modernism and the New Criticism*
 
-*[Recordings]{.underline}:* **T.S. Eliot,** *The Waste Land* (Library of
-Congress 1946); "A Game of Chess" (alternate unreleased take, 1935);
-"The Three Voices of Poetry" (National Book League Annual Lecture,
-1956); **Robert Spaeight,** "A Game of Chess" (Spoken Arts, 1956).
+**Recordings*:* **T.S. Eliot,** *The Waste Land* (Library of Congress
+1946); "A Game of Chess" (alternate unreleased take, 1935); "The Three
+Voices of Poetry" (National Book League Annual Lecture, 1956); **Robert
+Spaeight,** "A Game of Chess" (Spoken Arts, 1956).
 
-*[Readings]{.underline}:* **T.S. Eliot,** *The Waste Land*, the poem,
-plus readings by I. A. Richards, F.R. Leavis, and Cleanth Brooks in the
-"Criticism" section of the Norton Critical Edition; **Adriana
-Cavarero,** "Multiple Voices" (SS).
+**Readings*:* **T.S. Eliot,** *The Waste Land*, the poem, plus readings
+by I. A. Richards, F.R. Leavis, and Cleanth Brooks in the "Criticism"
+section of the Norton Critical Edition; **Adriana Cavarero,** "Multiple
+Voices" (SS).
 
 WEEK 7 (OCT 20): *Caedmon. Hi-Fi Midcult.*
 
@@ -344,7 +342,7 @@ WEEK 7 (OCT 20): *Caedmon. Hi-Fi Midcult.*
 prepare notes towards a 'close listening' of one recordings listed below
 to share in class, and to hand in to me, max. 1 page.\]
 
-*[Recordings]{.underline}:* **William Butler Yeats,** \"The Lake Isle of
+**Recordings*:* **William Butler Yeats,** \"The Lake Isle of
 Innisfree\"; **Ezra Pound,** \"Moeurs Contemporaines\"; **Gertrude
 Stein,** \"If I Told Him (A Completed Portrait of Picasso)\"; **Dylan
 Thomas,** \"Fern Hill\"; "Do Not Go Gentle to That Good Night"; **Robert
@@ -353,39 +351,37 @@ Penn Warren,** "Sirocco"; "**e.e. Cummings,** "If everything that
 happens can't be done"; **Joseph Brodsky,** "Nature Morte"; **Sylvia
 Plath,** "The Thin People".
 
-*[Readings]{.underline}:* *Find your own* print versions of poems above
-and bring them to class, where possible, plus, **Jacob Smith,** "Hi Fi
-Mid-Cult" from *Spoken Word* (CR/M);
+**Readings*:* *Find your own* print versions of poems above and bring
+them to class, where possible, plus, **Jacob Smith,** "Hi Fi Mid-Cult"
+from *Spoken Word* (CR/M);
 
 WEEK 8 (OCT 26): *Def Poetry*
 
-*[Viewing]{.underline}: The Fresh Prince of Bel-Air*, "Def Poet's
-Society", Season 1, Ep. 7, 23 mins.
+**Viewing*: The Fresh Prince of Bel-Air*, "Def Poet's Society", Season
+1, Ep. 7, 23 mins.
 
-*[Recordings]{.underline}:* **Tennyson, Waller, Fleming, Ainley,** "The
-Charge of the Light Brigade"; **Sylvia Plath,** "Daddy", **Amiri
-Baraka,** "Three Modes of History and Culture", from a reading at the
-Asilomar Negro Writers Conference, Pacific Grove, CA, 1964, Track 14 (at
-Pennsound); "Black Art"; \"Kongo Bells\"; **Vachel Lindsay,** "The Congo
--- complete reading", item #10; **Jack Kerouac,** "American Haikus";
-**Ice Cube,** "AmerikKKA's Most Wanted"; "Turn Off the Radio"'; **Will
-Smith and DJ Jazzy Jeff**, "Parents Just Don't Understand"
+**Recordings*:* **Tennyson, Waller, Fleming, Ainley,** "The Charge of
+the Light Brigade"; **Sylvia Plath,** "Daddy", **Amiri Baraka,** "Three
+Modes of History and Culture", from a reading at the Asilomar Negro
+Writers Conference, Pacific Grove, CA, 1964, Track 14 (at Pennsound);
+"Black Art"; \"Kongo Bells\"; **Vachel Lindsay,** "The Congo -- complete
+reading", item #10; **Jack Kerouac,** "American Haikus"; **Ice Cube,**
+"AmerikKKA's Most Wanted"; "Turn Off the Radio"'; **Will Smith and DJ
+Jazzy Jeff**, "Parents Just Don't Understand"
 
-*[Readings]{.underline}:* **Sylvia Plath,** "Daddy" (M); **Amiri
-Baraka,** "Three Modes of History and Culture"; "Black Art" (M);
-**Vachel Lindsay,** "The Congo" (M); **Brandon LaBelle**, "Auditory
-Relations" (SS)
+**Readings*:* **Sylvia Plath,** "Daddy" (M); **Amiri Baraka,** "Three
+Modes of History and Culture"; "Black Art" (M); **Vachel Lindsay,** "The
+Congo" (M); **Brandon LaBelle**, "Auditory Relations" (SS)
 
 WEEK 9 (NOV 3): *The Reading Series: SpokenWeb*
 
-*[Recordings]{.underline}*: Listen to the following recordings from the
-Sir George Williams Poetry Series available at \<
-<http://spokenweb.org>\> under the SGW Reading Series link (M): **Robert
-Creeley** (1967); **Irving Layton** (1967); **Robert Creeley** (1970);
-**Allen Ginsberg** (1969); **Jackson Mac Low** (1971); **Margaret
-Atwood** (1974)
+Recordings: Listen to the following recordings from the Sir George
+Williams Poetry Series available at \< <http://spokenweb.org>\> under
+the SGW Reading Series link (M): **Robert Creeley** (1967); **Irving
+Layton** (1967); **Robert Creeley** (1970); **Allen Ginsberg** (1969);
+**Jackson Mac Low** (1971); **Margaret Atwood** (1974)
 
-*[Readings]{.underline}:* From the special issue of *Amodern* 4 \<
+**Readings*:* From the special issue of *Amodern* 4 \<
 <http://amodern.net>\> read: **Jason Camlot and Christine Mitchell,**
 "The Poetry Series" (M); **Jason Camlot and Darren Wershler,** "Theses
 on Discerning The Poetry Series" and familiarize yourself with the rest
@@ -393,23 +389,22 @@ of the issue (M); **Kate Crawford,** "Following You: Disciplines of
 Listening in Social Media" (SS); **Charles Bernstein,** "The PennSound
 Manifesto" (M)
 
-***[CRITICAL LISTENING JOURNALS DUE]{.underline}, Tues November 10^th^,
-In Class.***
+****CRITICAL LISTENING JOURNALS DUE*, Tues November 10^th^, In Class.***
 
 WEEK 10 (NOV 10): *Talking Book:* *Audio Fiction*
 
-*[Recordings]{.underline}:* **William Sterling Battis,** "Micawber" from
-Charles Dickens' *David Copperfield*; **Librivox Contributor** readings
-of Charles Dickens, *A Christmas Carol* (Versions 1-8, plus "Condensed
-by the Author" version)
+**Recordings*:* **William Sterling Battis,** "Micawber" from Charles
+Dickens' *David Copperfield*; **Librivox Contributor** readings of
+Charles Dickens, *A Christmas Carol* (Versions 1-8, plus "Condensed by
+the Author" version)
 
-*[Readings]{.underline}*: Sven **Birkerts,** \"Close Listening \[The
-Metaphysics of Reading an Audio Book\] (M); **Matthew Rubery,** "Canned
-Literature: The Book After Edison" (CR/M).
+Readings: Sven **Birkerts,** \"Close Listening \[The Metaphysics of
+Reading an Audio Book\] (M); **Matthew Rubery,** "Canned Literature: The
+Book After Edison" (CR/M).
 
 WEEK 11 (NOV 17): *Memorex*
 
-*[Readings]{.underline}:* **Samuel Beckett,** *Krapp\'s Last Tape*
+**Readings*:* **Samuel Beckett,** *Krapp\'s Last Tape*
 
 **John Mowitt,** "The Sound of Music in the Era of Its Electronic
 Reproducibility" (SS)
@@ -422,33 +417,32 @@ WEEK 12 (NOV 24): *Sound/Poetry*
 towards an analysis of one live literary event you have attended during
 the semester to share in class, and to hand in to me, max. 1 page.\]
 
-*[Recordings]{.underline}:* **Jaap Blonk,** "Rhotic" for voice (Reading
-at Kelley Writer's House, University of Pennsylvania, November 11,
-2004); Excerpt from demonstration of notations and sounds at Concordia
-(2013); **Christian Bok,** EUNOIA, Chapter e (June 22, 2002).
+**Recordings*:* **Jaap Blonk,** "Rhotic" for voice (Reading at Kelley
+Writer's House, University of Pennsylvania, November 11, 2004); Excerpt
+from demonstration of notations and sounds at Concordia (2013);
+**Christian Bok,** EUNOIA, Chapter e (June 22, 2002).
 
-*[Readings]{.underline}*: **Jaap Blonk,** "Rhotic" (Phonetic Etude #1,
-1991, about the r);
+Readings: **Jaap Blonk,** "Rhotic" (Phonetic Etude #1, 1991, about the
+r);
 
 **Christian Bok,** Digital setting of EUNOIA, Chapter e (for rené
 crevel)
 
-*[Readings]{.underline}*: **Douglas Kahn**, "Noises of the Avant-Garde"
-(SS)
+Readings: **Douglas Kahn**, "Noises of the Avant-Garde" (SS)
 
 WEEK 13 (DEC 1): *Talk Poetry*
 
-[Recordings]{.underline}*:* **David Antin**, \"The Principle of Fit II\"
-(M via PennSound).
+*Recordings**:* **David Antin**, \"The Principle of Fit II\" (M via
+PennSound).
 
-*[Readings:]{.underline}* **david antin,** *Talking*, especially
-"Talking at Pomona" plus the Introduction by Marjorie Perloff and
-afterward by antin; **Shuhei Hosokawa,** "The Walkman Effect" (SS)
+Readings: **david antin,** *Talking*, especially "Talking at Pomona"
+plus the Introduction by Marjorie Perloff and afterward by antin;
+**Shuhei Hosokawa,** "The Walkman Effect" (SS)
 
 WEEK 14 (DEC 8): *Cylinder* *Talks on final projects*.
 
 In this class each seminar participant will present a 3-minute (wax
 cylinder length) talk about their final project.
 
-**[FINAL PROJECTS DUE in my LB 646 mailbox by 4PM, Friday, December
-11^th^]{.underline}**
+***FINAL PROJECTS DUE in my LB 646 mailbox by 4PM, Friday, December
+11^th^***
