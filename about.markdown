@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The SSHRC-funded SpokenWeb partnership aims to develop coordinated and 
+collaborative approaches to literary historical study, digital development, 
+and critical and pedagogical engagement with diverse collections of literary 
+sound recordings from across Canada and beyond.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
