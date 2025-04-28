@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Literature and Sound Studies
-permalink: /SWDemo/output_documents/Camlot_2020_ENGL_622_-_Literature_and_Sound_Studies_SYLLABUS_Winter_2020.html
+permalink: /output_documents/Camlot_2020_ENGL_622_-_Literature_and_Sound_Studies_SYLLABUS_Winter_2020.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca

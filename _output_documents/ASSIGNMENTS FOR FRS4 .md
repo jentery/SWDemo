@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Art and Science of Performative Speech
-permalink: /SWDemo/output_documents/ASSIGNMENTS_FOR_FRS4_.html
+permalink: /output_documents/ASSIGNMENTS_FOR_FRS4_.html
 last_name: MacArthur
 first_name: Marit
 email: mjmacarthur@ucdavis.edu

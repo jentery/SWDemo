@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Literary Soundings
-permalink: /SWDemo/output_documents/Camlot_2005_ENGL_603_-_Literary_Soundings_SYLLABUS_Fall_2005.html
+permalink: /output_documents/Camlot_2005_ENGL_603_-_Literary_Soundings_SYLLABUS_Fall_2005.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca
