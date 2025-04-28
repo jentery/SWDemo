@@ -1,13 +1,17 @@
 ---
+layout: post
+title: 'Listening as Cultural Technique '
+permalink: Camlot 2021_ENGL 604B_2 - (Literary) Listening as Cultural Technique SYLLABUS
+  Fall 2022
+last_name: Camlot
+first_name: Jason
 email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: 'Listening as Cultural Technique '
 file_name: Camlot 2021_ENGL 604B_2 - (Literary) Listening as Cultural Technique SYLLABUS
   Fall 2022.docx
-first_name: Jason
-institution: Concordia U.
-last_name: Camlot
 original_doc_type: Syllabus
 primary_discipline: Sound Studies
-title_of_doc: 'Listening as Cultural Technique '
 url: .nan
 
 ---
@@ -110,23 +114,21 @@ Tagaq*](https://www.audible.ca/pd/Split-Tooth-Audiobook/073523745X?qid=159863296
 
 *[Requirements:]{.underline}*
 
--   Guided Listening Practice **20%**
+- Guided Listening Practice **20%**
 
--   Critical Annotated Bibliography (**[DUE Thursday, December
-    10^th^]{.underline})**: **20%**
+- Critical Annotated Bibliography (**[DUE Thursday, December
+  10^th^]{.underline})**: **20%**
 
--   Participation in Zoom and chat activities: This is a seminar, which
-    means we will be thinking out-loud (and on the virtual page)
-    together. In order for a seminar to work you must complete all of
-    the readings and listenings, and be prepared to talk about them. For
-    this reason, your participation is also calculated into the final
-    grade. **10%.**
+- Participation in Zoom and chat activities: This is a seminar, which
+  means we will be thinking out-loud (and on the virtual page) together.
+  In order for a seminar to work you must complete all of the readings
+  and listenings, and be prepared to talk about them. For this reason,
+  your participation is also calculated into the final grade. **10%.**
 
--   Cylinder Talk (**[DUE 5pm, Monday, December 7th]{.underline}**):
-    **20%**
+- Cylinder Talk (**[DUE 5pm, Monday, December 7th]{.underline}**):
+  **20%**
 
--   Final Paper (**[DUE Thursday, December 17^th^]{.underline}**):
-    **30%**
+- Final Paper (**[DUE Thursday, December 17^th^]{.underline}**): **30%**
 
 **[What the above list of requirements means]{.underline}:**
 

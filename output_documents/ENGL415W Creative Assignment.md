@@ -1,12 +1,15 @@
 ---
-email: michelle_levy@sfu.ca
-file_name: ENGL415W Creative Assignment.docx
-first_name: Michelle
-institution: 'Simon Fraser U. '
+layout: post
+title: Creative Assignment
+permalink: ENGL415W Creative Assignment
 last_name: Levy
+first_name: Michelle
+email: michelle_levy@sfu.ca
+institution: 'Simon Fraser U. '
+title_of_doc: Creative Assignment
+file_name: ENGL415W Creative Assignment.docx
 original_doc_type: Prompt
 primary_discipline: Literary Studies
-title_of_doc: Creative Assignment
 url: .nan
 
 ---
@@ -113,40 +116,39 @@ assignment.
 As a fourth-year class, I do not set essay topics. However, I expect the
 following in a fourth-year essay in this class:
 
--   You discuss at least one longer work by Jane Austen, ideally more
-    than one.
+- You discuss at least one longer work by Jane Austen, ideally more than
+  one.
 
--   You identify a topic and use that topic to shape your analysis.
+- You identify a topic and use that topic to shape your analysis.
 
--   You integrate secondary sources that are relevant to your topic.
-    These can be sources assigned but I expect you to do independent
-    research to identify other scholarship or sources that are relevant.
+- You integrate secondary sources that are relevant to your topic. These
+  can be sources assigned but I expect you to do independent research to
+  identify other scholarship or sources that are relevant.
 
--   You demonstrate an understanding of the historical period.
+- You demonstrate an understanding of the historical period.
 
--   You have an argument that is specific and original and that builds
-    upon existing work on your topic. This argument should be
-    well-crafted, critically engaged, and attentive to the textual
-    evidence. Your argument should be contained in a thesis statement, a
-    single sentence (in most cases) that clearly asserts the argument.
-    An argument is a statement that asserts something about your chosen
-    subject that would not be obvious even to someone who had carefully
-    and thoughtfully read the book. Your thesis statement will come
-    about through a similar process of revision. Throughout, you need to
-    keep returning to the works in question, rereading them and revising
-    your thesis to make it tighter and stronger.
+- You have an argument that is specific and original and that builds
+  upon existing work on your topic. This argument should be
+  well-crafted, critically engaged, and attentive to the textual
+  evidence. Your argument should be contained in a thesis statement, a
+  single sentence (in most cases) that clearly asserts the argument. An
+  argument is a statement that asserts something about your chosen
+  subject that would not be obvious even to someone who had carefully
+  and thoughtfully read the book. Your thesis statement will come about
+  through a similar process of revision. Throughout, you need to keep
+  returning to the works in question, rereading them and revising your
+  thesis to make it tighter and stronger.
 
--   Your thesis will only succeed if you have the textual evidence to
-    back it up.  In the essay itself, you will want to make repeated
-    references to the works in question, in the form of direct
-    quotations, summary and paraphrase, and of course, analysis of these
-    textual references.
+- Your thesis will only succeed if you have the textual evidence to back
+  it up.  In the essay itself, you will want to make repeated references
+  to the works in question, in the form of direct quotations, summary
+  and paraphrase, and of course, analysis of these textual references.
 
--   You properly cite your sources using MLA style. Please include page
-    references (in MLA citation format) to all direct quotations, a
-    works cited, and be sure to reference all secondary sources you use.
+- You properly cite your sources using MLA style. Please include page
+  references (in MLA citation format) to all direct quotations, a works
+  cited, and be sure to reference all secondary sources you use.
 
--   I expect the writing and thinking in your paper to be your own.
+- I expect the writing and thinking in your paper to be your own.
 
 Evaluation of the essay is based on three elements:
 

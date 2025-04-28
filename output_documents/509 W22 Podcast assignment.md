@@ -1,12 +1,15 @@
 ---
-email: jlwiens@ucalgary.ca
-file_name: 509 W22 Podcast assignment.docx
-first_name: Jason
-institution: 'Calgary, U. of '
+layout: post
+title: Podcast Assignment
+permalink: 509 W22 Podcast assignment
 last_name: Wiens
+first_name: Jason
+email: jlwiens@ucalgary.ca
+institution: 'Calgary, U. of '
+title_of_doc: Podcast Assignment
+file_name: 509 W22 Podcast assignment.docx
 original_doc_type: Prompt
 primary_discipline: Literary Studies
-title_of_doc: Podcast Assignment
 url: .nan
 
 ---

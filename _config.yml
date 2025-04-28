@@ -1,0 +1,10 @@
+title: SWDemo
+description: A Proof-Of-Concept for SpokenWeb Sound and Literary Studies
+baseurl: ""
+url: "https://callumyci.github.io/SWDemo"
+theme: minima
+markdown: kramdown
+collections:
+    output_documents:
+        output: true
+        permalink: /output_documents/:title/

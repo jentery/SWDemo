@@ -1,12 +1,15 @@
 ---
-email: jlwiens@ucalgary.ca
-file_name: 307 Winter 2018 Elocution Assignment.docx
-first_name: Jason
-institution: 'Calgary, U. of '
+layout: post
+title: Intepretative E-Locution
+permalink: 307 Winter 2018 Elocution Assignment
 last_name: Wiens
+first_name: Jason
+email: jlwiens@ucalgary.ca
+institution: 'Calgary, U. of '
+title_of_doc: Intepretative E-Locution
+file_name: 307 Winter 2018 Elocution Assignment.docx
 original_doc_type: Prompt
 primary_discipline: Literary Studies
-title_of_doc: Intepretative E-Locution
 url: .nan
 
 ---

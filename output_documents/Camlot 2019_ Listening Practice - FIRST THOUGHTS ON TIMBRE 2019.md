@@ -1,12 +1,15 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: Camlot 2019_ Listening Practice - FIRST THOUGHTS ON TIMBRE 2019.docx
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: First Thoughts on Timbre
+permalink: Camlot 2019_ Listening Practice - FIRST THOUGHTS ON TIMBRE 2019
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: First Thoughts on Timbre
+file_name: Camlot 2019_ Listening Practice - FIRST THOUGHTS ON TIMBRE 2019.docx
 original_doc_type: Notes
 primary_discipline: Sound Studies
-title_of_doc: First Thoughts on Timbre
 url: .nan
 
 ---

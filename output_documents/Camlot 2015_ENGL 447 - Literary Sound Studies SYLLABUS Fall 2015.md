@@ -1,12 +1,15 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: Camlot 2015_ENGL 447 - Literary Sound Studies SYLLABUS Fall 2015.docx
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: Literary Sound Studies
+permalink: Camlot 2015_ENGL 447 - Literary Sound Studies SYLLABUS Fall 2015
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: Literary Sound Studies
+file_name: Camlot 2015_ENGL 447 - Literary Sound Studies SYLLABUS Fall 2015.docx
 original_doc_type: Syllabus
 primary_discipline: Literary Studies
-title_of_doc: Literary Sound Studies
 url: .nan
 
 ---
@@ -91,26 +94,26 @@ Charles Bernstein, Ed., *Close Listening* (Oxford UP, 1998)
 
 *[Requirements:]{.underline}*
 
--   Seminar-Piloting **20%**
+- Seminar-Piloting **20%**
 
--   Critical Listening Notebook (DUE In Class, WEEK 10) **30%**
+- Critical Listening Notebook (DUE In Class, WEEK 10) **30%**
 
--   Final Seminar Project (DUE by 4pm, Friday, December 11^th^) **30%**
+- Final Seminar Project (DUE by 4pm, Friday, December 11^th^) **30%**
 
--   This is a seminar, which means we will be thinking out-loud
-    together. In order for a seminar to work you must complete all of
-    the readings and be prepared to talk about them. For this reason,
-    your participation is also calculated into the final grade.
-    Participation**10%.**
+- This is a seminar, which means we will be thinking out-loud together.
+  In order for a seminar to work you must complete all of the readings
+  and be prepared to talk about them. For this reason, your
+  participation is also calculated into the final grade.
+  Participation**10%.**
 
--   Cylinder Talks: On TUESDAY [December 1st]{.underline} we will have a
-    roundtable of short talks---that is, wax cylinder length talks about
-    your final project. You will each have exactly 3 MINUTES (the length
-    of an Edison wax cylinder) to present the main idea you are
-    interested in exploring in your final project, and to provide one
-    example of how you will go about exploring or illustrating that
-    idea. I'll explain more about what this will entail as the date
-    approaches. Your Cylinder Talk will count for **10%** of your grade.
+- Cylinder Talks: On TUESDAY [December 1st]{.underline} we will have a
+  roundtable of short talks---that is, wax cylinder length talks about
+  your final project. You will each have exactly 3 MINUTES (the length
+  of an Edison wax cylinder) to present the main idea you are interested
+  in exploring in your final project, and to provide one example of how
+  you will go about exploring or illustrating that idea. I'll explain
+  more about what this will entail as the date approaches. Your Cylinder
+  Talk will count for **10%** of your grade.
 
 **[What the above list of requirements means]{.underline}:**
 

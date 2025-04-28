@@ -1,12 +1,15 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: Camlot 2020_antin - seminar piloting.docx
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: Seminar Piloting
+permalink: Camlot 2020_antin - seminar piloting
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: Seminar Piloting
+file_name: Camlot 2020_antin - seminar piloting.docx
 original_doc_type: Notes
 primary_discipline: Literary Studies
-title_of_doc: Seminar Piloting
 url: .nan
 
 ---
@@ -43,14 +46,14 @@ improvisation, chance?
 Deixis (Poetic Deictics): Linguistic tropes and procedures speakers (in
 literature and otherwise) use to locate themselves in space and time.
 
--   Ecphonesis: The gesture of turning away from one recognized audience
-    to address another.
+- Ecphonesis: The gesture of turning away from one recognized audience
+  to address another.
 
--   Prosopopoeia: Addressing a dead or absent person, an animal, a
-    thing, or an abstract quality or idea as if it were alive, and
-    capable of understanding.
+- Prosopopoeia: Addressing a dead or absent person, an animal, a thing,
+  or an abstract quality or idea as if it were alive, and capable of
+  understanding.
 
--   Ecphonesis: A poetic outcry or exclamation.
+- Ecphonesis: A poetic outcry or exclamation.
 
 \[I\]t is certainly beyond question that the figure of address is
 recurrent in lyric poetry, to the point of constituting the generic
@@ -85,15 +88,15 @@ apostrophe can we develop? Where does that lead us, critically speaking?
 
 5.  Listening to the "Principle of Fit II"
 
--   The idea of 'fit'
+- The idea of 'fit'
 
--   Glaucoma (the wish for fit / discursive vagueness)
+- Glaucoma (the wish for fit / discursive vagueness)
 
--   Bev (half-fit -- yes, Vegas, no)
+- Bev (half-fit -- yes, Vegas, no)
 
--   Funeral Speeches (style)
+- Funeral Speeches (style)
 
--   Actress Hotel Shtetl (narrative non-fit)
+- Actress Hotel Shtetl (narrative non-fit)
 
 Q: How do we listen to an antin talk poem? How do we take notes on it?
 Make sense of it? Discern structure?

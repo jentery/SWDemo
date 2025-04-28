@@ -1,12 +1,15 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: Camlot 2005_ENGL 603 - Literary Soundings SYLLABUS Fall 2005.docx
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: Literary Soundings
+permalink: Camlot 2005_ENGL 603 - Literary Soundings SYLLABUS Fall 2005
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: Literary Soundings
+file_name: Camlot 2005_ENGL 603 - Literary Soundings SYLLABUS Fall 2005.docx
 original_doc_type: Syllabus
 primary_discipline: Literary Studies
-title_of_doc: Literary Soundings
 url: .nan
 
 ---
@@ -78,25 +81,25 @@ Jonathan Sterne, *The Audible Past* (Duke)
 
 *[Requirements:]{.underline}*
 
--   Seminar-Leading (Oral Presentation) **20%**
+- Seminar-Leading (Oral Presentation) **20%**
 
--   Critical Listening Journal (DUE In Class, WEEK 10) **30%**
+- Critical Listening Journal (DUE In Class, WEEK 10) **30%**
 
--   Final Seminar Paper **30%**
+- Final Seminar Paper **30%**
 
--   This is a seminar, which means we will be thinking out-loud
-    together. In order for a seminar to work you must complete all of
-    the readings and be prepared to talk about them. For this reason,
-    your participation is also calculated into the final grade.
-    Participation **10%.**
+- This is a seminar, which means we will be thinking out-loud together.
+  In order for a seminar to work you must complete all of the readings
+  and be prepared to talk about them. For this reason, your
+  participation is also calculated into the final grade. Participation
+  **10%.**
 
--   Power Papers: On TUESDAY [December 6^th^]{.underline} we will have a
-    roundtable of miniature power papers. You will each have exactly 5
-    MINUTES (no going over) to present (in whatever form you like)
-    [one]{.underline} insight you have had during the semester about
-    "the sound of literature." I'll explain more about what this will
-    entail as the date approaches. Your power paper will count for
-    **10%** of your grade.
+- Power Papers: On TUESDAY [December 6^th^]{.underline} we will have a
+  roundtable of miniature power papers. You will each have exactly 5
+  MINUTES (no going over) to present (in whatever form you like)
+  [one]{.underline} insight you have had during the semester about "the
+  sound of literature." I'll explain more about what this will entail as
+  the date approaches. Your power paper will count for **10%** of your
+  grade.
 
 **[What the above list of requirements means]{.underline}:**
 
