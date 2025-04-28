@@ -136,31 +136,30 @@ url: .nan
 >
 > *[Requirements:]{.underline}*
 
--   Guided Listening Practice 20%
+- Guided Listening Practice 20%
 
--   One of the following short Context and Analysis assignments (DUE
-    Thursday, November 18th): 20%
+- One of the following short Context and Analysis assignments (DUE
+  Thursday, November 18th): 20%
 
-    -   AudiAnnotate Critical Annotation
+  - AudiAnnotate Critical Annotation
 
-    -   Audio Pedagogy Prompt and Lesson Plan
+  - Audio Pedagogy Prompt and Lesson Plan
 
-    -   Table of Contents and Preface to textbook on Literary Sound
-        Studies
+  - Table of Contents and Preface to textbook on Literary Sound Studies
 
-    -   Library Literary Media Kit Description and Contextualization
+  - Library Literary Media Kit Description and Contextualization
 
-    -   Audio Artifact Description and Contextualization
+  - Audio Artifact Description and Contextualization
 
-    -   Remediation and Format Analysis
+  - Remediation and Format Analysis
 
--   Participation 10%.
+- Participation 10%.
 
--   Short Form Podcast (A Critical Sound Work) ([DUE 5pm, Monday,
-    December 7th]{.underline}): 20%
+- Short Form Podcast (A Critical Sound Work) ([DUE 5pm, Monday, December
+  7th]{.underline}): 20%
 
--   Final Paper and Slides or Long Form Podcast (DUE Thursday, December
-    17th): 30%
+- Final Paper and Slides or Long Form Podcast (DUE Thursday, December
+  17th): 30%
 
 > [What the above list of requirements means]{.underline}:
 >
@@ -219,7 +218,7 @@ url: .nan
 > practices of contextualization and analysis. Assignments should not
 > exceed [five (5) pages]{.underline} in length.
 
--   Critical Annotation of an Audiotext
+- Critical Annotation of an Audiotext
 
 > Audiotexts are somewhat more difficult to work with than print texts
 > due to the fact that they are not static and visual like printed
@@ -249,7 +248,7 @@ url: .nan
 > selection should be short enough so that your annotations do not
 > exceed 5 pages in length.
 
--   Audio Pedagogy Prompt and Lesson Plan
+- Audio Pedagogy Prompt and Lesson Plan
 
 > In no more than four (4) pages develop a lesson plan for teaching a
 > literary sound recording of your choice in an undergraduate lecture
@@ -270,8 +269,7 @@ url: .nan
 > how you would teach this audio recording in a lecture class to
 > undergraduates (of whatever level you specify).
 
--   Table of Contents and Preface to textbook on *Literary Sound
-    Studies*
+- Table of Contents and Preface to textbook on *Literary Sound Studies*
 
 > Your assignment is to select between five and ten scholarly articles
 > (from the syllabus, or beyond) and arrange them as the content for
@@ -283,7 +281,7 @@ url: .nan
 > for this assignment would include Sterne's *Sound Studies Reader*,
 > Morris's *Sound States*, and Bernstein's *Close Listening*.
 
--   Library Literary Media Kit Description and Contextualization
+- Library Literary Media Kit Description and Contextualization
 
 > In the Concordia library, on the shelf marked MEDIA KITS/TROUSSES
 > MULTIMEDIAS (PC2065- PS8253) you will discover educational media kits
@@ -305,7 +303,7 @@ url: .nan
 > indeed indicate something relevant about the object as a historical
 > trace of a pedagogical, literary or sonic ideation of interest.
 
--   Audio Artifact Description and Contextualization
+- Audio Artifact Description and Contextualization
 
 > In the AMPLab for Sound Studies and Literature you will find a small,
 > eclectic selection of spoken word audio artifacts (LP records and
@@ -329,7 +327,7 @@ url: .nan
 > literary, media historical, performative, political, etc.
 > perspective)?
 
--   Remediation and Audio Format Analysis
+- Remediation and Audio Format Analysis
 
 > (As noted in the previous assignment prompt): In the AMPLab for Sound
 > Studies and Literature you will find a small, eclectic selection of
@@ -476,56 +474,54 @@ url: .nan
 >
 > *Readings*:
 
--   Raymond Williams, "Literature" from *Keywords* (CR)
+- Raymond Williams, "Literature" from *Keywords* (CR)
 
--   Terry Eagleton, from "What is Literature? (1)" in *The Event of
-    Literature* (pp. 19-33, or the whole book if you feel like it.) (CR)
+- Terry Eagleton, from "What is Literature? (1)" in *The Event of
+  Literature* (pp. 19-33, or the whole book if you feel like it.) (CR)
 
--   René Descartes, from *A Discourse on Method* (Part II) (M)
+- René Descartes, from *A Discourse on Method* (Part II) (M)
 
--   Maminsha Patel and Nitin Patel, "Exploring Research Methodology:
-    Review Article" (CR)
+- Maminsha Patel and Nitin Patel, "Exploring Research Methodology:
+  Review Article" (CR)
 
--   Adelaide Morris, "Introduction: Sounds States," from *Sound States:
-    Innovative Poetics and Acoustical Technologies* (pp. 1-14) (CR)
+- Adelaide Morris, "Introduction: Sounds States," from *Sound States:
+  Innovative Poetics and Acoustical Technologies* (pp. 1-14) (CR)
 
--   Stephen Feld, "acoustemology" (ks)
+- Stephen Feld, "acoustemology" (ks)
 
 > *Listenings*:
 
--   Diane Di Prima, *Revolutionary Letters* 7, 13, 16, 49 (7:07,
-    Recorded GPS, New York, March 21,
+- Diane Di Prima, *Revolutionary Letters* 7, 13, 16, 49 (7:07, Recorded
+  GPS, New York, March 21,
 
 > 1969\) UbuWeb (M)
 
--   Margaret Atwood at SGWU, 1974 (59:47) SpokenWeb (M)
+- Margaret Atwood at SGWU, 1974 (59:47) SpokenWeb (M)
 
 > WEEK 3 (SEPT 21): Some Audile Techniques (Methods and Modes of
 > Listening)
 >
 > *Readings*:
 
--   Jonathan Sterne, ""2. Techniques of Listening" from *The Audible
-    Past* (pp 88-117 -- but feel free to read the whole chapter, and the
-    next one, "3. Audile Technique and Media" (CR)
+- Jonathan Sterne, ""2. Techniques of Listening" from *The Audible Past*
+  (pp 88-117 -- but feel free to read the whole chapter, and the next
+  one, "3. Audile Technique and Media" (CR)
 
--   R. Murray Schafer, "Notation" and "Classification" from *The
-    Soundscape* (CR)
+- R. Murray Schafer, "Notation" and "Classification" from *The
+  Soundscape* (CR)
 
--   Michel Chion, "2. The Three Listening Modes" from *Audio-Vision*
-    (CR)
+- Michel Chion, "2. The Three Listening Modes" from *Audio-Vision* (CR)
 
--   Charles Bernstein, "Introduction" to *Close Listening: Poetry and
-    the Performed Word* (CR)
+- Charles Bernstein, "Introduction" to *Close Listening: Poetry and the
+  Performed Word* (CR)
 
 > *Listenings*:
 
--   Pauline Oliveros, "The Difference Between Hearing and Listening" (M)
+- Pauline Oliveros, "The Difference Between Hearing and Listening" (M)
 
--   R. Murray Schafer, "Listen" (NFB 2009) (M)
+- R. Murray Schafer, "Listen" (NFB 2009) (M)
 
--   Alvin Lucifer, "I am Sitting in a Room" (Lovely Music Ltd., 1981)
-    (M)
+- Alvin Lucifer, "I am Sitting in a Room" (Lovely Music Ltd., 1981) (M)
 
 > *Suggested*: Tom Rice, "Listening" (ks)
 >
@@ -533,39 +529,38 @@ url: .nan
 >
 > *Readings:*
 
--   Alfred Tennyson, "The Charge of the Light Brigade" (M)
+- Alfred Tennyson, "The Charge of the Light Brigade" (M)
 
--   Robert Browning, "My Last Duchess"(M)
+- Robert Browning, "My Last Duchess"(M)
 
--   Fenno, Cumnock, Raymond, Curry, Nineteenth Century Elocution
-    Manuals - Selections (M)
+- Fenno, Cumnock, Raymond, Curry, Nineteenth Century Elocution Manuals -
+  Selections (M)
 
--   Samuel Silas Curry, from *Browning and. the Dramatic Monologue:
-    Nature and Interpretation of an Overlooked Form of Literature*
-    (browse all of Part I and read [pp. 96-113]{.underline} from "VII.
-    The Monologue as a Form of Literature") (M), and from *Imagination
-    and Dramatic Instinct: Some Practical Steps for Their Development*
-    ("Preface", "Contents", "Introduction", [pp. 1-22]{.underline}) (M)
+- Samuel Silas Curry, from *Browning and. the Dramatic Monologue: Nature
+  and Interpretation of an Overlooked Form of Literature* (browse all of
+  Part I and read [pp. 96-113]{.underline} from "VII. The Monologue as a
+  Form of Literature") (M), and from *Imagination and Dramatic Instinct:
+  Some Practical Steps for Their Development* ("Preface", "Contents",
+  "Introduction", [pp. 1-22]{.underline}) (M)
 
--   Deborah Kapchan, "body" (ks)
+- Deborah Kapchan, "body" (ks)
 
 > *Listenings*:
 
--   Alfred Tennyson, "The Charge of the Light Brigade" (recorded 1898)
-    (M)
+- Alfred Tennyson, "The Charge of the Light Brigade" (recorded 1898) (M)
 
--   Lewis Waller, reciting "The Charge of the Light Brigade" (M)
+- Lewis Waller, reciting "The Charge of the Light Brigade" (M)
 
--   Rose Coghlan, reciting "The Charge of the Light Brigade" (M)
+- Rose Coghlan, reciting "The Charge of the Light Brigade" (M)
 
--   Canon Fleming, reciting "The Charge of the Light Brigade" (M)
+- Canon Fleming, reciting "The Charge of the Light Brigade" (M)
 
--   Henry Ainley, reciting "The Charge of the Light Brigade" (M)
+- Henry Ainley, reciting "The Charge of the Light Brigade" (M)
 
--   Mark Van Doren introduces, and Frank Silvera interprets, "My Last
-    Duchess" from *Hearing Poetry, Volume 2, Dryden through Browning*
-    (Caedmon TC 1022, 1957): [Track 12 on]{.underline}
-    [Archive.org]{.underline}.
+- Mark Van Doren introduces, and Frank Silvera interprets, "My Last
+  Duchess" from *Hearing Poetry, Volume 2, Dryden through Browning*
+  (Caedmon TC 1022, 1957): [Track 12 on]{.underline}
+  [Archive.org]{.underline}.
 
 > WEEK 5 (OCT 5): The Podcast as Scholarly Form and Method
 >
@@ -611,12 +606,11 @@ url: .nan
 >
 > *[Readings]{.underline}*:
 
--   T.S. Eliot, *The Waste Land*
+- T.S. Eliot, *The Waste Land*
 
--   Selections from the critical apparatus of the Michael North edition
-    of *The Waste Land*: Virginia Woolf, \[Eliot chants *The Waste*
-    Land\] (p. 137); Ralph Ellison, \[*The Waste Land* and Jazz\] (p.
-    166);
+- Selections from the critical apparatus of the Michael North edition of
+  *The Waste Land*: Virginia Woolf, \[Eliot chants *The Waste* Land\]
+  (p. 137); Ralph Ellison, \[*The Waste Land* and Jazz\] (p. 166);
 
 > I.A. Richards, "The Poetry of T.S. Eliot," *from Principles of
 > Literary Criticism* (pp. 170-173); , William Empson, "The Significance
@@ -624,10 +618,10 @@ url: .nan
 > (pp. 173-185) Cleanth Brooks Jr., \"*The Waste Land*: An Analysis\"
 > (185-210)
 
--   Julian Brooke, Adam Hammond, Graeme Hirst, "Distinguishing Voice in
-    *The Waste Land* Using Computational Stylistics" (M)
+- Julian Brooke, Adam Hammond, Graeme Hirst, "Distinguishing Voice in
+  *The Waste Land* Using Computational Stylistics" (M)
 
--   Mark M. Smith, "echo" (ks)
+- Mark M. Smith, "echo" (ks)
 
 > *[Listenings]{.underline}:* T.S. Eliot, *The Waste Land* (1946) (M)
 >
@@ -635,13 +629,13 @@ url: .nan
 >
 > *Readings*:
 
--   Claudia Rankine, *Citizen: An American Lyric* (2015)
+- Claudia Rankine, *Citizen: An American Lyric* (2015)
 
--   Nina Sun Eidsheim, "Introduction" and "Chapter 1" from *The Race of
-    Sound: Listening, Timbre and Vocality in African American
-    Music* (2019) (CR)
+- Nina Sun Eidsheim, "Introduction" and "Chapter 1" from *The Race of
+  Sound: Listening, Timbre and Vocality in African American
+  Music* (2019) (CR)
 
--   Jonathan Sterne, "hearing" (ks)
+- Jonathan Sterne, "hearing" (ks)
 
 > *Listenings*: Claudia Rankine and John Lucas, Situation 5, Situation
 > 7, Situation 11 (videos) (M)
@@ -651,40 +645,39 @@ url: .nan
 > *[Readings]{.underline}: Find your own* print versions of poems below
 > and bring them to class, where possible.
 
--   Jacob Smith, "Hi-Fi Midcult" (CR)
+- Jacob Smith, "Hi-Fi Midcult" (CR)
 
--   Marit J. MacArthur, "Monotony, the Churches of Poetry Reading, and
-    Sound Studies (CR)
+- Marit J. MacArthur, "Monotony, the Churches of Poetry Reading, and
+  Sound Studies (CR)
 
--   David Samuels and Thomas Porcello, "language" (ks)
+- David Samuels and Thomas Porcello, "language" (ks)
 
 > *[Listenings]{.underline}:*
 
--   William Butler Yeats, \"The Lake Isle of Innisfree\" (M)
+- William Butler Yeats, \"The Lake Isle of Innisfree\" (M)
 
--   Ezra Pound, \"Moeurs Contemporaines\" (M)
+- Ezra Pound, \"Moeurs Contemporaines\" (M)
 
--   Gertrude Stein, \"If I Told Him (A Completed Portrait of Picasso)\"
-    (M)
+- Gertrude Stein, \"If I Told Him (A Completed Portrait of Picasso)\"
+  (M)
 
--   Dylan Thomas, \"Fern Hill\"; "Do Not Go Gentle to That Good Night"
-    (M)
+- Dylan Thomas, \"Fern Hill\"; "Do Not Go Gentle to That Good Night" (M)
 
--   Robert Frost, "The Road Not Taken" (M)
+- Robert Frost, "The Road Not Taken" (M)
 
--   Sylvia Plath, "Daddy" (M)
+- Sylvia Plath, "Daddy" (M)
 
 > WEEK 10 (NOV 10): Forms of Talk
 >
 > *[Readings:]{.underline}*
 
--   david antin, "talking at the boundaries" from *talking at the
-    boundaries* (CR)
+- david antin, "talking at the boundaries" from *talking at the
+  boundaries* (CR)
 
--   Erving Goffman, "The Lecture" \[and "Footing" if you like\] from
-    *Forms of Talk* (CR)
+- Erving Goffman, "The Lecture" \[and "Footing" if you like\] from
+  *Forms of Talk* (CR)
 
--   Stefan Heimreich, "transduction" (ks)
+- Stefan Heimreich, "transduction" (ks)
 
 > *[Listenings]{.underline}:* david antin, \"The Principle of Fit II\"
 > (M via PennSound).
@@ -693,9 +686,9 @@ url: .nan
 >
 > *[Readings]{.underline}*:
 
--   Jordan Abel, *Nishga*
+- Jordan Abel, *Nishga*
 
--   Anna Maria Ochoa Gauthier, "silence" (ks)
+- Anna Maria Ochoa Gauthier, "silence" (ks)
 
 > *[Listenings]{.underline}*: ["Jordan Abel discussing NISHGA with host
 > Warren Cariou," presented by McClelland &]{.underline} [Stewart,
@@ -707,14 +700,13 @@ url: .nan
 >
 > *Readings*:
 
--   Dylan Robinson, "Introduction", "Hungry Listening", "Conclusion"
-    from *Hungry Listening: Resonant Theory for Indigenous Sound
-    Studies*
+- Dylan Robinson, "Introduction", "Hungry Listening", "Conclusion" from
+  *Hungry Listening: Resonant Theory for Indigenous Sound Studies*
 
--   David Novak, "noise" (ks)
+- David Novak, "noise" (ks)
 
--   If you like you can also read the print version of Tanya Tagaq,
-    *Split Tooth*.
+- If you like you can also read the print version of Tanya Tagaq, *Split
+  Tooth*.
 
 > *[Listening]{.underline}:* Tanya Tagaq, *Split Tooth* (Audiobook as
 > read by the author)
@@ -723,37 +715,37 @@ url: .nan
 >
 > *[Readings:]{.underline}*
 
--   Matthew Rubery, "Audio Revolution" from *The Untold Story of the
-    Talking Book* (CR)
+- Matthew Rubery, "Audio Revolution" from *The Untold Story of the
+  Talking Book* (CR)
 
--   Jason Camlot, "Charles Dickens in Three Minutes or Less: Early
-    Phonographic Fiction" from
+- Jason Camlot, "Charles Dickens in Three Minutes or Less: Early
+  Phonographic Fiction" from
 
 > *Phonopoetics* (CR)
 
--   Patrick Feaster, phonography" (ks)
+- Patrick Feaster, phonography" (ks)
 
 > *[Listenings]{.underline}:*
 
--   Charles Dickens, *A Christmas Carol* (as read by Tim Curry)
+- Charles Dickens, *A Christmas Carol* (as read by Tim Curry)
 
--   Herbert Beerbohm Tree, "Svengali" (M)
+- Herbert Beerbohm Tree, "Svengali" (M)
 
--   Len Spencer, "Jeckyll & Hyde" (M)
+- Len Spencer, "Jeckyll & Hyde" (M)
 
--   Bransby Williams, "Dream Scene from *The Bells*" (Take 1) (M)
+- Bransby Williams, "Dream Scene from *The Bells*" (Take 1) (M)
 
--   William Sterling Battis, "Micawber" from Charles Dickens' *David
-    Copperfield* (M)
+- William Sterling Battis, "Micawber" from Charles Dickens' *David
+  Copperfield* (M)
 
--   Bransby Williams, "A Christmas Carol in Prose" (M)
+- Bransby Williams, "A Christmas Carol in Prose" (M)
 
--   Bransby Williams, "The Awakening of Scrooge" (M)
+- Bransby Williams, "The Awakening of Scrooge" (M)
 
--   Bransby Williams, A Christmas Carol---Scrooge---After the Dream" (M)
+- Bransby Williams, A Christmas Carol---Scrooge---After the Dream" (M)
 
--   Bransby Williams, "A Christmas Carol---Bob Crachit Telling of
-    Scrooge" (M)
+- Bransby Williams, "A Christmas Carol---Bob Crachit Telling of Scrooge"
+  (M)
 
 > [Suggested: Matthew Rubery, "How the Audiobook Got Its Groove Back,"
 > \[lecture, 22 October 2020\]]{.underline} (M via SpokenWeb)

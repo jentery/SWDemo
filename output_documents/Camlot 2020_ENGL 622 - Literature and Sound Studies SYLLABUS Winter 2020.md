@@ -111,20 +111,20 @@ Whitney Trettien (Duke 2018)
 
 *[Requirements:]{.underline}*
 
--   Seminar-Piloting **10%**
+- Seminar-Piloting **10%**
 
--   Critical Listening Journal (**DUE In Class, Monday March 9^th^**):
-    **30%**
+- Critical Listening Journal (**DUE In Class, Monday March 9^th^**):
+  **30%**
 
--   This is a seminar, which means we will be thinking out-loud
-    together. In order for a seminar to work you must complete all of
-    the readings and be prepared to talk about them. For this reason,
-    your participation is also calculated into the final grade.
-    Participation **10%.**
+- This is a seminar, which means we will be thinking out-loud together.
+  In order for a seminar to work you must complete all of the readings
+  and be prepared to talk about them. For this reason, your
+  participation is also calculated into the final grade. Participation
+  **10%.**
 
--   Short-form Podcast (**DUE** **Friday, April 3^rd^**): **20%**
+- Short-form Podcast (**DUE** **Friday, April 3^rd^**): **20%**
 
--   Final Paper (**[DUE Monday, April 13^th^]{.underline}**): **30%**
+- Final Paper (**[DUE Monday, April 13^th^]{.underline}**): **30%**
 
 **[What the above list of requirements means]{.underline}:**
 

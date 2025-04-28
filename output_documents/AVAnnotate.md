@@ -146,133 +146,130 @@ Students will...
 
 **1. Introduce the Assignment**
 
--   Explain the outline and goals of the assignment
+- Explain the outline and goals of the assignment
 
-    -   Students will generate annotations of a multimodal text using
-        either a) the sample audio provided in the AVAnnotate project,
-        or b) other audiovisual material at
-        [[https://ualberta.aviaryplatform.com/collections/1783]{.underline}](https://ualberta.aviaryplatform.com/collections/1783),
-        institutional holdings, or online archives.
+  - Students will generate annotations of a multimodal text using
+    either a) the sample audio provided in the AVAnnotate project, or b)
+    other audiovisual material at
+    [[https://ualberta.aviaryplatform.com/collections/1783]{.underline}](https://ualberta.aviaryplatform.com/collections/1783),
+    institutional holdings, or online archives.
 
--   Break students into groups of 4-5, depending on class size. Each
-    student group should decide to use one (1) audio or video material;
-    meaning each student in the group will collaboratively annotate the
-    same individual object
+- Break students into groups of 4-5, depending on class size. Each
+  student group should decide to use one (1) audio or video material;
+  meaning each student in the group will collaboratively annotate the
+  same individual object
 
--   Discuss the [[AVAnnotate
-    templates]{.underline}](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
-    students will be using during this lesson
+- Discuss the [[AVAnnotate
+  templates]{.underline}](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
+  students will be using during this lesson
 
--   Questions students should be able to answer before annotating (Step
-    2):
+- Questions students should be able to answer before annotating (Step
+  2):
 
 <!-- -->
 
--   What is the structure of annotations for the AVAnnotate software?
+- What is the structure of annotations for the AVAnnotate software?
 
--   What is the difference between annotation and transcription?
+- What is the difference between annotation and transcription?
 
--   How does the relationship between the annotation and tag impact the
-    content of the exhibit?
+- How does the relationship between the annotation and tag impact the
+  content of the exhibit?
 
 **2. Develop Annotations**
 
--   Start by assigning students to listen/watch the multimodal text and
-    discussing a) the current annotation sets provided, and b) ideas for
-    new annotations/annotation sets
+- Start by assigning students to listen/watch the multimodal text and
+  discussing a) the current annotation sets provided, and b) ideas for
+  new annotations/annotation sets
 
-    -   The sample project contains 3 annotation sets: Edmonton Poets
-        Transcript; Edmonton Poets Captions; Readings and Discussion
+  - The sample project contains 3 annotation sets: Edmonton Poets
+    Transcript; Edmonton Poets Captions; Readings and Discussion
 
-    -   Identify what else students could pay attention to and annotate;
-        are there ways to pay attention differently to generate
-        annotation sets around...
+  - Identify what else students could pay attention to and annotate; are
+    there ways to pay attention differently to generate annotation sets
+    around...
 
-        -   Medium/material (Zoom recording, audio noise, glitching)
+    - Medium/material (Zoom recording, audio noise, glitching)
 
-        -   Environment (background noise, non-linguistic sounds)
+    - Environment (background noise, non-linguistic sounds)
 
-        -   Structure (content vs. transitions)
+    - Structure (content vs. transitions)
 
-        -   Tone/affect (inflection, mood)
+    - Tone/affect (inflection, mood)
 
-        -   Your course's topic/themes
+    - Your course's topic/themes
 
--   Give groups \~30 minutes to develop their new annotations using the
-    [[AVAnnotate
-    templates]{.underline}](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
+- Give groups \~30 minutes to develop their new annotations using the
+  [[AVAnnotate
+  templates]{.underline}](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
 
-    -   Refer students to [[AVAnnotate\'s
-        documentation]{.underline}](https://hipstas.github.io/ava_docs/docs/HowtoUse.html)
-        for guidance on how to use basic AVAnnotate functions, including
-        tags, time stamps and annotations
+  - Refer students to [[AVAnnotate\'s
+    documentation]{.underline}](https://hipstas.github.io/ava_docs/docs/HowtoUse.html)
+    for guidance on how to use basic AVAnnotate functions, including
+    tags, time stamps and annotations
 
--   In each group, confirm that students are following these
-    instructions:
+- In each group, confirm that students are following these instructions:
 
-    -   Students should collectively decide on what to annotate (the
-        quality of the audio; body language in the video; transcript of
-        one speaker; etc.) and why
+  - Students should collectively decide on what to annotate (the quality
+    of the audio; body language in the video; transcript of one speaker;
+    etc.) and why
 
-    -   Students should collectively decide on what tags they will use
-        to represent these annotations
+  - Students should collectively decide on what tags they will use to
+    represent these annotations
 
-    -   Students should collectively decide on the amount of detail,
-        length, and other aesthetic considers of the annotations
+  - Students should collectively decide on the amount of detail, length,
+    and other aesthetic considers of the annotations
 
-    -   Students should collectively decide on how to break-up the audio
-        (by time; tag; annotation feature; etc.)
+  - Students should collectively decide on how to break-up the audio (by
+    time; tag; annotation feature; etc.)
 
--   Finally, students will develop their annotations utilizing the
-    provided [[AVAnnotate
-    templates]{.underline}](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
+- Finally, students will develop their annotations utilizing the
+  provided [[AVAnnotate
+  templates]{.underline}](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
 
 **3. Reflection**
 
--   Ask students to discuss in their group what they found interesting
-    in the process or content of their annotations and why. What was
-    difficult about this practice?
+- Ask students to discuss in their group what they found interesting in
+  the process or content of their annotations and why. What was
+  difficult about this practice?
 
--   Reflecting on all of the annotations together, what do you notice is
-    different between each student annotation set?
+- Reflecting on all of the annotations together, what do you notice is
+  different between each student annotation set?
 
--   If there is time, have students share major findings with the rest
-    of the class
+- If there is time, have students share major findings with the rest of
+  the class
 
 **4. Developing an AVAnnotate Project (optional)**
 
--   Having students develop a full AVAnnotate project (collaboratively
-    or individually) can be a productive activity in that students are
-    able to listen/view their AV material alongside their collaborative
-    annotations
+- Having students develop a full AVAnnotate project (collaboratively or
+  individually) can be a productive activity in that students are able
+  to listen/view their AV material alongside their collaborative
+  annotations
 
--   While there isn't enough time in a 50-minute period to complete a
-    project, there are instructions online that students can refer to.
-    See the [[AVAnnotate "How to Use"
-    page]{.underline}](https://av-annotate.org/how-to-use/).
+- While there isn't enough time in a 50-minute period to complete a
+  project, there are instructions online that students can refer to. See
+  the [[AVAnnotate "How to Use"
+  page]{.underline}](https://av-annotate.org/how-to-use/).
 
--   The basic outline of this can be communicated at the end of the
-    class:
+- The basic outline of this can be communicated at the end of the class:
 
-    -   First, students will log into the AVAnnotate application. A
-        GitHub account is required to authenticate users in the
-        AVAnnotate software
+  - First, students will log into the AVAnnotate application. A GitHub
+    account is required to authenticate users in the AVAnnotate software
 
-    -   Second, students will take the audiovisual file URL (ending in
-        .mp3 or .mp4) or the IIIF and input that into the software
+  - Second, students will take the audiovisual file URL (ending in .mp3
+    or .mp4) or the IIIF and input that into the software
 
-    -   Third, students will either
+  - Third, students will either
 
-        -   1\. Upload their annotation files individually in .xlsx,
-            .csv, or .tsv format
+    - 1\. Upload their annotation files individually in .xlsx, .csv, or
+      .tsv format
 
-        -   2\. Upload their annotations collectively in .xlsx, .csv, or
-            .tsv format
+    - 2\. Upload their annotations collectively in .xlsx, .csv, or .tsv
+      format
 
-    -   Fourth, students have the option to build out their exhibit in
-        the AVAnnotate software, including images, context, or other
-        details they wish to include
+  - Fourth, students have the option to build out their exhibit in the
+    AVAnnotate software, including images, context, or other details
+    they wish to include
 
-    -   Fifth, an AVAnnotate project will be built and viewable as a
-        static and shareable exhibit that can be turned in online or
-        presented in-person during the next class
+  - Fifth, an AVAnnotate project will be built and viewable as a static
+    and shareable exhibit that can be turned in online or presented
+    in-person during the next class
