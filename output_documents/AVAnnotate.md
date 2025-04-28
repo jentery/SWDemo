@@ -1,12 +1,15 @@
 ---
-email: tclement@utexas.edu
-file_name: AVAnnotate.docx
-first_name: Tanya
-institution: Texas at Austin, U. of
+layout: post
+title: AVAnnotate
+permalink: AVAnnotate
 last_name: Clement
+first_name: Tanya
+email: tclement@utexas.edu
+institution: Texas at Austin, U. of
+title_of_doc: AVAnnotate
+file_name: AVAnnotate.docx
 original_doc_type: Workshop
 primary_discipline: 'Digital Humanities '
-title_of_doc: AVAnnotate
 url: https://av-annotate.org/
 
 # with Trent Wintermeier and Sam Turner

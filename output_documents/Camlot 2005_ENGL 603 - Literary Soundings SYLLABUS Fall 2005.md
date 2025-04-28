@@ -1,13 +1,17 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: Camlot 2005_ENGL 603 - Literary Soundings SYLLABUS Fall 2005.docx
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: Literary Soundings
+permalink: Camlot 2005_ENGL 603 - Literary Soundings SYLLABUS Fall 2005
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: Literary Soundings
+file_name: Camlot 2005_ENGL 603 - Literary Soundings SYLLABUS Fall 2005.docx
 original_doc_type: Syllabus
 primary_discipline: Literary Studies
-title_of_doc: Literary Soundings
-url:
+url: .nan
+
 ---
 ***Literary Soundings (ENGL 603/2)* \[2005-2006\]**
 

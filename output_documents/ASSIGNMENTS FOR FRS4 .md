@@ -1,12 +1,15 @@
 ---
-email: mjmacarthur@ucdavis.edu
-file_name: ASSIGNMENTS FOR FRS4 .docx
-first_name: Marit
-institution: California Davis, U. of
+layout: post
+title: The Art and Science of Performative Speech
+permalink: 'ASSIGNMENTS FOR FRS4 '
 last_name: MacArthur
+first_name: Marit
+email: mjmacarthur@ucdavis.edu
+institution: California Davis, U. of
+title_of_doc: The Art and Science of Performative Speech
+file_name: ASSIGNMENTS FOR FRS4 .docx
 original_doc_type: Prompt
 primary_discipline: Digital Humanities
-title_of_doc: The Art and Science of Performative Speech
 url: .nan
 
 # with Augusta Funk

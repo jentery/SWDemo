@@ -1,13 +1,17 @@
 ---
+layout: post
+title: Sonic Approaches in Literary Studies
+permalink: Camlot 2022_ENGL 603-801 - Sonic Approaches in Literary Studies SYLLABUS
+  Fall 2022 copy
+last_name: Camlot
+first_name: Jason
 email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: Sonic Approaches in Literary Studies
 file_name: Camlot 2022_ENGL 603-801 - Sonic Approaches in Literary Studies SYLLABUS
   Fall 2022 copy.docx
-first_name: Jason
-institution: Concordia U.
-last_name: Camlot
 original_doc_type: Syllabus
 primary_discipline: Literary Studies
-title_of_doc: Sonic Approaches in Literary Studies
 url: .nan
 
 ---

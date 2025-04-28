@@ -1,12 +1,15 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: The Critical Listening Journal - Initial Questions.docx
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: The Critical Listening Journal
+permalink: The Critical Listening Journal - Initial Questions
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: The Critical Listening Journal
+file_name: The Critical Listening Journal - Initial Questions.docx
 original_doc_type: Project
 primary_discipline: Literary Studies
-title_of_doc: The Critical Listening Journal
 url: .nan
 
 ---

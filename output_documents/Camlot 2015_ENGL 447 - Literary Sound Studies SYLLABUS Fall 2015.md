@@ -1,12 +1,15 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: Camlot 2015_ENGL 447 - Literary Sound Studies SYLLABUS Fall 2015.docx
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: Literary Sound Studies
+permalink: Camlot 2015_ENGL 447 - Literary Sound Studies SYLLABUS Fall 2015
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: Literary Sound Studies
+file_name: Camlot 2015_ENGL 447 - Literary Sound Studies SYLLABUS Fall 2015.docx
 original_doc_type: Syllabus
 primary_discipline: Literary Studies
-title_of_doc: Literary Sound Studies
 url: .nan
 
 ---

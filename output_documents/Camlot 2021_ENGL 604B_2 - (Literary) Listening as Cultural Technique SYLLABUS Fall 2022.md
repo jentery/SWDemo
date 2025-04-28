@@ -1,13 +1,17 @@
 ---
+layout: post
+title: 'Listening as Cultural Technique '
+permalink: Camlot 2021_ENGL 604B_2 - (Literary) Listening as Cultural Technique SYLLABUS
+  Fall 2022
+last_name: Camlot
+first_name: Jason
 email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: 'Listening as Cultural Technique '
 file_name: Camlot 2021_ENGL 604B_2 - (Literary) Listening as Cultural Technique SYLLABUS
   Fall 2022.docx
-first_name: Jason
-institution: Concordia U.
-last_name: Camlot
 original_doc_type: Syllabus
 primary_discipline: Sound Studies
-title_of_doc: 'Listening as Cultural Technique '
 url: .nan
 
 ---

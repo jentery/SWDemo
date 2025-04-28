@@ -1,12 +1,15 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: Camlot 2020_QUESTIONS FOR AVANT GARDE SOUND.docx
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: Questions for Avant-Garde Noise and Sound
+permalink: Camlot 2020_QUESTIONS FOR AVANT GARDE SOUND
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: Questions for Avant-Garde Noise and Sound
+file_name: Camlot 2020_QUESTIONS FOR AVANT GARDE SOUND.docx
 original_doc_type: Exercise
 primary_discipline: Sound Studies
-title_of_doc: Questions for Avant-Garde Noise and Sound
 url: .nan
 
 # care of Douglas Kahn

@@ -1,12 +1,15 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: Camlot 2020_antin - seminar piloting.docx
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: Seminar Piloting
+permalink: Camlot 2020_antin - seminar piloting
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: Seminar Piloting
+file_name: Camlot 2020_antin - seminar piloting.docx
 original_doc_type: Notes
 primary_discipline: Literary Studies
-title_of_doc: Seminar Piloting
 url: .nan
 
 ---

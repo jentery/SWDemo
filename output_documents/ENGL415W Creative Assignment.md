@@ -1,12 +1,15 @@
 ---
-email: michelle_levy@sfu.ca
-file_name: ENGL415W Creative Assignment.docx
-first_name: Michelle
-institution: 'Simon Fraser U. '
+layout: post
+title: Creative Assignment
+permalink: ENGL415W Creative Assignment
 last_name: Levy
+first_name: Michelle
+email: michelle_levy@sfu.ca
+institution: 'Simon Fraser U. '
+title_of_doc: Creative Assignment
+file_name: ENGL415W Creative Assignment.docx
 original_doc_type: Prompt
 primary_discipline: Literary Studies
-title_of_doc: Creative Assignment
 url: .nan
 
 ---

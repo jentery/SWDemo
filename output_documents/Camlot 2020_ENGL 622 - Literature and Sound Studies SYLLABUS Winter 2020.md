@@ -1,12 +1,15 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: Camlot 2020_ENGL 622 - Literature and Sound Studies SYLLABUS Winter 2020.docx
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: Literature and Sound Studies
+permalink: Camlot 2020_ENGL 622 - Literature and Sound Studies SYLLABUS Winter 2020
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: Literature and Sound Studies
+file_name: Camlot 2020_ENGL 622 - Literature and Sound Studies SYLLABUS Winter 2020.docx
 original_doc_type: Syllabus
 primary_discipline: Literary Studies
-title_of_doc: Literature and Sound Studies
 url: .nan
 
 ---

@@ -1,12 +1,15 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: Camlot 2000_ENGL - Literature and the Audiotext SYLLABUS Fall 2000.txt
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: Literature and the Audiotext
+permalink: Camlot 2000_ENGL - Literature and the Audiotext SYLLABUS Fall 2000
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: Literature and the Audiotext
+file_name: Camlot 2000_ENGL - Literature and the Audiotext SYLLABUS Fall 2000.txt
 original_doc_type: Syllabus
 primary_discipline: Literary Studies
-title_of_doc: Literature and the Audiotext
 url: .nan
 
 ---

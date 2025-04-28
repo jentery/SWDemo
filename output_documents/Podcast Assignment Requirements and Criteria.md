@@ -1,12 +1,15 @@
 ---
-email: jason.camlot@concordia.ca
-file_name: Podcast Assignment Requirements and Criteria.docx
-first_name: Jason
-institution: Concordia U.
+layout: post
+title: Shortform Podcast
+permalink: Podcast Assignment Requirements and Criteria
 last_name: Camlot
+first_name: Jason
+email: jason.camlot@concordia.ca
+institution: Concordia U.
+title_of_doc: Shortform Podcast
+file_name: Podcast Assignment Requirements and Criteria.docx
 original_doc_type: Prompt
 primary_discipline: Sound Studies
-title_of_doc: Shortform Podcast
 url: .nan
 
 ---
