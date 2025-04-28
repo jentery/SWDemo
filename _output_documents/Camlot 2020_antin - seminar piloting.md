@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seminar Piloting
-permalink: /output_documents/Camlot_2020_antin_-_seminar_piloting.html
+permalink: /_output_documents/Camlot_2020_antin_-_seminar_piloting.html
 last_name: Camlot
 first_name: Jason
 email: jason.camlot@concordia.ca

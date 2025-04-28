@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AVAnnotate
-permalink: output_documents/AVAnnotate.html
+permalink: /_output_documents/AVAnnotate.html
 last_name: Clement
 first_name: Tanya
 email: tclement@utexas.edu
