@@ -15,7 +15,7 @@ The SSHRC-funded [SpokenWeb](https://spokenweb.ca/) partnership aims to develop 
 
 All files in the collection are converted into [Markdown](https://daringfireball.net/projects/markdown/) using the [SWTools](https://github.com/callumyci/SWTools) script. 
 
-[Documentation](https://github.com/callumyci/SWTools/blob/main/README.md) for the SWTools script describes how to convert pedagogical materials (such as course outlines, lesson plans, and workshop instructions written in a word processor) into Markdown using [Pandoc](https://pandoc.org/). 
+[Documentation](https://github.com/callumyci/SWTools/blob/main/README.md) for the SWTools script describes how it automatically converts pedagogical materials (such as course outlines, lesson plans, and workshop instructions written in a word processor) into Markdown using [Pandoc](https://pandoc.org/). 
 
 The script also generates associated [YAML](https://yaml.org/) metadata files based on a [spreadsheet of metadata](https://github.com/jentery/SWDemo/blob/main/metadata.xlsx) (XLSX). YAML for each file includes metadata for the title, layout, filename, permalink, document type, discipline, affiliated project URL, and author's name(s), institution(s), and email address(es). 
 
@@ -24,3 +24,7 @@ The collection is designed to be published to a [Jekyll](https://github.com/jeky
 Project developer: Callum Carroll-Ireton (UVic)    
 Project editor: Jentery Sayers (UVic)    
 SpokenWeb director and PI: Jason Camlot (Concordia)   
+
+## Contribute 
+
+If you're a member of the SpokenWeb team and would like us to add your teaching and learning materials to this collection, then please email your files to [Jentery Sayers](https://www.uvic.ca/humanities/english/people/regularfaculty/sayers-jentery.php). 
