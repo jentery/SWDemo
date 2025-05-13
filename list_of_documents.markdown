@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index of Files
+title: The Collection
 permalink: /mdfiles/
 ---
 
