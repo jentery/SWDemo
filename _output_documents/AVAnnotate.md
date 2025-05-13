@@ -15,7 +15,7 @@ url: https://av-annotate.org/
 # with Trent Wintermeier and Sam Turner
 ---
 
-Tanya Clement, Sam Turner, and Trent Wintermeier
+*by Tanya Clement, Sam Turner, and Trent Wintermeier*
 
 [*AVAnnotate*](https://av-annotate.org/) allows users to build digital
 exhibits of annotated audiovisual (AV) artifacts. AVAnnotate leverages
