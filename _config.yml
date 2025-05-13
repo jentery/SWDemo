@@ -5,7 +5,6 @@ baseurl: "/SWDemo"
 url: "https://jentery.github.io"
 header_pages:
   - list_of_documents.markdown
-  - about.markdown
 collections:
   output_documents:
     output: true
