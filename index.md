@@ -29,7 +29,7 @@ SpokenWeb director and PI: Jason Camlot (Concordia)
 
 * Add more files to the collection.
 * Render each file available in PDF for downloading and printing.
-* Make the entire collection available in ZIP for downloading. 
+* Render the entire collection available in ZIP for downloading. 
 
 ## Contribute 
 
