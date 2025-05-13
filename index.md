@@ -7,21 +7,19 @@
 #
 layout: home
 ---
-Welcome to SpokenWeb Pedagogy, a collection of materials for learning and teaching literary sound studies. 
+Welcome to SpokenWeb Pedagogy, a [collection](https://jentery.github.io/SWDemo/mdfiles/) of materials for learning and teaching literary sound studies. 
 
 The SSHRC-funded [SpokenWeb](https://spokenweb.ca/) partnership aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond.
 
-Visit the [collection](https://jentery.github.io/SWDemo/mdfiles/). 
-
 ## About 
 
-All files in this collection are converted into Markdown using the [SWTools](https://github.com/callumyci/SWTools) script. 
+All files in the collection are converted into [Markdown](https://daringfireball.net/projects/markdown/) using the [SWTools](https://github.com/callumyci/SWTools) script. 
 
 [Documentation](https://github.com/callumyci/SWTools/blob/main/README.md) for the SWTools script describes how to convert pedagogical materials (such as course outlines, lesson plans, and workshop instructions written in a word processor) into Markdown using [Pandoc](https://pandoc.org/). 
 
-The script also generates associated [YAML](https://yaml.org/) metadata files based on a [spreadsheet of metadata](https://github.com/jentery/SWDemo/blob/main/metadata.xlsx). YAML for each file includes metadata for layout, title, filename, permalink, document type, discipline, project URL, author name, author's institution, and author's email address. 
+The script also generates associated [YAML](https://yaml.org/) metadata files based on a [spreadsheet of metadata](https://github.com/jentery/SWDemo/blob/main/metadata.xlsx) (XLSX). YAML for each file includes metadata for the title, layout, filename, permalink, document type, discipline, affiliated project URL, and author's name(s), institution(s), and email address(es). 
 
-The collection is designed to be seamlessly published to a [Jekyll](https://github.com/jekyll)-based web instance. It uses the [Minima](https://github.com/jekyll/minima) theme. 
+The collection is designed to be published to a [Jekyll](https://github.com/jekyll)-based web instance. It uses the [Minima](https://github.com/jekyll/minima) theme. 
 
 Project developer: Callum Carroll-Ireton (UVic)    
 Project editor: Jentery Sayers (UVic)    
