@@ -11,13 +11,15 @@ Welcome to SpokenWeb Pedagogy, a collection of materials for learning and teachi
 
 The SSHRC-funded [SpokenWeb](https://spokenweb.ca/) partnership aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond.
 
-Visit the collection. 
+Visit the [collection](https://jentery.github.io/SWDemo/mdfiles/). 
 
 ## About 
 
 All files in this collection are converted into Markdown using the [SWTools](https://github.com/callumyci/SWTools) script. 
 
-[Documentation](https://github.com/callumyci/SWTools/blob/main/README.md) for the SWTools script describes how to convert pedagogical materials (such as course outlines, lesson plans, and workshop instructions written in a word processor) into Markdown using Pandoc. The script also generates associated YAML metadata files based on a [spreadsheet of metadata](https://github.com/jentery/SWDemo/blob/main/metadata.xlsx). YAML includes metadata for layout, title, filename, permalink, document type, discipline, project URL, author name, author's institution, and author's email address. 
+[Documentation](https://github.com/callumyci/SWTools/blob/main/README.md) for the SWTools script describes how to convert pedagogical materials (such as course outlines, lesson plans, and workshop instructions written in a word processor) into Markdown using [Pandoc](https://pandoc.org/). 
+
+The script also generates associated [YAML](https://yaml.org/) metadata files based on a [spreadsheet of metadata](https://github.com/jentery/SWDemo/blob/main/metadata.xlsx). YAML for each file includes metadata for layout, title, filename, permalink, document type, discipline, project URL, author name, author's institution, and author's email address. 
 
 The collection is designed to be seamlessly published to a [Jekyll](https://github.com/jekyll)-based web instance. It uses the [Minima](https://github.com/jekyll/minima) theme. 
 
