@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Art and Science of Performative Speech
+title: Art and Science of Performative Speech
 permalink: /output_documents/ASSIGNMENTS_FOR_FRS4_.html
 last_name: MacArthur
 first_name: Marit
