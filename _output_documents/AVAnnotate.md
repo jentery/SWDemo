@@ -14,9 +14,8 @@ url: https://av-annotate.org/
 
 # with Trent Wintermeier and Sam Turner
 ---
-***SpokenWeb Pedagogy Collection Proposal--***
 
-**150 word introduction:**
+Tanya Clement, Sam Turner, and Trent Wintermeier
 
 [*AVAnnotate*](https://av-annotate.org/) allows users to build digital
 exhibits of annotated audiovisual (AV) artifacts. AVAnnotate leverages
@@ -149,9 +148,7 @@ Students will...
 
 **1. Introduce the Assignment**
 
-- Explain the outline and goals of the assignment
-
-  - Students will generate annotations of a multimodal text using
+- Explain the outline and goals of the assignment. Students will generate annotations of a multimodal text using
     either a) the sample audio provided in the AVAnnotate project, or b)
     other audiovisual material at
     [*https://ualberta.aviaryplatform.com/collections/1783*](https://ualberta.aviaryplatform.com/collections/1783),
@@ -160,7 +157,7 @@ Students will...
 - Break students into groups of 4-5, depending on class size. Each
   student group should decide to use one (1) audio or video material;
   meaning each student in the group will collaboratively annotate the
-  same individual object
+  same individual object.
 
 - Discuss the [*AVAnnotate
   templates*](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
@@ -182,14 +179,12 @@ Students will...
 
 - Start by assigning students to listen/watch the multimodal text and
   discussing a) the current annotation sets provided, and b) ideas for
-  new annotations/annotation sets
+  new annotations/annotation sets. The sample project contains 3 annotation sets: Edmonton Poets
+    Transcript; Edmonton Poets Captions; Readings and Discussion.
 
-  - The sample project contains 3 annotation sets: Edmonton Poets
-    Transcript; Edmonton Poets Captions; Readings and Discussion
-
-  - Identify what else students could pay attention to and annotate; are
-    there ways to pay attention differently to generate annotation sets
-    around...
+- Identify what else students could pay attention to and annotate; are
+  there ways to pay attention differently to generate annotation sets
+  around...
 
     - Medium/material (Zoom recording, audio noise, glitching)
 
@@ -205,10 +200,9 @@ Students will...
   [*AVAnnotate
   templates*](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
 
-  - Refer students to [*AVAnnotate\'s
-    documentation*](https://hipstas.github.io/ava_docs/docs/HowtoUse.html)
-    for guidance on how to use basic AVAnnotate functions, including
-    tags, time stamps and annotations
+- Refer students to [*AVAnnotate\'s documentation*](https://hipstas.github.io/ava_docs/docs/HowtoUse.html)
+  for guidance on how to use basic AVAnnotate functions, including
+  tags, time stamps and annotations
 
 - In each group, confirm that students are following these instructions:
 
