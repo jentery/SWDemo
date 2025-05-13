@@ -166,14 +166,12 @@ Students will...
 - Questions students should be able to answer before annotating (Step
   2):
 
-<!-- -->
+    - What is the structure of annotations for the AVAnnotate software?
 
-- What is the structure of annotations for the AVAnnotate software?
+    - What is the difference between annotation and transcription?
 
-- What is the difference between annotation and transcription?
-
-- How does the relationship between the annotation and tag impact the
-  content of the exhibit?
+    - How does the relationship between the annotation and tag impact the
+      content of the exhibit?
 
 **2. Develop Annotations**
 
