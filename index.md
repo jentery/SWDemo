@@ -15,13 +15,12 @@ Visit the collection.
 
 ## About 
 
-All files in the collection are converted into Markdown using [SWTools](https://github.com/callumyci/SWTools). Each file contains YAML metadata for its layout, title, filename, permalink, document type, discipline, project URL, and the author's name, institution, and email address. 
+All files in this collection are converted into Markdown using the [SWTools](https://github.com/callumyci/SWTools) script. 
 
+[Documentation](https://github.com/callumyci/SWTools/blob/main/README.md) for the SWTools script describes how to convert pedagogical materials (such as course outlines, lesson plans, and workshop instructions written in a word processor) into Markdown using Pandoc. The script also generates associated YAML metadata files based on a [spreadsheet of metadata](https://github.com/jentery/SWDemo/blob/main/metadata.xlsx). YAML includes metadata for layout, title, filename, permalink, document type, discipline, project URL, author name, author's institution, and author's email address. 
 
-You can find the source code for Minima at GitHub: jekyll / minima
+The collection is designed to be seamlessly published to a [Jekyll](https://github.com/jekyll)-based web instance. It uses the [Minima](https://github.com/jekyll/minima) theme. 
 
-You can find the source code for Jekyll at GitHub: jekyll / jekyll
-
-Project developer: Callum Carroll-Ireton (UVic) 
-Project editor: Jentery Sayers (UVic) 
-SpokenWeb director and PI: Jason Camlot (Concordia) 
+Project developer: Callum Carroll-Ireton (UVic)    
+Project editor: Jentery Sayers (UVic)    
+SpokenWeb director and PI: Jason Camlot (Concordia)   
