@@ -25,6 +25,12 @@ Project developer: Callum Carroll-Ireton (UVic)
 Project editor: Jentery Sayers (UVic)    
 SpokenWeb director and PI: Jason Camlot (Concordia)   
 
+## Roadmap 
+
+* Add more files to the collection.
+* Render each file available in PDF for downloading and printing.
+* Make the entire collection available in ZIP for downloading. 
+
 ## Contribute 
 
 If you're a member of the SpokenWeb team and would like us to add your teaching and learning materials to this collection, then please email your files to [Jentery Sayers](https://www.uvic.ca/humanities/english/people/regularfaculty/sayers-jentery.php). 
