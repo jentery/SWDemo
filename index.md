@@ -11,8 +11,17 @@ Welcome to SpokenWeb Pedagogy, a collection of materials for learning and teachi
 
 The SSHRC-funded [SpokenWeb](https://spokenweb.ca/) partnership aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond.
 
+Visit the collection. 
+
 ## About 
+
+All files in the collection are converted into Markdown using [SWTools](https://github.com/callumyci/SWTools). Each file contains YAML metadata for its layout, title, filename, permalink, document type, discipline, project URL, and the author's name, institution, and email address. 
+
 
 You can find the source code for Minima at GitHub: jekyll / minima
 
 You can find the source code for Jekyll at GitHub: jekyll / jekyll
+
+Project developer: Callum Carroll-Ireton (UVic) 
+Project editor: Jentery Sayers (UVic) 
+SpokenWeb director and PI: Jason Camlot (Concordia) 
