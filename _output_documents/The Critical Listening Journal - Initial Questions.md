@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Critical Listening Journal
+title: Critical Listening Journal
 permalink: /output_documents/The_Critical_Listening_Journal_-_Initial_Questions.html
 last_name: Camlot
 first_name: Jason
