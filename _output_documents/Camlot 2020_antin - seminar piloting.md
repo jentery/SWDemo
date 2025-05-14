@@ -13,6 +13,8 @@ primary_discipline: Literary Studies
 url: .nan
 
 ---
+*by Jason Camlot* 
+
 1.  How are we listening under the present circumstances? How are we
     feeling about what we hear?
 
@@ -25,84 +27,55 @@ url: .nan
     it as an entity?
 
 "I came here with an intention to do a piece relating to something I'd
-been thinking about..."
+been thinking about..."  
+--antin, "The Principle of Fit II"
 
-**\--antin, "The Principle of Fit II"**
-
-> *ive gotten into the habit of going into a*
-
-*closet to address myself over a typewriter what kind*
-
-*of talking is that?*
-
-**\--antin, *talking at the boundaries***
+"ive gotten into the habit of going into a closet to address myself over a typewriter what kind of talking is that?"
+--antin, *talking at the boundaries*
 
 Q: What is kind of relationship between talk and thinking is being
 performed? What is the status of "intention" in relation to structure,
 improvisation, chance?
 
-4.  APOSTROPHE + ecphonesis + prosopopeia (figures of address).
-
-Deixis (Poetic Deictics): Linguistic tropes and procedures speakers (in
+* Apostrophe + ecphonesis + prosopopeia (figures of address).
+* Deixis (Poetic Deictics): Linguistic tropes and procedures speakers (in
 literature and otherwise) use to locate themselves in space and time.
-
-- Ecphonesis: The gesture of turning away from one recognized audience
+* Ecphonesis: The gesture of turning away from one recognized audience
   to address another.
-
-- Prosopopoeia: Addressing a dead or absent person, an animal, a thing,
+* Prosopopoeia: Addressing a dead or absent person, an animal, a thing,
   or an abstract quality or idea as if it were alive, and capable of
   understanding.
+* Ecphonesis: A poetic outcry or exclamation.
 
-- Ecphonesis: A poetic outcry or exclamation.
-
-\[I\]t is certainly beyond question that the figure of address is
+"\[I\]t is certainly beyond question that the figure of address is
 recurrent in lyric poetry, to the point of constituting the generic
 definition of, at the very least, the ode (which can, in its turn, be
-seen as paradigmatic for poetry in general).
+seen as paradigmatic for poetry in general)."    
+--Paul de Man, "Hypogram and Inscription" in *Resistance to Theory***
 
-**\--Paul de Man, "Hypogram and Inscription" in *Resistance to Theory***
+"O pure of heart! thou need\'st not ask of me    
+What this strong music in the soul may be!"       
+--S.T. Coleridge, "Dejection: an Ode"
 
-> O pure of heart! thou need\'st not ask of me 
->
-> What this strong music in the soul may be! 
->
-> **\--S.T. Coleridge, "Dejection: an Ode"**
->
-> as a poet i
-
-was getting extremely tired of what I considered an unnatural
-
-language act going into a closet so to speak sitting in
-
-front of a typewriter because anything is possible in a closet
-
-in front of a typewriter and nothing is necessary a closet is no
-
-place to address anybody
-
-**\--antin, "talking at the boundaries"**
+as a poet i was getting extremely tired of what I considered an unnatural language act going into a closet so to speak sitting in front of a typewriter because anything is possible in a closet in front of a typewriter and nothing is necessary a closet is no place to address anybody   
+--antin, "talking at the boundaries"
 
 Q: How might we think of antin's talk poetry as a radical extension of
 the poetics of dectics? What kinds of arguments about antin and
 apostrophe can we develop? Where does that lead us, critically speaking?
 
-5.  Listening to the "Principle of Fit II"
+Listening to the "Principle of Fit II"
 
 - The idea of 'fit'
-
 - Glaucoma (the wish for fit / discursive vagueness)
-
 - Bev (half-fit -- yes, Vegas, no)
-
 - Funeral Speeches (style)
-
 - Actress Hotel Shtetl (narrative non-fit)
 
 Q: How do we listen to an antin talk poem? How do we take notes on it?
 Make sense of it? Discern structure?
 
-6.  Shuhei Hosokawea, "The Walkman Effect" -- Three passages to think
-    about in relation to antin.
+Shuhei Hosokawea, "The Walkman Effect" -- Three passages to think about in relation to antin.
 
 *Singularisation*: \[I\]it enables our musical listening to be more
 occasional, more incidental, more contingent...The Walkman produces or
