@@ -58,10 +58,7 @@ uses their voice and silence influence your understanding of the words?
 
 *Word count:* \~500-750 words
 
-4\. Formulate a series of precise, *testable hypotheses* about what you
-think the Gentle and Drift and Voxit analysis will show about the
-recording, in terms of at least four Voxit measures, WPM, and any other
-pitch and timing and intensity patterns you're interested in.
+  4\. Formulate a series of precise, *testable hypotheses* about what you think the Gentle and Drift and Voxit analysis will show about the recording, in terms of at least    four Voxit measures, WPM, and any other pitch and timing and intensity patterns you're interested in.
 
 *Word count*: \~50-100 words
 
