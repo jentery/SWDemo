@@ -16,11 +16,11 @@ url: .nan
 
 *by Michelle Levy* 
 
-ENGL415W E100 Seminar in Media, Culture and Performance
-Simon Fraser University
-FALL 2023 - ENGL 415W E100
-SEMINAR IN MEDIA, CULTURE AND PERFORMANCE (4)
-JANE AUSTEN AND THE "ACCOMPLISHED WOMAN"
+ENGL415W E100 Seminar in Media, Culture and Performance   
+Simon Fraser University   
+FALL 2023 - ENGL 415W E100    
+SEMINAR IN MEDIA, CULTURE AND PERFORMANCE (4)    
+JANE AUSTEN AND THE "ACCOMPLISHED WOMAN"    
 Instructor: Michelle Levy
 
 COURSE OUTLINE
