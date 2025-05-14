@@ -14,21 +14,14 @@ url: .nan
 
 # with Augusta Funk
 ---
-**FYS 4: THE ART & SCIENCE OF PERFORMATIVE SPEECH**
 
-MacArthur and Miller
+*by Marit MacArthur and Augusta Funk* 
 
 **Performative Speech Reflection & Analysis**
 
-Brief reflection on and analysis of a recorded sample of performative
-speech, 90-120 seconds,
+Brief reflection on and analysis of a recorded sample of performative speech, 90-120 seconds, from stand-up comedy, film, radio, television, political speech, etc.
 
-from stand-up comedy, film, radio, television, political speech, etc.
-Sample is chosen by the
-
-student and approved by the instructors*.* Must include a link to the
-recording, the integration of shorter clips from the recording, and
-sound visualization using Drift, and some analysis of Voxit measures.
+Sample is chosen by the student and approved by the instructors*.* Must include a link to the recording, the integration of shorter clips from the recording, and sound visualization using Drift, and some analysis of Voxit measures.
 
 *PART 1, due by midnight on 10/5 on the Canvas Discussion board:*
 
@@ -36,14 +29,13 @@ Post links to three samples of performative speech that you might use,
 and briefly answer these questions about each one. The samples should be
 recordings you have a strong reaction to; they do not have to be
 recordings you love, but choose wisely---you will spend a lot of time
-listening to and thinking about the sample you choose! 1) How did you
-come upon this recording? 2) What interests you about it, in terms of
-the speaker, the content, the context (where the performance was
-delivered, when, and why), the audience, and so on? 3) Briefly summarize
-the content of the recording---what the speaker says. 4) What are your
-impressions about the speaker's voice, as they use it in the recording?
-Please describe the voice as specifically as you can. 4) Which recording
-do you most want to analyze? Do you need help deciding among them?
+listening to and thinking about the sample you choose! 
+
+1. How did you come upon this recording?
+2. What interests you about it, in terms of the speaker, the content, the context (where the performance was delivered, when, and why), the audience, and so on?
+3. Briefly summarize the content of the recording---what the speaker says.
+4. What are your impressions about the speaker's voice, as they use it in the recording? Please describe the voice as specifically as you can.
+5. Which recording do you most want to analyze? Do you need help deciding among them?
 
 *Word count*: 250-500 words.
 
@@ -51,15 +43,15 @@ do you most want to analyze? Do you need help deciding among them?
 
 *PART 2, due by midnight on 10/26:*
 
-1\) Provide some background about the sample: who is speaking? Where?
+1. Provide some background about the sample: who is speaking? Where?
 When? Why? To what audience? Where did you find the recording and how
 did you hear about it?
 
-2\) Provide a brief, objective summary of the content of the
+2. Provide a brief, objective summary of the content of the
 recording---what the speaker is saying. Avoid quoting more than a few
 words.
 
-3\) Then narrate your impressions of the recording you've chosen, in
+3. Then narrate your impressions of the recording you've chosen, in
 terms of your listening intuitions about pitch and timing and intensity
 patterns and anything else that stands out to you as listen to it.
 Please impressionistically describe the voice saying 3-4 specific
@@ -68,7 +60,7 @@ uses their voice and silence influence your understanding of the words?
 
 *Word count:* \~500-750 words
 
-4\) Formulate a series of precise, *testable hypotheses* about what you
+4. Formulate a series of precise, *testable hypotheses* about what you
 think the Gentle and Drift and Voxit analysis will show about the
 recording, in terms of at least four Voxit measures, WPM, and any other
 pitch and timing and intensity patterns you're interested in.
@@ -80,13 +72,10 @@ approval, ASAP.*
 
 *PART 3, due by the start of class on 11/18*
 
-1\) Run the sample recording through Gentle and Drift. 2) Share results:
-Summarize all of the Voxit data, including a table. 3) Analyze and
-discuss the results of your analysis of your performative speech sample.
-Were your hypotheses confirmed? Why or why not? Be sure to Include some
-screenshots of pitch contours from Drift. 4) Write a brief conclusion.
-What did you learn from this experiment that you might apply to future
-research?
+1. Run the sample recording through Gentle and Drift.
+2. Share results: Summarize all of the Voxit data, including a table.
+3. Analyze and discuss the results of your analysis of your performative speech sample. Were your hypotheses confirmed? Why or why not? Be sure to Include some screenshots of pitch contours from Drift.
+4. Write a brief conclusion. What did you learn from this experiment that you might apply to future research?
 
 *Word count*: 1,000\~1,500 words.
 
@@ -144,9 +133,6 @@ specific topic sentences and smooth, logical transitions.
 \_\_ All three parts are carefully proofread and free of typos and
 grammatical errors. (Proofread aloud!)
 
-**\
-**
-
 **Self-Recording Reflection & Analysis**
 
 Two self-recordings by each student reading the short text, "As a lost
@@ -154,13 +140,13 @@ dog," and a brief reflection on and analysis of each recording
 
 *Part 1:* *Due by 2 pm on 9/30*
 
-1\) Silently read through the text a few times. Write a brief, objective
+1. Silently read through the text a few times. Write a brief, objective
 summary of it as best you can, after reading it silently a few times.
 Don't do any research; only use a dictionary if needed.
 
 *Word count*: 200-300 words
 
-2\) Then record yourself reading the text in a quiet environment (a
+2. Then record yourself reading the text in a quiet environment (a
 closet is ideal), using Audacity on your laptop, or an app on your
 phone. However you record yourself, you must be able to download the
 recording on to your laptop and, if necessary, convert it into an MP3 or
@@ -168,27 +154,31 @@ a WAV file for analysis.
 
 *Part 2: Due by 2 pm on 10/21*
 
-1\) Listen to the recording of yourself, ideally with headphones, in a
-quiet environment. 2) Reflect on your voice and how you use it reading
+1. Listen to the recording of yourself, ideally with headphones, in a
+quiet environment.
+2. Reflect on your voice and how you use it reading
 the text. What do you notice about your voice in the way you read
 particular phrases; in answering this question, consider what you
-learned from Eliza Jane Schneider about the voice. 3) How does your
+learned from Eliza Jane Schneider about the voice.
+3. How does your
 voice sound to you recorded, versus the way it sounds inside your head?
 Is there anything you particularly like, dislike or simply notice about
 your voice and the way you use it, in this recording and in general?
-About the way you read the text? 4) How did recording yourself reading
+About the way you read the text?
+4. How did recording yourself reading
 the text, and then listening to it, affect your understanding of the
-text, if it did? 5) When you record yourself reading it again, what will
+text, if it did?
+5. When you record yourself reading it again, what will
 you try to change, if anything?
 
 *Word count:* 250-500 words.
 
 *Part 3: Due by 2 pm on 11/4*
 
-1\) Record yourself reading the text again. Do NOT make this recording
+1. Record yourself reading the text again. Do NOT make this recording
 before 11/1.
 
-2\) Formulate some *testable hypotheses* about your voice in these two
+2. Formulate some *testable hypotheses* about your voice in these two
 recordings, in terms of at least four Voxit measures, WPM, and any other
 pitch and timing and intensity patterns you're interested in. Include
 speculative comparisons between the two recordings. Will the Voxit
@@ -200,7 +190,7 @@ approval, ASAP.*
 
 *Part 4: Due by midnight on 12/8*
 
-4\) Run the first recording sample recording through Gentle and Drift.
+3. Run the first recording sample recording through Gentle and Drift.
 2) Share results: Summarize all of the Voxit data, including a table. 3)
 Analyze and discuss the results of your analysis of the two recordings
 of your voice reading the same text. Were your hypotheses confirmed? Why
@@ -266,9 +256,6 @@ specific topic sentences and smooth, logical transitions.
 \_\_ All four parts are carefully proofread and free of typos and
 grammatical errors. (Proofread aloud!)
 
-**\
-**
-
 **5-7 minute Work-in-Progress Presentation**
 
 Brief presentation of key insights, questions and challenges so far from
@@ -328,10 +315,10 @@ Gentle, Drift and Voxit to analyze the recording in question.
 
 *Due at 2 pm on 12/2 as a Canvas Discussion Post:*
 
-1\) Provide a brief, objective summary of the content of the
+1. Provide a brief, objective summary of the content of the
 performance. Avoid quoting more than a few words.
 
-2\) Offer your detailed impressions of the performance, first in terms
+2. Offer your detailed impressions of the performance, first in terms
 of the content, and then in terms of your listening intuitions about
 pitch and timing and intensity patterns and anything else that stood out
 to you. How does the way EJS uses her voice and silence influence your
