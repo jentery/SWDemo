@@ -17,12 +17,10 @@ url: .nan
 
 1.  How are we listening under the present circumstances? How are we
     feeling about what we hear?
-
 2.  Please enter one question or topic you would like to discuss in
     relation to today's course materials into the "chat" function. Share
     your questions with everyone. We will get to these in the course of
     our discussion.
-
 3.  What is an antin "talk poem"? Where does it exist? How do we define
     it as an entity?
 
@@ -57,7 +55,7 @@ seen as paradigmatic for poetry in general)."
 What this strong music in the soul may be!"       
 --S.T. Coleridge, "Dejection: an Ode"
 
-as a poet i was getting extremely tired of what I considered an unnatural language act going into a closet so to speak sitting in front of a typewriter because anything is possible in a closet in front of a typewriter and nothing is necessary a closet is no place to address anybody   
+"as a poet i was getting extremely tired of what I considered an unnatural language act going into a closet so to speak sitting in front of a typewriter because anything is possible in a closet in front of a typewriter and nothing is necessary a closet is no place to address anybody"      
 --antin, "talking at the boundaries"
 
 Q: How might we think of antin's talk poetry as a radical extension of
@@ -77,23 +75,23 @@ Make sense of it? Discern structure?
 
 Shuhei Hosokawea, "The Walkman Effect" -- Three passages to think about in relation to antin.
 
-*Singularisation*: \[I\]it enables our musical listening to be more
+*Singularisation*: "\[I\]it enables our musical listening to be more
 occasional, more incidental, more contingent...The Walkman produces or
 constitutes a musical *event* which is characterized as unique, mobile
-and singular. (p 107)
+and singular." (p 107)
 
-To make the concept of 'positive distance' more precise, we may compare
+"To make the concept of 'positive distance' more precise, we may compare
 within the flood of objects the Walkman with the polaroid, with respect
 to speed of act, immediacy of effect, simplicity of mechanical
 construction, verisimilitude of output, low-fidelity (lower than the
 ordinary stereo or camera) of reproduction, ease of operation,
 non-specificity of territory, anonymity of subject, and contingency of
-event. (p 108)
+event." (p 108)
 
-The Walkman, in fact, has no meaningless context; at the same time,
+"The Walkman, in fact, has no meaningless context; at the same time,
 paradoxically, no context is strictly appropriate for it. Every context
 (or no context) can be justified, appropriated and legitimated by its
-singularity and autonomy. (p 109).
+singularity and autonomy." (p 109).
 
 Q: What are the media aesthetics of antin's talk poetry? What does
 *context* mean in antin's talk poetics?
