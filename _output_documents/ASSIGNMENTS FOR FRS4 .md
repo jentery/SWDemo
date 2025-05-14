@@ -46,11 +46,9 @@ listening to and thinking about the sample you choose!
 1. Provide some background about the sample: who is speaking? Where?
 When? Why? To what audience? Where did you find the recording and how
 did you hear about it?
-
 2. Provide a brief, objective summary of the content of the
 recording---what the speaker is saying. Avoid quoting more than a few
 words.
-
 3. Then narrate your impressions of the recording you've chosen, in
 terms of your listening intuitions about pitch and timing and intensity
 patterns and anything else that stands out to you as listen to it.
@@ -60,7 +58,7 @@ uses their voice and silence influence your understanding of the words?
 
 *Word count:* \~500-750 words
 
-4. Formulate a series of precise, *testable hypotheses* about what you
+4\. Formulate a series of precise, *testable hypotheses* about what you
 think the Gentle and Drift and Voxit analysis will show about the
 recording, in terms of at least four Voxit measures, WPM, and any other
 pitch and timing and intensity patterns you're interested in.
@@ -146,7 +144,7 @@ Don't do any research; only use a dictionary if needed.
 
 *Word count*: 200-300 words
 
-2. Then record yourself reading the text in a quiet environment (a
+2\. Then record yourself reading the text in a quiet environment (a
 closet is ideal), using Audacity on your laptop, or an app on your
 phone. However you record yourself, you must be able to download the
 recording on to your laptop and, if necessary, convert it into an MP3 or
@@ -177,7 +175,6 @@ you try to change, if anything?
 
 1. Record yourself reading the text again. Do NOT make this recording
 before 11/1.
-
 2. Formulate some *testable hypotheses* about your voice in these two
 recordings, in terms of at least four Voxit measures, WPM, and any other
 pitch and timing and intensity patterns you're interested in. Include
@@ -190,16 +187,13 @@ approval, ASAP.*
 
 *Part 4: Due by midnight on 12/8*
 
-3. Run the first recording sample recording through Gentle and Drift.
-2) Share results: Summarize all of the Voxit data, including a table. 3)
-Analyze and discuss the results of your analysis of the two recordings
-of your voice reading the same text. Were your hypotheses confirmed? Why
-or why not? Be sure to Include some screenshots of pitch contours from
-Drift. 4) Write a brief conclusion. What did you learn from this
-experiment that you might apply to future research, and to the ways you
-use your voice in performative contexts? In answering this question,
-consider what you learned from Eliza Jane Schneider about the voice.
-1,000\~1,500 words.
+1. Run the first recording sample recording through Gentle and Drift.
+2. Share results: Summarize all of the Voxit data, including a table.
+3. Analyze and discuss the results of your analysis of the two recordings of your voice reading the same text. Were your hypotheses confirmed? Why
+or why not? Be sure to Include some screenshots of pitch contours from Drift.
+4. Write a brief conclusion. What did you learn from this experiment that you might apply to future research, and to the ways you use your voice in performative contexts? In answering this question, consider what you learned from Eliza Jane Schneider about the voice.
+   
+*Word count*: 1,000\~1,500 words.
 
 **EVALUATION RUBRIC**
 
@@ -306,9 +300,6 @@ Self-Recorded Reflection & Analysis.
 \_\_ Presentation includes some sound clips and discussion of using
 Gentle, Drift and Voxit to analyze the recording in question.
 
-**\
-**
-
 **Brief Reflection on EJS performance, Freedom of Speech**
 
 *Word count*: \~500 words
@@ -317,7 +308,6 @@ Gentle, Drift and Voxit to analyze the recording in question.
 
 1. Provide a brief, objective summary of the content of the
 performance. Avoid quoting more than a few words.
-
 2. Offer your detailed impressions of the performance, first in terms
 of the content, and then in terms of your listening intuitions about
 pitch and timing and intensity patterns and anything else that stood out
