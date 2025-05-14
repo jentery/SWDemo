@@ -14,9 +14,9 @@ url: .nan
 
 # care of Douglas Kahn
 ---
-> QUESTIONS FOR AVANT-GARDE NOISE AND SOUND (via Douglas Kahn)
+*by Jason Camlot via Douglas Kahn* 
 
-1.  **Sources of the Sounds of Noise. (p. 428)**
+**Sources of the Sounds of Noise. (p. 428)**
 
 Kahn's discussion of the Heulsenbeck's list of brutism's sounds:
 "everything on the list was a domestic item, or when they were public,
@@ -25,22 +25,22 @@ important and interesting to think of the nature of the items selected
 to make noise. What are the symbolic implications of the causal sources
 of the sounds, so to speak.
 
-[For example, one signature sound of the 2012 "Maple Spring" protests
+For example, one signature sound of the 2012 "Maple Spring" protests
 was that of the \"Casseroles\" a series of nightly protests that spread
 to residential neighborhoods in which people stood on their own
 balconies banging pots and pans. These sounds were inspired by
 the cacerolazos protests of Chile in 1971, which also involved residents
 banging on pots and pans from their windows. The sounds of domestic
 objects suggests a powerful grassroots form of politics, and the
-politicization of the personal.]{.mark}
+politicization of the personal.
 
-***Questions: What is the symbolic meaning of the causal or material
+**Questions: What is the symbolic meaning of the causal or material
 sources of the sounds used to make noise? What do the things used to
 make the noise signify in the world where sound works according to the
 rules, and what does it mean to use* those *things to generate unruly
-sounds?***
+sounds?**
 
-2.  **Appropriation and power relations of noise (p. 429)**
+**Appropriation and power relations of noise (p. 429)**
 
 "During the days of the Cabaret Voltaire Huelsenbeck's 'negro' poems
 were part of the trivializing appropriation of other cultures Europeans
@@ -55,7 +55,7 @@ lead us to ask: Against* what *is the noise of this avant-garde work
 positioned, and at whose expense? What power is attacked by this noise,
 and whose power is appropriated by the gesture of sonic attack?***
 
-3.  **Hugo Ball's performance of Edenic language (p. 431)**
+**Hugo Ball's performance of Edenic language (p. 431)**
 
 "I noticed that my voice had no choice but to take on the ancient
 cadence of priestly lamentation, that style of liturgical singing that
@@ -69,15 +69,15 @@ in a manner that communicates the emotional meaning of the poem. But
 what about the performance of noise and other kinds of sound? In the
 non-vocal rendering of such sounds in performance?
 
-***Q: What affective position is required to perform avant-garde noise
+**Q: What affective position is required to perform avant-garde noise
 in any given situation? What is the significance of the
 artist's/performer's affective relationship to the sounds being
 generated during the performance? (And, to invert the question, what
 affective positions are expected from an audience of such sound, and how
 can they be expected to assume such positions in response to sound and
-noise that is avant-garde?)***
+noise that is avant-garde?)**
 
-4.  **Simultaneity (p. 432)**
+**Simultaneity (p. 432)**
 
 "The distinction between a succession and 'simultaneity', which defies
 formulation because it is a direct symbol of action. And so ultimately a
