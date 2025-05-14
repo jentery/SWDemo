@@ -13,19 +13,17 @@ primary_discipline: Literary Studies
 url: .nan
 
 ---
+
+*by Michelle Levy* 
+
 ENGL415W E100 Seminar in Media, Culture and Performance
-
-**Simon Fraser University**
-
-**FALL 2023 - ENGL 415W E100**
-
-**SEMINAR IN MEDIA, CULTURE AND PERFORMANCE (4)**
-
-**JANE AUSTEN AND THE "ACCOMPLISHED WOMAN"**
-
+Simon Fraser University
+FALL 2023 - ENGL 415W E100
+SEMINAR IN MEDIA, CULTURE AND PERFORMANCE (4)
+JANE AUSTEN AND THE "ACCOMPLISHED WOMAN"
 Instructor: Michelle Levy
 
-COURSE OUTLINE:
+COURSE OUTLINE
 
 "Then," observed Elizabeth, "you must comprehend a great deal in your
 idea of an accomplished woman."
@@ -49,8 +47,6 @@ women.  I rather wonder now at your knowing *any*."
 
 \--Conversation between Elizabeth Bennet, Caroline Bingley and Mr.
 Darcy, from Jane Austen's *Pride and Prejudice*
-
- 
 
 In this scene, Jane Austen satirically comments on the "accomplishments"
 women were urged to acquire. As Mary Wollstonecraft had noted two
@@ -87,22 +83,13 @@ campus to accommodate the planned activities.
 
 **Course Assignments**
 
-Participation (includes one presentation 10%) 20% 
-
-Proposal for First Creative Project Due Sept. 25 \[only required if you
-are doing a creative project\]
-
-Essay or Creative Project (\~1500 words) 25% Due Oct. 10
-
-Revision of Essay or Creative Project Due Oct. 30
-
-Proposal for Final Creative Project Due Nov. 20 \[only required if you
-are doing a creative project\]
-
-Reading Journals (6 entries @ 300-400 words) 25% First three due Nov. 6;
-last three due Dec. 4
-
-Final Essay or Creative Project (\~2500 words) 30% Dec. 11
+* Participation (includes one presentation 10%) 20%
+* Proposal for First Creative Project Due Sept. 25 \[only required if you are doing a creative project\]
+* Short Essay or Creative Project (\~1500 words) 25% Due Oct. 10
+* Revision of Essay or Creative Project Due Oct. 30
+* Proposal for Final Creative Project Due Nov. 20 \[only required if you are doing a creative project\]
+* Reading Journals (6 entries @ 300-400 words) 25% First three due Nov. 6; last three due Dec. 4
+* Final Essay or Creative Project (\~2500 words) 30% Dec. 11
 
 **Short Essay or Creative Project**
 
@@ -118,15 +105,11 @@ following in a fourth-year essay in this class:
 
 - You discuss at least one longer work by Jane Austen, ideally more than
   one.
-
 - You identify a topic and use that topic to shape your analysis.
-
 - You integrate secondary sources that are relevant to your topic. These
   can be sources assigned but I expect you to do independent research to
   identify other scholarship or sources that are relevant.
-
 - You demonstrate an understanding of the historical period.
-
 - You have an argument that is specific and original and that builds
   upon existing work on your topic. This argument should be
   well-crafted, critically engaged, and attentive to the textual
@@ -138,25 +121,20 @@ following in a fourth-year essay in this class:
   through a similar process of revision. Throughout, you need to keep
   returning to the works in question, rereading them and revising your
   thesis to make it tighter and stronger.
-
 - Your thesis will only succeed if you have the textual evidence to back
   it up.  In the essay itself, you will want to make repeated references
   to the works in question, in the form of direct quotations, summary
   and paraphrase, and of course, analysis of these textual references.
-
 - You properly cite your sources using MLA style. Please include page
   references (in MLA citation format) to all direct quotations, a works
   cited, and be sure to reference all secondary sources you use.
-
 - I expect the writing and thinking in your paper to be your own.
 
 Evaluation of the essay is based on three elements:
 
-\(1\) the forcefulness and clarity of your argument;
-
-\(2\) the use of textual evidence to establish your argument;
-
-\(3\) the quality of writing, as measured by its clarity, structure and
+1. the forcefulness and clarity of your argument;
+2. the use of textual evidence to establish your argument;
+3. the quality of writing, as measured by its clarity, structure and
 grammatical correctness. 
 
 I am here to help you develop your ideas for your essay. I am available
@@ -188,14 +166,12 @@ based upon.
 
 Evaluation of the creative assignment is based on three elements:
 
-\(1\) the depth of your engagement with the primary text or texts,
+1. the depth of your engagement with the primary text or texts,
 through your direct references or allusions to them, and how you build
 upon them. A central question I will be asking is, how does your
 creative response deepen our understanding of the original?;
-
-\(2\) the quality of writing, as measured by its clarity, structure and
+2. the quality of writing, as measured by its clarity, structure and
 grammatical correctness. If you are using another medium, this will be
 adapted to assess your success in that medium.
-
-\(3\) the narrative and how it explains your critical engagement with
+3. the narrative and how it explains your critical engagement with
 the original work.
