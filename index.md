@@ -23,6 +23,7 @@ The collection is designed to be published to a [Jekyll](https://github.com/jeky
 
 Project developer: Callum Carroll-Ireton (UVic)    
 Project editor: Jentery Sayers (UVic)    
+Project communications: Joel Wheeler (UVic)  
 SpokenWeb director and PI: Jason Camlot (Concordia)   
 
 ## Roadmap 
