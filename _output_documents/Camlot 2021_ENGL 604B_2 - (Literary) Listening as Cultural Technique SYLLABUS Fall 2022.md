@@ -14,18 +14,14 @@ primary_discipline: Sound Studies
 url: .nan
 
 ---
-**ENGL 604B/2 - (Literary) Listening as Cultural Technique**
 
-Prof. Jason Camlot
+*by Jason Camlot* 
 
-Telephone: 514-848-2424 x2353
-
-Class Time: Monday 15:30-17:45 (3:30-5:45pm)
-
-Office Hours: Wednesday 13:00-15:00 and by appointment, held on Zoom
-
-Class Room: Zoom and Moodle
-
+ENGL 604B/2 - (Literary) Listening as Cultural Technique   
+Prof. Jason Camlot     
+Class Time: Monday 15:30-17:45 (3:30-5:45pm)    
+Office Hours: Wednesday 13:00-15:00 and by appointment, held on Zoom   
+Class Room: Zoom and Moodle  
 Email: <jason.camlot@concordia.ca>
 
 This seminar will be about listening in different disciplinary and
@@ -54,7 +50,7 @@ formulating readings, interpretations and critical definitions that help
 describe and explain what listening means within the context of "the
 literary."
 
-**Required and "Additional" Readings*:*
+*Required and "Additional" Readings*:*
 
 Well, this semester we've had to go 100% digital. *Required readings*
 can be found via our Moodle site either on **Course Reserve (CR)**, or
@@ -99,33 +95,26 @@ via Moodle (M).
 In addition to these recordings you will need to access and listen to
 the following audiobooks (available via Audible.ca or other vendors):
 
-[*A Christmas Carol* by Charles Dickens, performed by Tim
+* [*A Christmas Carol* by Charles Dickens, performed by Tim
 Curry](https://www.audible.ca/pd/A-Christmas-Carol-A-Signature-Performance-by-Tim-Curry-Audiobook/B071VM47DN?qid=1598632000&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=65c74350-6dfb-47fa-85fd-1459a4762abd&pf_rd_r=5BRFR5DTE23EKX4KWRMK)
 (Audible Audiobook-Unabridged)
-
-[*A Christmas Carol* (version 08 dramatic reading), LibriVox
+* [*A Christmas Carol* (version 08 dramatic reading), LibriVox
 recording](https://librivox.org/a-christmas-carol-dramatic-reading-by-charles-dickens/)
 (LibriVox version, free)
-
-[*Split Tooth, written and narrated by Tanya
-Tagaq*](https://www.audible.ca/pd/Split-Tooth-Audiobook/073523745X?qid=1598632968&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=65c74350-6dfb-47fa-85fd-1459a4762abd&pf_rd_r=QVMJFHRRACT19TWA31V8)
-(Audible Audiobook-Unabridged)
+* [*Split Tooth, written and narrated by Tanya
+Tagaq*](https://www.audible.ca/pd/Split-Tooth-Audiobook/073523745X?qid=1598632968&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=65c74350-6dfb-47fa-85fd-1459a4762abd&pf_rd_r=QVMJFHRRACT19TWA31V8) (Audible Audiobook-Unabridged)
 
 Requirements:
 
 - Guided Listening Practice **20%**
-
 - Critical Annotated Bibliography (***DUE Thursday, December 10^th^*)**:
   **20%**
-
 - Participation in Zoom and chat activities: This is a seminar, which
   means we will be thinking out-loud (and on the virtual page) together.
   In order for a seminar to work you must complete all of the readings
   and listenings, and be prepared to talk about them. For this reason,
   your participation is also calculated into the final grade. **10%.**
-
 - Cylinder Talk (***DUE 5pm, Monday, December 7th***): **20%**
-
 - Final Paper (***DUE Thursday, December 17^th^***): **30%**
 
 ***What the above list of requirements means*:**
@@ -138,12 +127,15 @@ according to a line of thinking, argument, or exegesis-in-progress
 developed by the guide(s), *for a period of approximately 30 (or more)
 minutes*. These are NOT formal papers and *are not to be read*, although
 you may refer to notes. The responsibilities of the listening practice
-guide are, 1. To *do some background research/exploration around the
+guide are, 
+
+1. To *do some background research/exploration around the
 sound recording in question*, and to provide the other listeners in the
 class with some framing context about a) what we're listening to and b)
 info about the artist, work and/or scene of the sound recording's
 production. In short, the guide should provide some set-up context for
-the sound recording. 2. *Conceptualize and articulate some
+the sound recording.
+2. *Conceptualize and articulate some
 "pre-listening"* questions you have about the recording that you think
 will be interesting to share with the rest of us, and to explore
 together in conversation. These questions will guide our listening in
@@ -219,7 +211,7 @@ software) you will need to produce this assignment. Your Cylinder Talk
 (and talk script) must be completed and submitted to me using wetransfer
 \<<https://wetransfer.com/>\> **Monday, December 7th**. We will hold a
 listening session and discussion of all the Cylinder Talk recordings the
-following day, on Tuesday, December 8^th^.
+following day, on Tuesday, December 8th.
 
 *Final Paper (written)*: This may emerge out of materials you began to
 explore in your listening practice and annotated bibliography
@@ -235,9 +227,9 @@ the idea of presenting it to a scholarly audience at a conference.
 You are invited (indeed, expected) to talk to me during office hours
 about your proposed Cylinder Talk and final paper project some time
 during the term, but no later than the week of **November
-30^th\ ^**(WEEK 13). I will post a signup sheet for zoom meetings about
+30th** (WEEK 13). I will post a signup sheet for zoom meetings about
 these final assignments on Moodle a few weeks before. The final paper is
-***DUE Thursday, December 17^th^***.
+**DUE Thursday, December 17th**.
 
 Other relevant points of information:
 
@@ -280,7 +272,7 @@ available to all graduate students.
 (2020-21) page on the Student
 hub](http://www.concordia.ca/students/registration/term-dates-deadlines.html).
 
-***WEEKLY SCHEDULE***
+*WEEKLY SCHEDULE*
 
 **WEEK 1 (SEPT 7): Labour Day, No class meeting. Warm up readings and
 listenings are assigned for your preparatory pleasure (and some will be
@@ -292,26 +284,26 @@ Listening" (CR); **Mara Mills**, "4. Deafness" (CR).
 *Listenings*: Pauline Oliveros, "The Difference Between Hearing and
 Listening" (M); R. Murray Schafer, "Listen" (NFB 2009) (M).
 
-### WEEK 2 (SEPT 14): Introductions; Review of Syllabus; Class Methods; Discussion of Preparatory Required Readings and First Listening Exercises.
+**WEEK 2 (SEPT 14): Introductions**; Review of Syllabus; Class Methods; Discussion of Preparatory Required Readings and First Listening Exercises.
 
 *Readings*: **Jonathan Sterne,** "6. Hearing" (CR); **Tom Rice**, "9.
 Listening" (CR); **Mara Mills**, "4. Deafness" (CR); **Robert
 Browning,** "My Last Duchess" (M); **Jane Austen,** from *Pride and
 Prejudice* -- Chapter 58 (M).
 
-### *Listenings*: Alfred Tennyson, "The Charge of the Light Brigade" (recorded 1898) (M); Lewis Waller, reciting "The Charge of the Light Brigade" (M); Henry Ainley, reciting "The Charge of the Light Brigade" (M).
+*Listenings*: Alfred Tennyson, "The Charge of the Light Brigade" (recorded 1898) (M); Lewis Waller, reciting "The Charge of the Light Brigade" (M); Henry Ainley, reciting "The Charge of the Light Brigade" (M).
 
 *Suggested Additional:* S.T. Coleridge and William Wordsworth, *Lyrical
 Ballads, With a Few Other Poems* (1898) (M); John Stuart Mill, "What is
 Poetry?" (1833, 1859) (M)**.**
 
-### WEEK 3 (SEPT 21): Listening and/as Cultural Technique
+**WEEK 3 (SEPT 21): Listening and/as Cultural Technique**
 
 *Readings*: **Jonathan Sterne,** "Audio Technique and Media"; **Bernhard
 Siegert,** "Cultural Techniques: Or the End of the Intellectual Postwar
 Era in German Media Theory"; **Mara Mills,** "Lessons in Queer Voice".
 
-### *Listenings*: Alvin Lucifer, "I am Sitting in a Room" (Lovely Music Ltd., 1981) (M); Jordan Scott, "Performs at the SpokenWeb Symposium, Vancouver, 20 May 2019".
+*Listenings*: Alvin Lucifer, "I am Sitting in a Room" (Lovely Music Ltd., 1981) (M); Jordan Scott, "Performs at the SpokenWeb Symposium, Vancouver, 20 May 2019".
 
 *Suggested Additional:* Grant Wythoff, ed. *Amodern 9: Techniques and
 Technologies* (2020) (M).
@@ -322,14 +314,14 @@ Technologies* (2020) (M).
 Listening Modes", "8. The Listening Intention"; **Michel Chion**, "2.
 The Three Listening Modes" (CR); **Roland Barthes,** "Listening"
 
-### *Listenings*: The Dial-A-Poem Poets, 1972 (via ubuweb) (M)
+*Listenings*: The Dial-A-Poem Poets, 1972 (via ubuweb) (M)
 
 **WEEK 5 (OCT 5): Relational and Rhetorical Listening**
 
 *Readings*: **Brandon LaBelle**, "Auditory Relations" (CR); **Krista
 Ratcliffe,** "Rhetorical Listening" (CR).
 
-### *Listenings*: Jackson MacLow, "Number of Symmetries" \[21:12-41:13\] at SGWP Series (M); The Four Horsemen, "Two Nights" (1988) (M).
+*Listenings*: Jackson MacLow, "Number of Symmetries" \[21:12-41:13\] at SGWP Series (M); The Four Horsemen, "Two Nights" (1988) (M).
 
 **WEEK 6 (OCT 12): Thanksgiving. No Class Meeting.**
 
@@ -340,9 +332,9 @@ Ratcliffe,** "Rhetorical Listening" (CR).
 Music* (2019) (CR); **Amiri Baraka,** "Three Modes of History and
 Culture"; "Black Art" (M).
 
-### *Listenings*: Amiri Baraka, "Three Modes of History and Culture", from a reading at the Asilomar Negro Writers Conference, Pacific Grove, CA, 1964, Track 14 (at Pennsound); "Black Art"; \"Kongo Bells\"(M); Jack Kerouac, "American Haikus" (M).
+*Listenings*: Amiri Baraka, "Three Modes of History and Culture", from a reading at the Asilomar Negro Writers Conference, Pacific Grove, CA, 1964, Track 14 (at Pennsound); "Black Art"; \"Kongo Bells\"(M); Jack Kerouac, "American Haikus" (M).
 
-### *Suggested Additional*: Jennifer Stoever, *The Sonic Color Line* (2016) (CR).
+*Suggested Additional*: Jennifer Stoever, *The Sonic Color Line* (2016) (CR).
 
 **WEEK 8 (OCT 26): Listening Dimensions**
 
@@ -351,7 +343,7 @@ Imagination"; "19. Listening"; "15. Dramaturgical Voice" from *Listening
 and Voice: Phenomenologies of Sound* (CR); **T.S. Eliot,** *The Waste
 Land* (M).
 
-### *Listenings*: T.S. Eliot, *The Waste Land* \[1946\] (M).
+*Listenings*: T.S. Eliot, *The Waste Land* \[1946\] (M).
 
 **WEEK 9 (NOV 3): "Literary" Listening I: Prosodic Listening**
 
@@ -359,9 +351,9 @@ Land* (M).
 Allen Poe" (CR); "English Prosody" from *Princeton Encyclopedia of
 Poetry and Poetics* (M).
 
-### *Listenings*: Bransby Williams, Edgar Allen Poe, "The Bells" as performed by Basil Rathbone (M); Christian Bok, "Synth Loops", "Mushroom Clouds", "Motorized Razors" from *The Cyborg Opera*; "Ubu Hubbub" (M).
+*Listenings*: Bransby Williams, Edgar Allen Poe, "The Bells" as performed by Basil Rathbone (M); Christian Bok, "Synth Loops", "Mushroom Clouds", "Motorized Razors" from *The Cyborg Opera*; "Ubu Hubbub" (M).
 
-### *Suggested Additional*: Charles Bernstein, "Introduction" to *Close Listening* (CR); Craig Dworkin, *A Handbook of Protocols for Literary Listening* (M).
+*Suggested Additional*: Charles Bernstein, "Introduction" to *Close Listening* (CR); Craig Dworkin, *A Handbook of Protocols for Literary Listening* (M).
 
 **WEEK 10 (NOV 10): Ubiquitous Listening**
 
@@ -370,9 +362,9 @@ Poetry and Poetics* (M).
 (CR); **Kate Crawford,** "Following You: Disciplines of Listening in
 Social Media" (CR).
 
-### *Listenings*: Rupi Kaur, selected videoed performances from *Milk and Honey* and other works (M); Dylan Thomas, "Do Not Go Gentle Into That Goodnight" (M); Robert Frost, "The Road Not Taken".
+*Listenings*: Rupi Kaur, selected videoed performances from *Milk and Honey* and other works (M); Dylan Thomas, "Do Not Go Gentle Into That Goodnight" (M); Robert Frost, "The Road Not Taken".
 
-### *Suggested Additional*: T.W. Adorno, "On Jazz" (M).
+*Suggested Additional*: T.W. Adorno, "On Jazz" (M).
 
 **WEEK 11 (NOV 17): Listening with the Body**
 
@@ -380,9 +372,9 @@ Social Media" (CR).
 Hearing" from *Thresholds of Listening: Sound, Technics, Space* (2015)
 (CR); **Deborah Kapchan,** "3. Body" from *Keywords in Sound* (CR).
 
-### *Listenings*: Laurie Anderson, "Late Show" from the album *Home of the Brave* (1984) (M); Laurie Anderson performs "Walk the Dog" on Late Night with David Letterman (8 May 1984) (M).
+*Listenings*: Laurie Anderson, "Late Show" from the album *Home of the Brave* (1984) (M); Laurie Anderson performs "Walk the Dog" on Late Night with David Letterman (8 May 1984) (M).
 
-### *Suggested Additional*: Stephen Connor, *Dumbstruck: A Cultural History of Ventriloquism* (CR).
+*Suggested Additional*: Stephen Connor, *Dumbstruck: A Cultural History of Ventriloquism* (CR).
 
 **WEEK 12 (NOV 24): Listening and Sound Pedagogy**
 
@@ -391,7 +383,7 @@ Hearing" from *Thresholds of Listening: Sound, Technics, Space* (2015)
 (51-67) from *Sounding Composition: Multimodal Pedagogies for Embodied
 Listening* (2018) (CR).
 
-### *Listenings*: Hannah MacGregor, SpokenWeb Podcast, Episode 7, "The Voice is Intact: Finding Gwendolyn MacEwen in the Archive" (M); Gwendolyn MacEwen, "I Should have Predicted" (00:07:18 -- 00:09:32), and full reading at Sir George Williams poetry Series. 18 November 1966 (M).
+*Listenings*: Hannah MacGregor, SpokenWeb Podcast, Episode 7, "The Voice is Intact: Finding Gwendolyn MacEwen in the Archive" (M); Gwendolyn MacEwen, "I Should have Predicted" (00:07:18 -- 00:09:32), and full reading at Sir George Williams poetry Series. 18 November 1966 (M).
 
 **WEEK 13 (NOV 30): Hungry Listening**
 
@@ -424,13 +416,13 @@ Camlot**, "Charles Dickens in Three Minutes or Less: Early Phonographic
 Fiction" from *Phonopoetics: The Making of Early Literary Recordings*
 (CR).
 
-### *Listenings*: William Sterling Battis, "Micawber" from Charles Dickens' *David Copperfield*; Bransby Williams, "A Christmas Carol in Prose"; Bransby Williams, "The Awakening of Scrooge"; Bransby Williams, A Christmas Carol---Scrooge---After the Dream" (CR); Charles Dickens*, A Christmas Carol, narrated by Tim Curry* (Audible Audiobook) and/or, Charles Dickens, *A Christmas Carol* (LibriVox multivoice narration).
+*Listenings*: William Sterling Battis, "Micawber" from Charles Dickens' *David Copperfield*; Bransby Williams, "A Christmas Carol in Prose"; Bransby Williams, "The Awakening of Scrooge"; Bransby Williams, A Christmas Carol---Scrooge---After the Dream" (CR); Charles Dickens*, A Christmas Carol, narrated by Tim Curry* (Audible Audiobook) and/or, Charles Dickens, *A Christmas Carol* (LibriVox multivoice narration).
 
 *Additional:* Matthew Rubery, *The Untold Story of the Talking Book*
 (print only ☹)
 
-**WEEK 14B (Tuesday, DEC 8): Makeup day for October 12^th^.**
+**WEEK 14B (Tuesday, DEC 8): Makeup day for October 12th.**
 
 Listening and discussion of Cylinder Talks.
 
-***FINAL PAPERS DUE (via email) by 5PM, Thursday, December 17^th^***
+**FINAL PAPERS DUE (via email) by 5PM, Thursday, December 17th**
