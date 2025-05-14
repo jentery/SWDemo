@@ -13,11 +13,13 @@ primary_discipline: Literary Studies
 url: .nan
 
 ---
-ENGLISH 509 REMEDIATING THE ARCHIVE
 
-PODCAST ASSIGNMENT
+*by Jason Wiens* 
 
-Due: Friday January 7 Value: 20% of your final grade
+ENGLISH 509 REMEDIATING THE ARCHIVE   
+PODCAST ASSIGNMENT   
+Due: Friday January 7   
+Value: 20% of your final grade  
 
 In groups of three, you will record a podcast during Block Week that
 engages in some way with archival literary audio. Each podcast will be
@@ -30,17 +32,15 @@ may use any program you wish to create the podcast.
 There are a number of podcast formats you could base your podcast on.
 The podcast could take the form of a discussion of a particular audio
 recording of a literary performance, following on the model of the
-PoemTalk podcast at PennSound:
-<http://writing.upenn.edu/pennsound/podcasts.php>
+[PoemTalk podcast](http://writing.upenn.edu/pennsound/podcasts.php) at PennSound.
 
-You could also follow the format of the SpokenWeb podcast series:
-<https://spokenweb.ca/podcast/episodes/>
+You could also follow the format of the [SpokenWeb podcast](https://spokenweb.ca/podcast/episodes/) series:
+
 
 Other possibilities could involve an interview with a poet in which you
 discuss a recording of their work, or a discussion of a particular event
-or reading series (such as the reading series at Sir George Williams
-University between 1965 and 1974:
-<https://montreal.spokenweb.ca/sgw-poetry-readings/>.
+or reading series (such as the [reading series at Sir George Williams
+University](https://montreal.spokenweb.ca/sgw-poetry-readings/) between 1965 and 1974.
 
 You are encouraged to work with literary audio that fits within the
 parameters of our course, i.e. contemporary Canadian / Indigenous /
