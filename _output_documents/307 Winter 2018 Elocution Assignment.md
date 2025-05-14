@@ -13,11 +13,14 @@ primary_discipline: Literary Studies
 url: .nan
 
 ---
-ENGLISH 307.01 LITERATURE FROM 1700 TO THE PRESENT
 
+*by Jason Wiens* 
+
+ENGLISH 307.01 LITERATURE FROM 1700 TO THE PRESENT
 INTERPRETIVE E-LOCUTION ASSIGNMENT
 
-Value: 20% of your final grade Due: Varies (see course schedule)
+Value: 20% of your final grade   
+Due: Varies (see course schedule)
 
 For this assignment, students will sign up for one of the poems, or part
 of one of the poems, that we are studying this semester. Students will
@@ -44,24 +47,19 @@ act of interpretation, and this essay will ask you to make explicit the
 interpretive decisions you made in your reading of the poem. Some
 elements to consider include:
 
--volume, pitch, and frequency: did you adjust these at any points in the
+* volume, pitch, and frequency: did you adjust these at any points in the
 poem? Why or why not?
-
--multiple voices: is there more than one "speaker" in your poem? Did you
+* multiple voices: is there more than one "speaker" in your poem? Did you
 adjust your voice to reflect these different speakers? Why or why not?
-
--sound patterns: did your reading reveal or emphasize sound patterns
+* sound patterns: did your reading reveal or emphasize sound patterns
 such as rhyme, alliteration, or assonance, or perhaps reveal
 significance to these sound patterns?
-
--spacing: in some poems, especially contemporary ones, space on the page
+* spacing: in some poems, especially contemporary ones, space on the page
 is manipulated in significant ways. How did you account for this in your
 reading?
-
--line breaks, enjambment, and caesurae: did your reading reveal
+* line breaks, enjambment, and caesurae: did your reading reveal
 significance to these elements?
-
--punctuation and capitalization: in poems that use unorthodox
+* punctuation and capitalization: in poems that use unorthodox
 punctuation and / or capitalization, was this reflected in your reading
 of the poem? Why or why not?
 
