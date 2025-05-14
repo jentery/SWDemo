@@ -34,7 +34,7 @@ The podcast could take the form of a discussion of a particular audio
 recording of a literary performance, following on the model of the
 [PoemTalk podcast](http://writing.upenn.edu/pennsound/podcasts.php) at PennSound.
 
-You could also follow the format of the [SpokenWeb podcast](https://spokenweb.ca/podcast/episodes/) series:
+You could also follow the format of the [SpokenWeb podcast](https://spokenweb.ca/podcast/episodes/) series.
 
 
 Other possibilities could involve an interview with a poet in which you
