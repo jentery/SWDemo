@@ -26,12 +26,13 @@ Project editor: Jentery Sayers (UVic)
 Project communications: Joel Wheeler (UVic)  
 SpokenWeb director and PI: Jason Camlot (Concordia)   
 
-## Roadmap 
+## Roadmap (as of 13 May 2025) 
 
 * Add more files to the collection.
 * Render each file available in PDF for downloading and printing.
 * Render the entire collection available in ZIP for downloading.
-* Identify and apply the appropriate license (e.g., [CC BY](https://creativecommons.org/licenses/by/4.0/) or [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)).  
+* Identify and apply the appropriate license (e.g., [CC BY](https://creativecommons.org/licenses/by/4.0/) or [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)).
+* Determine whether to develop this proof of concept into a publication. 
 
 ## Contribute 
 
