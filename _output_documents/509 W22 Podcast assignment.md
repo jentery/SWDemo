@@ -40,7 +40,7 @@ You could also follow the format of the [SpokenWeb podcast](https://spokenweb.ca
 Other possibilities could involve an interview with a poet in which you
 discuss a recording of their work, or a discussion of a particular event
 or reading series (such as the [reading series at Sir George Williams
-University](https://montreal.spokenweb.ca/sgw-poetry-readings/) between 1965 and 1974.
+University](https://montreal.spokenweb.ca/sgw-poetry-readings/) between 1965 and 1974).
 
 You are encouraged to work with literary audio that fits within the
 parameters of our course, i.e. contemporary Canadian / Indigenous /
