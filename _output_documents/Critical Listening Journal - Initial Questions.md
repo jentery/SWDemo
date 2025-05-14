@@ -26,7 +26,7 @@ implicit in the reading of the poem?
 theories attributed to the poet (for example, is there an elocutionary
 theory underlying the reading of "The Bells" that we listened to)?
 * What does "the literary" sound like?
-* * What are the audile techniques (listening methods) of literary
+* What are the audile techniques (listening methods) of literary
 studies?
 * Are spoken word performances automatically dialogical, or explicable
 in terms of Goffman's concept of "footing" (in a Romantic sense, then,
@@ -39,8 +39,8 @@ alter our interpretation of it?
 * What methods of notation are most effective for describing a literary
 performance?
 * What are the formal scales of interpretation that inform
-audiotexts---thinking of Schafer's ideas of sound objects, sound events,
-soundscapes.
+audiotexts? (thinking of Schafer's ideas of sound objects, sound events,
+soundscapes)
 * What are the important differences between the performed poem, and
 the poem on the page, as regards a critical interpretation?
 * How is the written work altered in the performance?
@@ -71,7 +71,7 @@ silently (for instance, what do we simply assume when we are listening,
 that we can\'t when we are reading, and vice versa)?
 * When listening to a performed literary work, do we still supply voice
 (shape it to our own ideas and inner hearings) or are we simply subject
-to the voice we hear.
+to the voice we hear?
 * How does spoken performance inform our reception of a literary work?
 * How do we explain the absence of a critical heritage concerning
 literary recordings?
@@ -85,7 +85,7 @@ between media affordances and generic ones?
 * How are temporal and rhythmic aspects of a work different in a
 recording than in a printed work?
 * What were the reasons for producing the recording?
-* * How does a literary work stay with us after listening as opposed to
+* How does a literary work stay with us after listening as opposed to
 reading silently?
 * How is our conceptual (critical) and emotional relationship to the
 work different in reading it silently as compared to hearing it read out
