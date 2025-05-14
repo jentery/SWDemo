@@ -13,11 +13,8 @@ primary_discipline: Sound Studies
 url: .nan
 
 ---
-FIRST THOUGHTS ON TIMBRE
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+*by Jason Camlot* 
 
 **timbre, n.3**
 
@@ -46,9 +43,7 @@ transients, long-term spectra, those dynamic qualities which a musician
 would term \"texture,\" and so on.
 
 **Stephen McAdams and Albert Bregman, "Hearing Musical Streams,"
-Computer Music Journal, Vol. 3,**
-
-> **No. 4 (Dec., 1979), p. 30.**
+Computer Music Journal, Vol. 3,** **No. 4 (Dec., 1979), p. 30.**
 
 The perception of timbre and the identification of an event can come
 about only from the patterning of acoustic energy. The acoustic
@@ -150,7 +145,4 @@ still live among us.
 **Marklen Knurbaev, *The Style and Timbre of English* Speech *and
 Literature*, pp. 9-10.**
 
-See also:
-
-"Definitions of Timbre" compiled by G. Sandell.
-<http://acousticslab.org/psychoacoustics/PMFiles/Timbre.htm>
+See also: ["Definitions of Timbre"](https://acousticslab.org/psychoacoustics/PMFiles/Timbre.htm) compiled by G. Sandell.
