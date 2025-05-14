@@ -50,7 +50,7 @@ formulating readings, interpretations and critical definitions that help
 describe and explain what listening means within the context of "the
 literary."
 
-*Required and "Additional" Readings*:*
+*Required and "Additional" Readings*:
 
 Well, this semester we've had to go 100% digital. *Required readings*
 can be found via our Moodle site either on **Course Reserve (CR)**, or
@@ -83,13 +83,12 @@ Tagaq's *Split Tooth*, you may also wish to purchase the paperback:
 Extremely useful books that are on course reserve in their entirety in
 e-book editions are:
 
-**Jonathan Sterne,** ed. *The Sound Studies Reader* (Routledge 2012)
+* **Jonathan Sterne,** ed. *The Sound Studies Reader* (Routledge 2012)
 **CR**
-
-**Novak, David and Matt Sakakeeny,** ed., *keywords in sound* (Duke
+* **Novak, David and Matt Sakakeeny,** ed., *keywords in sound* (Duke
 2015) **CR**
 
-**Sound Recordings*:* Audio files and links to recordings are available
+*Sound Recordings*: Audio files and links to recordings are available
 via Moodle (M).
 
 In addition to these recordings you will need to access and listen to
@@ -106,18 +105,17 @@ Tagaq*](https://www.audible.ca/pd/Split-Tooth-Audiobook/073523745X?qid=159863296
 
 Requirements:
 
-- Guided Listening Practice **20%**
-- Critical Annotated Bibliography (***DUE Thursday, December 10^th^*)**:
-  **20%**
+- Guided Listening Practice: 20%
+- Critical Annotated Bibliography (DUE Thursday, December 10th): 20%
 - Participation in Zoom and chat activities: This is a seminar, which
   means we will be thinking out-loud (and on the virtual page) together.
   In order for a seminar to work you must complete all of the readings
   and listenings, and be prepared to talk about them. For this reason,
-  your participation is also calculated into the final grade. **10%.**
-- Cylinder Talk (***DUE 5pm, Monday, December 7th***): **20%**
-- Final Paper (***DUE Thursday, December 17^th^***): **30%**
+  your participation is also calculated into the final grade: 10%
+- Cylinder Talk (DUE 5pm, Monday, December 7th): 20%
+- Final Paper (DUE Thursday, December 17th): 30%
 
-***What the above list of requirements means*:**
+**What the above list of requirements means**:
 
 *Guided Listening Practice:* For most classes one or two students will
 be designated "listening practice guides" and will lead discussion in
@@ -165,13 +163,18 @@ closely, so that you can produce a bibliographical annotation on each of
 those selected articles, to be submitted at the end of the term as your
 Critical Annotated Bibliography assignment. Each annotation should be
 approximately 250 words (one double spaced page) in length, and should
-accomplish the following: 1. Summarize the subject, argument and
-methodology used in the article you are annotating; 2. Select and cite
+accomplish the following: 
+
+1. Summarize the subject, argument and
+methodology used in the article you are annotating;
+2. Select and cite
 one or two key passages that resonate with you and that you feel have
-given you something to respond to or say in your own words; and 3.
-Explain how that passage (or the article as a whole) can be
+given you something to respond to or say in your own words; and
+3. Explain how that passage (or the article as a whole) can be
 used/mobilized in your own critical thinking about listening, sound,
-and/or a particular literary or cultural artifact. In other words, don't
+and/or a particular literary or cultural artifact.
+
+In other words, don't
 *just* reiterate what the article is about, but demonstrate how you feel
 it us useful to you, and explain how you might write against, or build
 upon, the ideas you are interested in addressing from the article. NOTE:
@@ -209,7 +212,7 @@ effective in this audio format. We will discuss this assignment at some
 length, in class, including some of the basic tools (recorder and
 software) you will need to produce this assignment. Your Cylinder Talk
 (and talk script) must be completed and submitted to me using wetransfer
-\<<https://wetransfer.com/>\> **Monday, December 7th**. We will hold a
+\<<https://wetransfer.com/>\> Monday, December 7th: We will hold a
 listening session and discussion of all the Cylinder Talk recordings the
 following day, on Tuesday, December 8th.
 
@@ -226,10 +229,10 @@ the idea of presenting it to a scholarly audience at a conference.
 
 You are invited (indeed, expected) to talk to me during office hours
 about your proposed Cylinder Talk and final paper project some time
-during the term, but no later than the week of **November
-30th** (WEEK 13). I will post a signup sheet for zoom meetings about
+during the term, but no later than the week of November
+30th (WEEK 13). I will post a signup sheet for zoom meetings about
 these final assignments on Moodle a few weeks before. The final paper is
-**DUE Thursday, December 17th**.
+DUE Thursday, December 17th.
 
 Other relevant points of information:
 
