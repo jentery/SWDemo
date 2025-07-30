@@ -118,7 +118,7 @@ and 2) offer students a structure for multimodal composing methods via
 the AVAnnotate software.
 
 This lesson plan is based around an [*example AVAnnotate
-project*](https://hipstas.github.io/spokenweb-pedagogy-sample/) that we
+project*](https://trentwintermeier.github.io/spokenweb-pedagogy-collection-sample/) that we
 developed to showcase different methods of annotation that teachers and
 students may be interested in utilizing and applying. The sample
 AVAnnotate project we share here was developed using the 2022 SpokenWeb
@@ -160,7 +160,7 @@ Students will...
   same individual object.
 
 - Discuss the [*AVAnnotate
-  templates*](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
+  templates*](https://avannotate.github.io/documentation/pages/templates/)
   students will be using during this lesson
 
 - Questions students should be able to answer before annotating (Step
@@ -196,9 +196,9 @@ Students will...
 
 - Give groups \~30 minutes to develop their new annotations using the
   [*AVAnnotate
-  templates*](https://docs.google.com/document/d/1lulJQN6HhVXKM73cX32c7r-sZDsPfVC2haFFEbTx4vY/edit?usp=sharing)
+  templates*](https://avannotate.github.io/documentation/pages/templates/)
 
-- Refer students to [*AVAnnotate\'s documentation*](https://hipstas.github.io/ava_docs/docs/HowtoUse.html)
+- Refer students to [*AVAnnotate\'s documentation*](https://avannotate.github.io/documentation/)
   for guidance on how to use basic AVAnnotate functions, including
   tags, time stamps and annotations
 
